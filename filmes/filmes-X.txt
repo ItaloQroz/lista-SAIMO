@@ -1,6 +1,6 @@
 X Men Apocalipse 4K (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714073.mp4
 X Men Dias De Um Futuro Esquecido 4K (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714016.mp4
-X Men Fenix Negra 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59341.mp4
+X Men Fenix Negra 4K [HDR]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59341.mp4
 X Men O Confronto Final 4K (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713954.mp4
 X+Y (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/142111.mkv
 X-Men (2000)	dub=http://31.43.191.125:8080/movie/restream/restream/136822.mkv,http://64.31.23.207:80/movie/96795792/50165825/5714128.mp4
@@ -18,15 +18,15 @@ X-Men: O Filme (2000)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-092839208
 X-Men: Primeira Classe (2011)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/230450.mp4,http://64.31.23.207:80/movie/96795792/50165825/5714453.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59374.mp4,http://64.31.23.207:80/movie/96795792/50165825/5713894.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761803.mp4
 X-Men: The Last Stand (2006)	dub=http://31.43.191.125:8080/movie/restream/restream/136828.mkv
 X2 (2003)	dub=http://31.43.191.125:8080/movie/restream/restream/136829.mkv
-X: A Marca da Morte (2022)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59349.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759142.mp4,http://64.31.23.207:80/movie/96795792/50165825/5706478.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96208.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5706505.mp4
+X: A Marca da Morte (2022)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59349.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759142.mp4,http://64.31.23.207:80/movie/96795792/50165825/5706478.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96208.mp4,http://64.31.23.207:80/movie/96795792/50165825/5706505.mp4
 X: A Marca da Morte 4K (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5705943.mp4
 Xamã - O Iluminado (2019)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/6768.mp4
-Xamã: O Exorcista Pagão (2025)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768917.mp4,https://embedplayer2.xyz/cdn/hls/7e85cf09d3c1bac2d6cb3b04fbc4cea2/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96236.mp4,http://64.31.23.207:80/movie/96795792/50165825/5688907.mp4	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/599043.mp4,http://64.31.23.207:80/movie/96795792/50165825/5688932.mp4
+Xamã: O Exorcista Pagão (2025)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768917.mp4,https://embedplayer2.xyz/cdn/hls/7e85cf09d3c1bac2d6cb3b04fbc4cea2/master.txt,http://64.31.23.207:80/movie/96795792/50165825/5688907.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96236.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/599043.mp4,http://64.31.23.207:80/movie/96795792/50165825/5688932.mp4
 Xande de Pilares no Rock in Rio (2024)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/515654.mp4
 XENO Amizade do Além (2025)	dub=https://embedplayer2.xyz/cdn/hls/6ad1d933a18a52d1bb9964ec78e034cc/master.txt
 Xenophobia (2019)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1881403.mp4
 Xeque Mate (1983)	dub=http://64.31.23.207:80/movie/96795792/50165825/5701342.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5701297.mp4
-Xeque Mate (2024)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8235.mp4,https://embedplayer2.xyz/cdn/hls/0d7e7f555a23a173d8b040cc17bdfbd8/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59379.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96214.mp4,http://64.31.23.207:80/movie/96795792/50165825/5699716.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/315706.mp4
+Xeque Mate (2024)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8235.mp4,https://embedplayer2.xyz/cdn/hls/0d7e7f555a23a173d8b040cc17bdfbd8/master.txt,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59379.mp4,http://64.31.23.207:80/movie/96795792/50165825/5699716.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/315706.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96214.mp4
 Xeque-Mate (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712666.mp4
 Xeque-Mate (2020)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/1962.mp4
 Xeque-Mate: O Jogo da Vida (2024)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750805.mp4,http://64.31.23.207:80/movie/96795792/50165825/5720416.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/2383754.mp4
