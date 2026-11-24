@@ -2,108 +2,112 @@ Q: No Olho Da Tempestade		0	6
 Quadra de Ouro	2025	0	6
 Quadro Negro - Kara Tahta		0	20
 Quando As Luzes Se Apagam		0	6
-Quando Chama o Coração		0	297
+Quando Chama o Coração		0	149
+Quando Chama o Coração ( Temporada 09 e 10 LEGENDADA)		0	148
 Quando Eu Encontrar a Lua		0	6
 Quando Me Apaixono	2010	0	182
-Quando Meu Amor Floresce LEG	2020	0	16
-Quando Meus Gêmeos Encontraram Seu Pai		0	1
-Quando Ninguém Nos Vê	2025	0	9
-Quando Ninguem Ve	2024	0	8
-Quando o Amor Chega Tarde		0	1
-Quando o Amor Se Foi		0	1
-Quando o Amor se Torna em Vão		0	1
-Quando o Rei Perde - Kral Kaybederse		0	30
-Quando o Telefone Toca	2024	0	12
-Quando os Tubarões Atacam 360°		0	6
-Quando Se Tem Mais Uma Chance		0	32
-Quando Se Tem Mais uma Chance 2025 LEG		0	32
-Quando Um Homem se Apaixona		0	20
-Quando Voce For Eu		0	26
-Quando Voo em Sua Direção LEG	2023	0	24
-Quantico		0	57
-Quanto Vale Esse Doce?		0	10
-Quantum Leap: Contratempos		0	31
-Quarentões em Crise	2025	0	6
-Quarterback	2023	0	15
-Quarto 309 - Numero 309 LEG	2016	0	65
-Quarto de Casal - Çift Kişilik Oda		0	8
-Quase Feliz		0	18
-Quatro Casamentos e um Funeral		0	10
-Quatro por Quatro		1	367
-Que a Deusa te Abençoe da Morte	2025	1	13
-Que a Justiça Seja Feita		1	6
-Que Bicho te Mordeu?		1	12
-Que Chegue a Você: Kimi ni Todoke	2023	1	12
-Que Cilada!		1	12
-Que Falta Você Me Faz	2025	1	5
-Que Historia E Essa Porchat		1	260
-Que Legal Scooby Doo		1	50
-Que Mundo e Esse		1	45
-Que Pobres Tao Ricos - Que Pobres Tan Ricos		1	167
-Que Rei Sou Eu		1	185
-Que Seja Doce	2015	2	419
-Quebra Cabeca Criminal		2	16
-Quebra de Juramento	2026	2	3
-Quebrando o acordo com o Bad Boy do Hóquei		2	1
-Quebrando o Gelo		2	10
-Queen Loretta	2022	2	4
-Queen of Darkness	2025	2	24
-Queen of the Universe		2	6
-Queen Sono	2020	2	6
-Queen Stars Brasil		2	8
-Queenmaker	2023	2	11
-Queens		2	13
-Queer as Folk		2	8
-Queer as Folk Os Assumidos	2022	2	8
-Queer Eye		2	80
-Queer Eye: Brasil	2022	2	6
-Queer for Fear: The History of Queer Horror (L)		2	4
-Quem Ama Cuida	2026	2	147
-Quem Casa Quer Casa	2021	2	10
-Quem Contratou o Assassino		2	6
-Quem é a Loba?		2	12
-Quem é Erin Carter?	2023	2	7
-Quem e o assassino	2024	2	6
-Quem E Que Manda		2	24
-Quem e Sakamoto		2	13
-Quem é Sakamoto? 2016 LEG		3	13
-Quem e voce Alaska		3	8
-Quem Era Ela		3	4
-Quem Financiou Hitler?		3	4
-Quem Matou Malcolm X?		3	6
-Quem Matou María Marta?		3	4
-Quem Matou Nossa Filha		3	1
-Quem Matou Sara?	2021	3	25
-Quem Segura a Minha Família?	2021	3	102
-Quem Somos Nós Edição de Colecionador		3	25
-Quem Somos Nós? Uma nova Evolução		3	25
-Quem Vai Comprar Minha Casa?	2022	3	6
-Quem Vê Casa...	2024	3	8
-Quem Viu o Pavão Dançando na Floresta? 2025 LEG		3	9
-Quer Brincar de Gracie Darling?	2025	3	6
-Queremos o Divórcio!	2023	3	9
-Queria que Você Fosse Minha Esposa		3	1
-Querida Enemiga		3	98
-Querida Mae - Canım Annem		3	24
-Querida Mamãe		3	5
-Querida Sa chan		3	12
-Querido Edward	2023	3	10
-Querido Hongrang	2025	3	11
-Querido Inimigo		3	24
-Querido Passado - Sevgili Geçmiş		3	8
-Querido X Que Nao Me Ama		3	10
-Queridos Amigos		3	25
-Queridos X		3	12
-Queridos X Leg	2025	3	12
-Quero Ter Um Milhao de Amigos	2025	3	13
-Questao de Tempo	2018	3	16
-Questão de Tempo Leg	2018	3	16
-Quiero Amarte	2013	3	171
-Quilos Mortais		3	168
-Quilos Mortais Adolescentes	2024	3	5
-Quilos Mortais Brasil	2024	3	12
-Quilos Mortais Italia	2018	3	21
-Quilos Mortais Mexico	2024	3	7
-Quilos Mortais: Como Eles Estão Agora?		3	47
-QUINTUPLICOU		3	6
-Quiz		3	3
+Quando Me Apaixono [MEX]		1	182
+Quando Meu Amor Floresce	2020	1	16
+Quando Meus Gêmeos Encontraram Seu Pai		1	1
+Quando Ninguém Nos Vê	2025	1	9
+Quando Ninguem Ve	2024	1	8
+Quando o Amor Chega Tarde		1	1
+Quando o Amor Se Foi		1	1
+Quando o Amor se Torna em Vão		1	1
+Quando o Rei Perde - Kral Kaybederse		1	30
+Quando o Telefone Toca	2024	1	12
+Quando os Tubarões Atacam 360°		1	6
+Quando Se Tem Mais Uma Chance	2025	1	32
+Quando Um Homem se Apaixona		1	20
+Quando Voce For Eu		1	26
+Quando Voo em Sua Direção	2023	1	24
+Quantico		1	57
+Quanto Mais Vida, Melhor!		1	161
+Quanto Vale Esse Doce		1	10
+Quantum Leap: Contratempos		2	31
+Quarentões em Crise	2025	2	6
+Quarterback	2023	2	15
+Quarto de Casal - Çift Kişilik Oda		2	8
+Quase Feliz		2	18
+Quatro Casamentos e um Funeral		2	10
+Quatro Mãos, Duas Sonatas	2026	2	12
+Quatro por Quatro		2	367
+Que a Deusa te Abençoe da Morte	2025	2	13
+Que a Justiça Seja Feita		2	6
+Que Bicho te Mordeu?		2	12
+Que Chegue a Você: Kimi ni Todoke	2023	2	12
+Que Cilada!		3	12
+Que Falta Você Me Faz	2025	3	5
+Que História é Essa, Porchat?		3	283
+Que Legal Scooby Doo		3	50
+Que Mundo e Esse		3	45
+Que Pobres Tao Ricos - Que Pobres Tan Ricos [MEX]		3	167
+Que Rei Sou Eu		4	185
+Que Seja Doce	2015	5	419
+Quebra Cabeca Criminal		6	16
+Quebra de Juramento	2026	6	3
+Quebrando o acordo com o Bad Boy do Hóquei		6	1
+Quebrando o Gelo		6	10
+Queen Loretta	2022	6	4
+Queen of Darkness	2025	6	24
+Queen of the Universe		6	6
+Queen Sono	2020	6	6
+Queen Stars Brasil		6	8
+Queenmaker	2023	6	11
+Queens		6	13
+Queer as Folk		6	8
+Queer as Folk Os Assumidos	2022	6	8
+Queer Eye		6	80
+Queer Eye: Brasil	2022	6	6
+Queer for Fear: The History of Queer Horror		6	4
+Quem Ama Cuida	2026	6	147
+Quem Casa Quer Casa	2021	6	10
+Quem Contratou o Assassino		6	6
+Quem é a Loba?		6	12
+Quem é Erin Carter?	2023	6	7
+Quem é o assassino?	2024	6	6
+Quem E Que Manda		6	24
+Quem é Sakamoto?	2016	6	13
+Quem é Você, Alaska?	2019	6	8
+Quem Era Ela		6	4
+Quem Financiou Hitler?		6	4
+Quem Matou Malcolm X?		6	6
+Quem Matou María Marta?		6	4
+Quem Matou Nossa Filha		6	1
+Quem Matou Sara	2021	6	25
+Quem Segura a Minha Família?	2021	7	102
+Quem Somos Nós Edição de Colecionador		7	25
+Quem Somos Nós? Uma nova Evolução		7	25
+Quem Vai Comprar Minha Casa?	2022	7	6
+Quem Vê Casa	2024	7	8
+Quem Viu o Pavão Dançando na Floresta?	2025	7	9
+Quer Brincar de Gracie Darling?	2025	7	6
+Queremos o Divórcio!	2023	7	9
+Queria que Você Fosse Minha Esposa		7	1
+Querida Enemiga		7	98
+Querida Mae - Canım Annem		7	24
+Querida Mamãe		7	5
+Querida Sa chan		7	12
+Querida, por favor, não case com ele		7	1
+Querido Edward	2023	7	10
+Querido Hongrang	2025	7	11
+Querido Inimigo		7	24
+Querido Marido, Apague Meu Número		7	1
+Querido Passado - Sevgili Geçmiş		7	8
+Querido X Que Nao Me Ama		7	10
+Querido, apenas diga sim!		7	1
+Querido, por favor, volte para casa		7	1
+Querido, você merecia		7	1
+Queridos Amigos		7	25
+Queridos X	2025	7	12
+Quero Ter Um Milhao de Amigos	2025	7	13
+Questão de Tempo	2018	7	32
+Quiero Amarte	2013	7	171
+Quilos Mortais		8	168
+Quilos Mortais Brasil	2024	8	12
+Quilos Mortais Italia	2018	8	21
+Quilos Mortais México	2024	8	7
+Quilos Mortais: Adolescentes	2024	8	5
+Quilos Mortais: Como Eles Estão Agora?		8	47
+QUINTUPLICOU		8	6
+Quiz		8	3

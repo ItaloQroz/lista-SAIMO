@@ -1,8 +1,3 @@
- Yes (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/138672.mkv
- YET LOVED BY HIM	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302151.mp4
- You Won't Believe It	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/143225.mp4
- You! (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/142552.mkv
- You’re Such a Prick (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/142174.mkv
 Y el rugby cambió el mundo (2023)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/139510.mp4
 Y2K (2024)	dub=https://embedplayer2.xyz/cdn/hls/d8622f05b9e1eb0a76dc65e844c00e78/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5696896.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756194.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96219.mp4
 Y2K: Bomba-Relógio (2023)	dub=https://embedplayer2.xyz/cdn/hls/7fb75098a132e4a1dfdd60fc9831cacc/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5701565.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754745.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96230.mp4
@@ -11,6 +6,7 @@ Ya no quedan junglas (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5
 Yaksha: Operação Implacável (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708497.mp4,http://64.31.23.207:80/movie/96795792/50165825/5708459.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760637.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/10566.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8243.mp4,https://embedplayer2.xyz/cdn/hls/102761ac73d74aa0adcfbcb3d8b396d4/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5708519.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96242.mp4
 Yaksha: Ruthless Operations (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/132651.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/144945.mp4
 Yakuza Princess (2021)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/102475.mp4
+Yalla Aa'belkon: Single, Married, Divorced (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/142835.mkv,http://31.43.191.125:8080/movie/restream/restream/142836.mkv
 Yamada-kun to 7-nin no Majo (OVA)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766434.mp4
 Yamato (2005)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/137787.mp4
 Yannick (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5700531.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756100.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96243.mp4
@@ -31,11 +27,15 @@ Yentl (1983)	dub=http://31.43.191.125:8080/movie/restream/restream/143073.mkv
 Yes Day (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/133693.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/102089.mp4
 Yes Man (2008)	dub=http://31.43.191.125:8080/movie/restream/restream/143074.mkv
 Yes Mr Knight	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302990.mp4
+Yes, Chef! Christmas (2023)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/78496.mp4
+Yes, God, Yes (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/138672.mkv
 Yesterday (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716967.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768599.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/230572.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20951.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5717939.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96264.mp4
 Yeti: Curse of the Snow Demon (2008)	dub=http://31.43.191.125:8080/movie/restream/restream/143599.mkv
 Yiya Murano: Morte na Hora do Chá (2026)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720397.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/621353.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/2360832.mp4	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/621355.mp4
 Yiya Murano: Muerte a la hora del té (2026)	dub=http://64.31.23.207:80/movie/96795792/50165825/5684775.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751273.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253398.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254856.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5684802.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253689.mp4
 Yo Yo Honey Singh: Famous (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/133271.mkv	leg=http://64.31.23.207:80/movie/96795792/50165825/5697060.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755212.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/534898.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96253.mp4
+Yo, 'El Vaquilla' (1985)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/134519.mp4
+Yo-kai Watch: The Movie - The Great Adventure of the Flying Whale & the Double World, Meow! (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/139445.mkv
 Yoga Teacher Killer: The Kaitlin Armstrong Story (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/137271.mkv,https://embedplayer2.xyz/cdn/hls/06bd9d9977277464f9c6479c9c580c6a/master.txt	leg=https://embedplayer2.xyz/cdn/hls/b542d473ddadc7a3409cc532a1f2ac45/master.txt
 Yoh! Bestie (2026)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/44800.mp4
 Yolo (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/83970.mp4
@@ -73,9 +73,12 @@ You Will Die in 6 Hours (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a
 You Won't Be Alone (2022)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/103175.mp4
 You'll Never Find Me (2023)	dub=https://embedplayer2.xyz/cdn/hls/e721cb7cf69f851e30cdf5d97a98fa02/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96281.mp4
 You'll Never Find Me (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5700968.mp4
+You're a Good Sport, Charlie Brown (1975)	dub=http://64.31.23.207:80/movie/96795792/50165825/5694022.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5694049.mp4
 You're Cordially Invited (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134617.mkv
+You're Not Normal, Either! (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/142588.mkv
 You've Been Trumped Too (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/138520.mkv
 You've Got This (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/132902.mkv
+You, Always (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5679733.mp4
 Young & Beautiful (2013)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/140571.mp4
 Young Aunt (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/138252.mkv
 Young Black Stallion (2003)	dub=http://31.43.191.125:8080/movie/restream/restream/137031.mkv
@@ -84,6 +87,8 @@ Young Hearts (2020)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a491
 Young Hearts (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5721452.mp4,http://64.31.23.207:80/movie/96795792/50165825/5720582.mp4
 Young Ip Man: Crisis Time (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/137964.mkv
 Young Woman and the Sea (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/137444.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/92944.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/92234.mp4
+Young, Beautiful and Screwed Up (2003)	dub=http://31.43.191.125:8080/movie/restream/restream/144056.mkv
+Young, Stalked and Pregnant (2020)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/46667.mp4
 Youngblood (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5683463.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751103.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255470.mp4,http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/4428903.mp4
 Your Christmas or Mine 2 (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/143075.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/130718.mp4
 Your Christmas or Mine? (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/143076.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/47370.mp4
@@ -113,4 +118,6 @@ Yucatán (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5715091.mp4,h
 Yummy (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715206.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96292.mp4
 Yuri Marçal: Honest Mistake (2022)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/103007.mp4
 Yuri Marçal: Ledo Engano (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5707723.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767085.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/64803.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20961.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/30283.mp4
+Yuzuru Hanyu ICE STORY 2023 "GIFT" at Tokyo Dome (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137899.mkv
 Yves Saint Laurent (2014)	leg=http://64.31.23.207:80/movie/96795792/50165825/5698654.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755159.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96303.mp4
+Yvonne Orji: Momma, I Made It! (2020)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/171880.mp4

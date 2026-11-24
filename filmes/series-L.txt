@@ -1,12 +1,10 @@
 L Pop		0	6
-L.A.'s Finest: Unidas contra o Crime		0	26
 L.A.'s Finest: Unidas contra o Crime	2019	0	39
 L.A.s Finest		0	26
-La Bella y las Bestias		0	59
-La Bella y las Bestias LEG		0	82
+La Bella y las Bestias		0	82
+La Bella y las Bestias [MEX]		0	59
 La Brea: A Terra Perdida	2021	0	30
-La casa de papel		0	62
-La Casa de Papel	2017	0	48
+La casa de papel	2017	0	62
 La Casa de Papel Berlim		0	8
 La Casa de Papel: Coreia	2022	0	12
 La casa de papel: De Tóquio a Berlim		0	2
@@ -19,347 +17,332 @@ La Jauría		0	8
 La mujer perfecta		0	139
 La Patrona 2013 - The Return	2013	0	123
 La Révolution		0	8
-Lab Rats	2012	0	98
-Lab Rats: Força Elite	2016	0	16
-Labios de Falsas Verdades	2026	0	10
-Labirinto		0	20
-Labirinto do Medo	2021	0	8
-Labirinto Verde	2017	0	16
-Laços Celestiais (L)		0	5
+Lab Rats	2012	1	98
+Lab Rats: Força Elite	2016	1	16
+Labios de Falsas Verdades	2026	1	10
+Labirinto		1	20
+Labirinto do Medo	2021	1	8
+Labirinto Verde	2017	1	16
+Laços Celestiais		1	5
 Laços de Família		1	209
-Lacos de Vida - Cordas do coracao - Can Bagi		1	125
-Laços do Amor - Kader Bağları		1	5
-Laços do Destino		1	5
-Laços Maternos	2023	1	24
-Lado a Lado		1	154
-Ladroes A Tiara de Santa Agueda	2025	1	6
-Ladrões da Floresta	2020	1	10
-Ladroes de Drogas	2025	1	8
-Lady Dynamite		1	20
-Lady Night		1	174
-Laetitia		1	1
-Lágrimas de amor		1	111
-Lagrimas de uma Noiva - Bir Sevdadır		1	13
-Lagrimas do Paraiso - Cennet - Cennet'in Gozyaslari		1	36
-Laid Back Camp	2018	1	37
-Lakefront Empire	2024	1	3
-Lakers: Hora de Vencer		1	17
-LALIGA Alem do Campo	2024	1	8
-Lalola	2007	1	51
-LaLola	2024	1	9
-Lalola: Entre Dois Mundos		1	9
-Lambert vs. Lambert: Só por Cima de seu Cadáver		1	4
-Lampiao e Maria Bonita	1982	1	8
-Lances Da Vida	2003	2	186
-Landman	2024	2	20
-Landscapers		2	4
-Lanterna Verde: A Série Animada	2011	2	26
-Lanternas	2026	2	8
-Lar Sombrio Lar		2	6
-Lara com Z		2	14
-Largados e Pelados		2	206
-Largados e Pelados	2013	2	208
-Largados e Pelados A Tribo	2015	2	95
-Largados e Pelados Apocalipse	2025	2	8
-Largados e Pelados Brasil	2021	2	26
-Largados e Pelados Brasil: A Tribo	2025	2	7
-Largados e Pelados Campeoes do Mundo	2026	2	10
-Largados e Pelados Espanha	2025	2	7
-Largados e Pelados Latinos	2022	2	21
-Largados e Pelados: A Competição		2	29
-Largados e Pelados: França	2018	2	23
-Largados e Pelados: Sozinho		2	8
-Largados e Pelados: Sozinhos		2	8
-Largados em Alto Mar	2023	2	9
-Largados Pelados e Congelados		2	6
-Largados Pelados e Ilhados		2	8
-Larry e a Busca da Infelicidade	2026	2	7
-Larva Island		2	26
-Larva: Ilhados	2018	2	26
-Las Bravas F.C		3	16
-Las Bravas FC		3	16
-Las Pelotaris 1926 (L)		3	8
-Last Chance U: Basketball		3	8
-Last Chance U: Basketball	2021	3	16
-Last Light		3	5
-Last Light 2022 LEG		3	5
-Late Night Lockup Ronda Policial		3	6
-Latin Flow		3	13
-Launchpad	2021	3	6
-Law & Order True Crime 2017 - Lei e Ordem		3	8
-Law & Order: Crime Organizado	2021	3	150
-Law & Order: Crime Organizado 2021 LEG		3	74
-Law e Order Crime Organizado		3	75
-Law e Order Toronto Criminal Intent		3	9
-Law of the Jungle	2011	3	8
-Law School (L)		3	16
-Lazarus	2025	3	13
-Le chalet (L)		3	6
-Le monde de demain		3	6
-Leadale no Daichi nite	2022	3	12
-Leandro & Leonardo		3	9
-Leandro e Leonardo		3	9
-Leanne	2025	3	26
-Leão: A Alcateia Marsh de Masai Mara		3	4
-Lee Soon Shin		3	50
-Left-Hand Layup! (L)		3	7
-Legacies		3	68
-Legacy: A Verdadeira História dos Lakers		3	10
-Legado Corrompido	2025	3	8
-Legado de Sangue	2024	3	40
-Legado Sombrio - Kötü Kan		3	6
-Legados	2018	3	68
-Legend of Nine Tails Fox (L)		3	37
-Legend of the Seeker Leg	2008	3	43
-Legendary	2020	3	34
-Legendary Twins (L)		3	18
-Legends: Identidade Perdida 2014 LEG		3	20
-Legiao		3	19
-Legião - Legion	2017	3	27
-Legion		3	27
-LEGO DREAMZzz		3	60
-LEGO Friends O Próximo Capítulo	2023	3	23
-LEGO Masters	2020	3	22
-LEGO Ninjago Legends Monstrosity		3	1
-LEGO ONE PIECE: A Série	2026	3	2
-LEGO Pixar BrickToons	2024	4	5
-LEGO Star Wars All Stars		4	5
-LEGO Star Wars Reconstruindo a Galaxia Pedacos do Passado		4	4
-LEGO Star Wars: Reconstruindo a Galáxia	2024	4	4
-Lei & Ordem: Crimes Premeditados		4	191
-Lei da Selva: A História do Jogo do Bicho		4	4
-Lei e Ordem		4	433
-Lei e Ordem	1990	4	549
-Lei e Ordem Toronto Intencao Criminal	2024	4	10
-Lei e Ordem UK		4	26
-Lei e Ordem Unidade de Vitimas Especiais	1999	5	594
-Lei e Ordem: Crimes Premeditados	2001	6	194
-Lei e Ordem: Reino Unido	2009	6	26
-Lembrancas de um Amor	2025	6	16
-Lembranças do Coração - Hatirla Gonul		6	38
-Lembre de Mim		6	14
-Lembrete - Aski Hatiria		6	8
-Lenda Imperial	2023	6	6
-Lendas Da Marvel		6	32
-Lendas Da Natureza		6	6
-Lendas do Amanhã	2016	6	109
-Lenox Hill		6	9
-Lenox Hill 2020 LEG		6	8
-Leo Batista A Voz Marcante		6	4
-Leoa		6	20
-Leonardo Da Vinci	2021	6	16
-Leopard Skin		6	16
-Leopard Skin	2022	6	8
-Les Miserables		6	8
-Les Revenants: A Volta dos Mortos LEG	2012	6	16
-Let Love	2023	6	16
-Let's End Our Friendship Now	2026	6	5
-Let's Go Karaoke! (L)		6	4
-Lets go KAIKIGUMI 2026 LEG		6	12
-Lets Play	2025	6	12
-Leve-me para Onde as Nuvens Nascem	2026	6	36
-Level E	2011	6	13
-Leverage: Redemption (L)		6	8
-Leviata	2025	6	12
-Levius		6	12
-Lewis e Tolkien	2022	6	3
-Lexa: Mostra Esse Poder		6	5
-Leyla Vida Amor Justiça -Leyla Hayat Ask Adalet		6	40
-Leyla: Sombras do Passado	2024	7	127
-Leylifer		7	111
-Li Xiongmao Leg	2026	7	14
-Lia		7	10
-Liar		7	7
-LIAR GAME		7	4
-Liar: Rede de Mentiras	2017	7	12
-Liberdade	2016	7	67
-Libere a Maldicao do Taekwondo		7	8
-Licao de Amor		7	12
-Líderes de Torcida (L)		7	28
-Lie to Me		7	48
-Lies Hidden in My Garden		7	8
-Life & Beth	2022	7	10
-Life &amp; Beth		7	10
-Life After Life		7	4
-Life in Pieces		7	70
-Life in Pieces	2015	7	5
-Life Love on the Line		7	4
-Life on Mars (L)		7	17
-Lifeline	2017	7	8
-Liga da Justiça	2001	7	52
-Liga da Justiça Sem Limites	2004	7	39
-Liga do Fogao		7	16
-Ligações Perigosas		7	10
-Ligados pelo Pecado		7	20
-Ligeiramente Diva	2024	7	20
-Ligeirinho	1955	7	6
-Light & Magic		7	6
-Light &amp; Magic		7	6
-Light of My Lion		7	11
-Light On Me		7	16
-Light Shop: Entre a Vida e a Morte	2024	7	8
-Light the Night	2021	7	24
-Like a Dragon Yakuza	2024	7	6
-Like a Palette	2025	7	8
-Lilo e Stitch A Serie	2003	8	65
-Lilyhammer	2021	8	24
-Limbo		8	10
-Lincoln Rhyme: A Caçada Pelo Colecionador De Ossos		8	10
-Lincoln's Dilemma		8	4
-Linda de Morrer		8	8
-Linda Mentira		8	22
-Lindo Amor Vida Maravilhosa		8	100
-Line of Duty		8	29
-Line of Fire		8	1
-Línguas da nossa língua		8	4
-Linha De Combate		8	48
-Linha de Combate	2021	8	36
-Linha Direta		8	40
-Linha do Dever	2012	8	65
-Linha S Leg	2025	8	6
-Link Click	2021	8	64
-Lioness	2023	8	24
-Lista Negra	2013	8	218
-Lista Negra: Redenção		8	8
-Little America		8	8
-Little America	2020	8	16
-Little Baby Bum: Hora da Música	2023	8	18
-Little Birds		8	6
-Little Dorrit		8	14
-Little Voice		8	9
-Liv E Maddie		9	80
-Livre Para Voar	1984	9	179
-Lobo Adolescente	2011	9	100
-Lobo em Pele de Cordeiro	2016	9	131
-Lobo em Pele de Cordeiro Abuso de Poder	2025	9	6
-Lobo Solitario - Yalniz Kurt		9	32
-Lockdown Americano & Desbancando Borat		9	7
-Lockdown Americano &amp; Desbancando Borat		9	7
-Locke & Key	2020	9	28
-Locke &amp; Key		9	28
-Locker Diaries Phineas And Ferb		9	4
-Lockerbie Em Busca da Verdade		9	3
-Lockerbie Uma Busca pela Verdade	2025	9	5
-Lockwood & Co	2023	9	8
-Locomotivas	1977	10	168
-Log Horizon		10	43
-Lois & Clark: As Novas Aventuras Do Superman		10	87
-Lois e Clark: As Novas Aventuras do Superman	1993	10	87
-Loki		10	12
-LOL Se Rir Ja Era		10	30
-Lolla A Historia do Lollapalooza		10	3
-Lollapalooza Brasil		10	10
-Lollapalooza Brasil	2025	10	46
-Long Bright River	2025	10	16
-Long Story Short	2025	10	10
-Long Vacation	1996	10	11
-Long Way Home (L)		10	10
-Long Way Home Leg	2020	10	10
-Longe De Você		10	10
-Longe Demais	2024	10	90
-Longe Demais	2022	10	5
-Longing for You		10	14
-Longmire: O Xerife	2012	10	63
-Lontras Citadinas		10	6
-Loo Loo Kids: Johny e Amigos - Canções Infantis	2018	10	24
-Looking		10	18
-Looking	2014	10	8
-Lookism	2022	10	8
-Looney Tunes Cartoons		10	81
-Loopy de Loop		10	48
-Loopy Le Beau		10	48
-Lord of Mysteries	2025	10	26
-Lord of Mysteries Leg	2025	10	13
-Lord Xue Ying		11	78
-Los Espookys		11	12
-Los Gringo Hunters		11	12
-Losers		11	8
-Losing Alice		11	8
-Losmen Bu Broto A Serie		11	8
-Lost		11	121
-Lost Girl	2010	11	77
-Lost To You	2026	11	12
-Lou Grant		11	3
-Louca Compulsão		11	47
-Louco Por Elas	2012	11	43
-Louco por Você		11	164
-Loucos Por Churrasco		11	55
-Loucos Por Pimenta		11	10
-Loucos Um Pelo Outro	2021	11	13
-Loudermilk		11	10
-Loudermilk	2017	11	30
-Louie		11	19
-Louvada Seja Petey		11	10
-Louvor à Morte 2018 LEG		11	3
-Lov3		11	6
-Love	2016	11	34
-Love 101		11	16
-Love After World Domination		11	12
-Love Alarm	2019	11	14
-Love All Play		11	16
-Love Beyond Dreams	2026	11	7
-Love e Translation		11	7
-Love in the Moonlight		11	18
-Love In The Time Of Corona		11	4
-Love is Like a Cat		11	12
-Love Life	2020	11	30
-Love Live Superstar A Escola de Idol		11	11
-Love Mate		11	8
-Love Me	2019	11	18
-Love O2O		11	30
-Love Sea		11	10
-Love Sea The Home for Lovers		11	4
-Love Sea: The Home for Lovers 2025 LEG		11	2
-Love Senior		11	10
-Love Sick		11	16
-Love to Hate You	2023	11	10
-Love Touch		11	7
-Love Track		11	10
-Love Tyrant		11	32
-Love You Teacher	2026	11	10
-LOVE: A História De Lisey	2021	11	8
-Lovecraft Country	2020	11	10
-Lovely Little Farm		11	7
-Lover Merman		11	8
-Lovesick	2014	11	23
-Lu & the Bally Bunch		11	26
-Lu e Seus Amigos		11	26
-Lua Cheia - Dolunay		12	81
-Lua de Mel Mortal	2021	12	4
-Lua Negra		12	6
-Lucifer	2016	12	93
-Lucky	2026	12	7
-Lucky Fred	2011	12	52
-Lucky Hank	2023	12	8
-Lucky Man	2016	12	28
-Ludik	2022	12	6
-Ludmilla: Rainha da Favela		12	6
-Ludwig (L)		12	6
-Lugar de Mulher		12	4
-Luis Enrique: Você Não Sabe P.... Nenhuma		12	3
-Luis Miguel: A Série		12	27
-Luke Cage		12	26
-Luluzinha		12	52
-Luluzinha	1995	12	26
-Luna Nera	2020	12	6
-Luna Park		12	6
-Lupi e Baduki	2024	12	13
-Lupin	2021	12	25
-Lupin da Politica	2026	12	1
-Lupin III		12	24
-Lupin the 3rd Part 6		12	78
-Lupin the Third: The Woman Called Fujiko Mine		12	25
-Lupita no Planeta de Gente Grande		12	13
-Luta pelo Amor		12	40
-Lutadores		12	7
-Lutando pelo Meu Caminho 2017 LEG		12	16
-Luther		12	22
-Luva de Pedreiro O Rei da Jogada	2024	12	3
-Luz	2024	12	20
-Luz do Meu Leao		12	11
-Luz do Sol	2007	12	210
-Luz para a Noite	2026	12	28
-Lv2 kara Cheat data - Chillin in Another World with Level	2024	12	12
-Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life		12	4
-Lyckoviken		12	32
-Lycoris Recoil	2022	12	13
+Lacos de Vida - Cordas do coracao - Can Bagi		2	125
+Laços do Destino		2	5
+Laços Maternos	2023	2	24
+Lado a Lado		2	154
+Ladrões da Floresta		2	10
+Ladrões de Drogas	2025	2	8
+Ladrões: A Tiara de Santa Águeda	2025	2	6
+Lady Dynamite		2	20
+Lady Night		3	174
+Laetitia		3	1
+Lágrimas de amor		3	75
+Lágrimas de amor [MEX]		3	111
+Lagrimas de uma Noiva - Bir Sevdadır		3	13
+Lagrimas do Paraiso - Cennet - Cennet'in Gozyaslari		3	36
+Laid Back Camp	2018	3	37
+Lakefront Empire	2024	3	3
+Lakers: Hora de Vencer		3	17
+LALIGA: Além do Campo	2024	3	8
+Lalola	2007	3	51
+LaLola	2024	3	9
+Lalola: Entre Dois Mundos		3	9
+Lambert vs. Lambert: Só por Cima de seu Cadáver		3	4
+Lampiao e Maria Bonita	1982	3	8
+Lances da Vida		4	186
+Landman	2024	4	20
+Landscapers		4	4
+Lanterna Verde: A Série Animada	2011	4	26
+Lanternas	2026	4	8
+Lar, Sombrio Lar	2019	4	6
+Lara com Z		4	14
+Largados e Pelados	2013	5	216
+Largados e Pelados Apocalipse	2025	5	8
+Largados e Pelados Brasil	2021	5	26
+Largados e Pelados Brasil: A Tribo	2025	5	7
+Largados e Pelados Campeoes do Mundo	2026	5	10
+Largados e Pelados Espanha	2025	5	7
+Largados e Pelados: A Competição		5	29
+Largados e Pelados: A Tribo	2015	6	95
+Largados e Pelados: França	2018	6	23
+Largados e Pelados: Latinos	2022	6	21
+Largados e Pelados: Sozinho		6	8
+Largados e Pelados: Sozinhos		6	8
+Largados em Alto Mar	2023	6	9
+Largados Pelados e Ilhados		6	8
+Largados, Pelados e Apaixonados		6	12
+Largados, Pelados e Congelados		6	6
+Largados, Pelados e Solitários		6	8
+Larry e a Busca da Infelicidade	2026	6	7
+Larva Island		6	26
+Larva: Ilhados	2018	6	26
+Las Bravas F.C		6	16
+Las Bravas FC		6	16
+Las Pelotaris	1926	6	8
+Last Chance U: Basketball	2021	6	16
+Last Light	2022	6	10
+Late Night Lockup Ronda Policial		6	6
+Latin Flow		6	13
+Launchpad	2021	6	6
+Law & Order True Crime 2017 - Lei e Ordem		6	8
+Law & Order: Crime Organizado	2021	6	150
+Law e Order Crime Organizado		6	75
+Law e Order Toronto Criminal Intent		7	9
+Law of the Jungle	2011	7	8
+Law School		7	16
+Lazarus	2025	7	13
+Le chalet		7	6
+Le monde de demain		7	6
+Leadale no Daichi nite	2022	7	12
+Leandro & Leonardo		7	9
+Leandro e Leonardo		7	9
+Leanne	2025	7	26
+Leão: A Alcateia Marsh de Masai Mara		7	4
+Left-Hand Layup!		7	7
+Legacies		7	68
+Legacy: A Verdadeira História dos Lakers		7	10
+Legado Corrompido	2025	7	8
+Legado de Sangue	2024	7	40
+Legado Sombrio - Kötü Kan		7	6
+Legados	2018	7	68
+Legend of Nine Tails Fox		7	37
+Legend of the Seeker	2008	7	43
+Legendary	2020	7	34
+Legendary Twins		7	18
+Legends: Identidade Perdida	2014	7	20
+Legiao		7	19
+Legião - Legion	2017	7	27
+Legion		7	27
+LEGO DREAMZzz		7	60
+LEGO Friends: O Próximo Capítulo	2023	7	23
+LEGO Masters	2020	7	22
+LEGO Ninjago Legends Monstrosity		7	1
+LEGO ONE PIECE: A Série	2026	7	2
+LEGO Pixar BrickToons	2024	7	5
+LEGO Star Wars All Stars		7	5
+LEGO Star Wars Reconstruindo a Galaxia Pedacos do Passado		7	4
+LEGO Star Wars: Reconstruindo a Galáxia	2024	7	4
+Lei & Ordem Crimes Premeditados		8	191
+Lei da Selva - A História do Jogo do Bicho		8	4
+Lei e Ordem	1990	9	550
+Lei e Ordem Toronto Intencao Criminal	2024	10	10
+Lei e Ordem UK		10	26
+Lei e Ordem Unidade de Vitimas Especiais		11	594
+Lei e Ordem Unidade de Vítimas Especiais - Law & Order	1999	12	585
+Lei e Ordem: Crimes Premeditados	2001	12	194
+Lei e Ordem: Reino Unido	2009	12	26
+Lembrancas de um Amor	2025	12	16
+Lembranças do Coração - Hatirla Gonul		12	38
+Lembre de Mim		12	14
+Lembrete - Aski Hatiria		12	8
+Lenda Imperial	2023	12	6
+Lendas da Marvel		12	32
+Lendas da Natureza		12	6
+Lendas do Amanhã	2016	13	109
+Lenox Hill	2020	13	17
+Leo Batista A Voz Marcante		13	4
+Leoa		13	20
+Leonardo Da Vinci	2021	13	16
+Leopard Skin	2022	13	16
+Les Miserables		13	8
+Les Revenants: A Volta dos Mortos	2012	13	16
+Let Love	2023	13	16
+Let's End Our Friendship Now	2026	13	5
+Let's Go Karaoke!		13	4
+Lets go KAIKIGUMI	2026	13	12
+Lets Play	2025	13	12
+Leve-me para Onde as Nuvens Nascem	2026	13	36
+Level E	2011	13	13
+Leverage: Redemption		13	8
+Leviatã	2025	13	12
+Levius		13	12
+Lewis e Tolkien		13	3
+Lexa: Mostra Esse Poder		13	5
+Leyla Sombras do Passado [OPÇÃO 02]		13	127
+Leyla Vida Amor Justiça -Leyla Hayat Ask Adalet		13	40
+Leyla: Sombras do Passado	2024	14	127
+Leylifer		14	111
+Li Xiongmao	2026	14	14
+Lia		14	10
+LIAR GAME		14	4
+Liar, Liar		14	7
+Liar: Rede de Mentiras	2017	14	12
+Liberdade, Liberdade	2016	14	67
+Libere a Maldicao do Taekwondo		14	8
+Licao de Amor		14	12
+Líderes de Torcida		14	28
+Lie to Me		14	48
+Lies Hidden in My Garden		14	8
+Life & Beth	2022	14	10
+Life After Life		14	4
+Life in Pieces	2015	14	70
+Life Love on the Line		14	4
+Life on Mars		14	17
+Lifeline	2017	14	8
+Liga da Justiça	2001	14	52
+Liga da Justiça Sem Limites	2004	15	39
+Liga do Fogao		15	16
+Ligações Perigosas		15	10
+Ligados pelo Pecado		15	20
+Ligeiramente Diva	2024	15	20
+Ligeirinho	1955	15	6
+Light & Magic		15	6
+Light of My Lion		15	11
+Light On Me		15	16
+Light Shop: Entre a Vida e a Morte	2024	15	8
+Light the Night	2021	15	24
+Like a Dragon Yakuza	2024	15	6
+Like a Palette	2025	15	8
+Lilo e Stitch: A Série	2003	15	65
+Lilyhammer	2021	15	24
+Limbo		15	10
+Lincoln Rhyme: A Caçada Pelo Colecionador De Ossos		15	10
+Lincoln's Dilemma		15	4
+Linda de Morrer		15	8
+Linda Mentira		15	22
+Lindo Amor Vida Maravilhosa		15	100
+Line of Duty		15	29
+Line of Fire		15	1
+Línguas da nossa língua		15	4
+Linha de Combate	2021	16	48
+Linha Direta		16	40
+Linha do Dever	2012	16	65
+Linha S	2025	16	6
+Link Click	2021	16	64
+Lioness	2023	16	24
+Lista Negra		16	218
+Lista Negra: Redenção		17	8
+Little America	2020	17	16
+Little Baby Bum: Hora da Música	2023	17	18
+Little Birds		17	6
+Little Dorrit		17	14
+Little Voice		17	9
+Liv e Maddie		17	80
+Livre Para Voar	1984	17	179
+Lobo Adolescente		17	100
+Lobo em Pele de Cordeiro	2016	18	131
+Lobo em Pele de Cordeiro: Abuso de Poder	2025	18	6
+Lobo Solitario - Yalniz Kurt		18	32
+Lockdown Americano & Desbancando Borat		18	7
+Locke & Key	2020	18	28
+Locker Diaries Phineas And Ferb		18	4
+Lockerbie Em Busca da Verdade		18	3
+Lockerbie Uma Busca pela Verdade	2025	18	5
+Lockwood & Co	2023	18	8
+Locomotivas	1977	19	168
+Log Horizon		19	43
+Lois & Clark: As Novas Aventuras Do Superman		19	87
+Lois e Clark: As Novas Aventuras do Superman	1993	19	87
+Loki		19	12
+LOL: Se Rir, Já Era		19	30
+Lolla A Historia do Lollapalooza		19	3
+Lollapalooza Brasil	2025	19	46
+Long Bright River	2025	19	16
+Long Story Short	2025	20	10
+Long Vacation	1996	20	11
+Long Way Home	2020	20	10
+Longe de Você		20	10
+Longe Demais		20	90
+Longe Demais	2022	20	5
+Longe Demais	2024	20	90
+Longing for You		20	14
+Longmire: O Xerife	2012	20	63
+Lontras Citadinas		20	6
+Loo Loo Kids: Johny e Amigos - Canções Infantis	2018	20	24
+Looking	2014	20	18
+Lookism	2022	20	8
+Looney Tunes Cartoons		20	81
+Loopy de Loop		20	48
+Loopy Le Beau		20	48
+Lord of Mysteries	2025	20	26
+Lord Xue Ying		20	78
+Los Espookys		21	12
+Los Gringo Hunters		21	12
+Losers		21	8
+Losing Alice		21	8
+Losmen Bu Broto A Serie		21	8
+Lost		21	121
+Lost Girl	2010	21	77
+Lost To You	2026	21	12
+Lou Grant		21	3
+Louca Compulsão		21	47
+Louco Por Elas	2012	21	43
+Louco por Você		22	164
+Loucos Por Churrasco		22	55
+Loucos Por Pimenta		22	10
+Loucos Um Pelo Outro	2021	22	13
+Loudermilk	2017	22	30
+Louie		22	19
+Louvada Seja Petey		22	10
+Louvor à Morte	2018	22	3
+Lov3		22	6
+Love	2016	22	34
+LOVE - A História de Lisey	2021	22	8
+Love 101		22	16
+Love After World Domination		22	12
+Love Alarm	2019	22	14
+Love All Play		22	16
+Love Beyond Dreams	2026	22	7
+Love e Translation		22	7
+Love in the Moonlight		22	18
+Love in the Time of Corona		22	4
+Love is Like a Cat		22	12
+Love Life	2020	22	30
+Love Live Superstar A Escola de Idol		22	11
+Love Mate		22	8
+Love Me	2019	22	18
+Love O2O		23	30
+Love Sea		23	10
+Love Sea The Home for Lovers	2025	23	4
+Love Senior		23	10
+Love Sick		23	16
+Love to Hate You	2023	23	10
+Love Touch		23	7
+Love Track		23	10
+Love Tyrant		23	32
+Love You Teacher	2026	23	10
+Love, Death & Robots	2019	23	45
+Love, Victor	2020	23	28
+Lovecraft Country	2020	23	10
+Lovely Little Farm		23	7
+Lover Merman		23	8
+Lovesick	2014	23	23
+Lu & the Bally Bunch		23	26
+Lu e Seus Amigos		23	26
+Lua Cheia - Dolunay		23	81
+Lua de Mel Mortal	2021	23	4
+Lua Negra		23	6
+Lucas, a Aranha	2017	23	26
+Lucifer	2016	23	93
+Lucky	2026	23	7
+Lucky Fred	2011	24	52
+Lucky Hank	2023	24	8
+Lucky Man	2016	24	28
+Ludik	2022	24	6
+Ludmilla: Rainha da Favela		24	6
+Ludwig		24	6
+Lugar de Mulher		24	4
+Luis Enrique: Você Não Sabe P.... Nenhuma		24	3
+Luis Miguel: A Série		24	27
+Luluzinha	1995	24	52
+Luna Nera		24	6
+Luna Park		24	6
+Lupi e Baduki	2024	24	13
+Lupin	2021	24	25
+Lupin da Politica	2026	24	1
+Lupin III		24	24
+Lupin the 3rd Part 6		24	78
+Lupin the Third: The Woman Called Fujiko Mine		24	25
+Lupita no Planeta de Gente Grande		24	13
+Luta pelo Amor		24	40
+Lutadores		24	7
+Lutando pelo Meu Caminho	2017	24	16
+Luther		24	22
+Luva De Pedreiro - O Rei da Jogada	2024	24	3
+Luz	2024	24	20
+Luz do Meu Leao		24	11
+Luz do Sol	2007	25	210
+Luz para a Noite	2026	25	28
+Lv2 kara Cheat data - Chillin in Another World with Level	2024	25	12
+Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life		25	4
+Lyckoviken		25	32
+Lycoris Recoil	2022	25	13

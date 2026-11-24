@@ -1,22 +1,18 @@
- We Shrunk Ourselves (1997)	dub=http://31.43.191.125:8080/movie/restream/restream/136943.mkv
- White & Blonde (2003)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/137519.mp4
- White & Royal Blue (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/142783.mkv
- Why? (1990)	dub=http://64.31.23.207:80/movie/96795792/50165825/5694079.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5694114.mp4
- Wind & Fire (2026)	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/653992.mp4
- Wind & Fire (To Be Celestial vs. That's the Weight of the World) (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5681580.mp4
- With Love (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/139828.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/103413.mp4
- Write Time (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/139809.mkv
 W Django! (1971)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/5049.mp4
 Wadaiko Girls (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/138929.mkv
 Wade no Rock in Rio (2024)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/515653.mp4
 Wagons East! (1994)	dub=http://31.43.191.125:8080/movie/restream/restream/144168.mkv
 Während du schliefst (1995)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/130886.mp4
 Waist Deep - Sem saída (2006)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/92930.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/138099.mp4
+Wait, Wait, Don't Kill Me (2020)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/146362.mp4
 Waiting For Anya (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5713345.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95883.mp4
 Waiting For The Barbarians (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/138865.mkv	leg=http://64.31.23.207:80/movie/96795792/50165825/5715186.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95888.mp4
 Waiting for the Carnival (2019)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/101252.mp4
 Waiting for You (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/142240.mkv
 Waitress (2007)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/98443.mp4
+Wake Up, Girls! (2015)	leg=http://64.31.23.207:80/movie/96795792/50165825/5702643.mp4
+Wake Up, Girls! Beyond the Bottom (2015)	dub=http://64.31.23.207:80/movie/96795792/50165825/5702772.mp4
+Wake up, Girls! Shin Shou (2015)	leg=http://64.31.23.207:80/movie/96795792/50165825/5702842.mp4
 Wakey Wakey (2012)	dub=http://31.43.191.125:8080/movie/restream/restream/143586.mkv
 Walk. Ride. Rodeo (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/133611.mkv
 Walker (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134604.mkv
@@ -56,6 +52,7 @@ War of the Worlds: Extinction (2024)	dub=http://31.43.191.125:8080/movie/restrea
 War of the Worlds: The Attack (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/143922.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/92657.mp4
 War on Terror: KL Anarki (2023)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/75495.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/75783.mp4
 War Trap (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/139516.mkv,http://31.43.191.125:8080/movie/restream/restream/139630.mkv
+War, Inc (2008)	dub=http://31.43.191.125:8080/movie/restream/restream/143589.mkv
 Warbirds (2008)	dub=http://31.43.191.125:8080/movie/restream/restream/144013.mkv
 Warchief (2024)	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/563539.mp4
 Warcraft (2016)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/111960.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/100121.mp4
@@ -129,6 +126,7 @@ We Summon the Darkness (2020)	leg=https://embedplayer2.xyz/cdn/hls/8b3bd3bcd7944
 We Will Dance Again (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5686460.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98381.mp4
 We Wish You a Married Christmas (2022)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/80173.mp4
 We'll Rise at Dawn (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/138668.mkv
+We're Broke, My Lord	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754644.mp4
 We're So Young (2013)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/140274.mp4
 Weak Layers (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5700994.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756234.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95977.mp4
 Weak Spot (1975)	dub=http://31.43.191.125:8080/movie/restream/restream/138805.mkv
@@ -179,14 +177,17 @@ Wet Season (2002)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715152.mp4
 WeWork: or The Making and Breaking of a $47 Billion Unicorn (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/137650.mkv
 WHAM! (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/133259.mkv
 WHAM!: Last Christmas - Uma Canção de Natal (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5689901.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96006.mp4
+What a Nightmare, Charlie Brown! (1978)	dub=http://64.31.23.207:80/movie/96795792/50165825/5694156.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5694188.mp4
 What Belongs to Inuit (2009)	dub=http://31.43.191.125:8080/movie/restream/restream/143618.mkv
 What Breaks the Ice (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/143575.mkv
 What Comes Around (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137178.mkv	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/297565.mp4
 WHAT DID JACK DO? (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/133614.mkv
+What Did You Do in the War, Daddy? (1966)	dub=http://31.43.191.125:8080/movie/restream/restream/139548.mkv,http://31.43.191.125:8080/movie/restream/restream/139668.mkv
 What Drives Us (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/143060.mkv
 What Happened at 625 River Road? (2023)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/71436.mp4
 What Happened to Monday (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/134402.mkv,http://31.43.191.125:8080/movie/restream/restream/143923.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/111825.mp4
 What Happened to Mr. Cha? (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/132893.mkv
+What Happened, Miss Simone? (2015)	dub=http://31.43.191.125:8080/movie/restream/restream/133260.mkv
 What Happens in Vegas (2008)	dub=http://31.43.191.125:8080/movie/restream/restream/143061.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/112643.mp4
 What if (2010)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/138857.mp4
 What If Death Did Not Exist	dub=http://31.43.191.125:8080/movie/restream/restream/138510.mkv
@@ -277,6 +278,7 @@ Why Him? (2016)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb3
 Why I Kidnapped My Boss (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/141990.mkv
 Why Moths Fly to the Light? (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/142245.mkv
 Why We Cheat (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134440.mkv
+Why, Charlie Brown, Why? (1990)	dub=http://64.31.23.207:80/movie/96795792/50165825/5694079.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5694114.mp4
 Wicked (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695760.mp4,http://64.31.23.207:80/movie/96795792/50165825/5695734.mp4,http://64.31.23.207:80/movie/96795792/50165825/5695702.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765602.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/532877.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/532879.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34841.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40620.mp4,https://comprarebom.xyz/cdn/down/3967ec1fd747373c3a1f67b5/index.m3u8,https://embedplayer2.xyz/cdn/hls/d2f93c93a207b0a1e0edc4a91726847d/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/73293.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5695657.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756461.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/532880.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40625.mp4
 Wicked Games (2021)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/83075.mp4
 Wicked Minds (2003)	dub=http://31.43.191.125:8080/movie/restream/restream/143065.mkv
@@ -338,6 +340,7 @@ Winchester 73 (1950)	dub=http://64.31.23.207:80/movie/96795792/50165825/5696075.
 Wind & Fire (To Be Celestial vs. That's the Weight of the World)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308137.mp4
 Wind (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/137301.mkv
 Wind River (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/144169.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/43355.mp4
+Wind, Tide & Oar (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5682882.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751038.mp4
 Windfall (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133620.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/111580.mp4
 WindShipped (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/138516.mkv
 Windstorm: The Great Hurricane (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/139440.mkv
@@ -355,6 +358,8 @@ Winter on Fire: Ukraine's Fight for Freedom (2015)	dub=http://64.31.23.207:80/mo
 Winter Thaw (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5678381.mp4,http://64.31.23.207:80/movie/96795792/50165825/5678356.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314463.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5678408.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314127.mp4
 Winter Thaw - O Sapateiro (2016)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/648744.mp4
 Winter's Bone (2010)	dub=http://31.43.191.125:8080/movie/restream/restream/143594.mkv
+Winter, O Golfinho (2011)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710745.mp4,http://64.31.23.207:80/movie/96795792/50165825/5710710.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762916.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/220975.mp4
+Winter, O Golfinho 2 (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710682.mp4,http://64.31.23.207:80/movie/96795792/50165825/5710657.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764126.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/221074.mp4
 Wintertide (2023)	dub=https://embedplayer2.xyz/cdn/hls/7187a1677eb90ca7e223d22bda496d40/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/115829.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5701722.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756179.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96122.mp4
 Winx Club - Magic Adventure (2010)	dub=http://31.43.191.125:8080/movie/restream/restream/139443.mkv
 Wish (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137379.mkv
@@ -369,6 +374,7 @@ Witches in the Woods (2019)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c1
 Witches' Well (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/143595.mkv
 With Difficulty Comes Ease (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/143068.mkv
 With Every Heartbeat (2011)	dub=http://31.43.191.125:8080/movie/restream/restream/142071.mkv
+With Love, Meghan: Holiday Celebration (2025)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/49490.mp4
 With You in the Future (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134610.mkv
 With/In Volume 1 (2021)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/113089.mp4
 Without Saying Goodbye (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133811.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/111771.mp4
@@ -402,6 +408,7 @@ Woman in the Maze (2023)	dub=https://embedplayer2.xyz/cdn/hls/8fb2854018b1f70292
 Woman of the Hour (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/134388.mkv
 Woman of the Hour - 2024 [SUB]	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/81743.mp4
 Woman on the Run (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/143379.mkv
+Woman, Life, Freedom: An Iranian Revolution (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/138155.mkv
 Women & the Wind (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5682858.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751066.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301284.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/2329323.mp4
 Women Is Losers (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5703008.mp4,http://64.31.23.207:80/movie/96795792/50165825/5702986.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764352.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/286959.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33258.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5702960.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96149.mp4
 Women of Impact: Changing the World (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/137627.mkv
@@ -419,6 +426,7 @@ Wonderland (2024)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/38
 Wonderwell (2023)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/72835.mp4
 Wonka (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5701566.mp4,http://64.31.23.207:80/movie/96795792/50165825/5701539.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767338.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/371213.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/301326.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20948.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59338.mp4,https://embedplayer2.xyz/cdn/hls/484e4769e3190e2326f136e9103d4463/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/120327.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5701444.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754146.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/301532.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96167.mp4
 Wonka 4K [Hybrid]	dub=http://64.31.23.207:80/movie/96795792/50165825/5701514.mp4
+Wood E Stock - Sexo, oregano e rock (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5684728.mp4,http://64.31.23.207:80/movie/96795792/50165825/5684703.mp4
 Woodlawn (2015)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/141283.mp4
 Woody Woodpecker (2017)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/112702.mp4
 Woody Woodpecker Goes to Camp (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/133692.mkv
@@ -449,6 +457,7 @@ Wrath of Man (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/143103
 Wrath of the Titans (2012)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/139555.mp4
 Wreck-It Ralph (2012)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/115158.mp4
 Write Before Christmas	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/144323.mp4
+Write Place, Write Time (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/139809.mkv
 Wrobiony [Dublagem Nao Oficial] (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5704497.mp4
 Wrong Numbers (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5687405.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96186.mp4
 Wrong Place (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137859.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/113281.mp4

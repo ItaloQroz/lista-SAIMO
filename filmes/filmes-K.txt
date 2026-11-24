@@ -1,13 +1,3 @@
- Kalinda (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708781.mp4,http://64.31.23.207:80/movie/96795792/50165825/5708429.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764548.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5708460.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/145127.mp4
- Kennedy (2017)	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/553239.mp4
- Kill Her (2023)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/50282.mp4
- Killer (2011)	dub=http://64.31.23.207:80/movie/96795792/50165825/5685294.mp4,http://64.31.23.207:80/movie/96795792/50165825/5685265.mp4
- Killer (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/133063.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/113934.mp4
- Killer: The Alyssa Pladl Story (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/137252.mkv
- King of the Monsters (1998)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/79492.mp4
- King of the Wild Frontier (1955)	dub=http://31.43.191.125:8080/movie/restream/restream/136925.mkv
- Kiss! (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/132789.mkv
- Kisses and Death (2013)	dub=http://31.43.191.125:8080/movie/restream/restream/143163.mkv
 K (1997)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/1367.mp4
 K-9 Adventures: Legend of the Lost Gold (2014)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/174096.mp4
 K-911 (1999)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/136397.mp4
@@ -44,10 +34,10 @@ Kalifornia Pt	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383
 Kalinda	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27186.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1875208.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76231.mp4
 Kalki 2898 A.D. (Hindi) (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5720202.mp4
 Kalki 2898-AD (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5695800.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76242.mp4
-Kally&#039;s Mashup! Um Aniversário Muito Kally! (2021)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310658.mp4
-Kally's Mashup! Um Aniversário Muito Kally! (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5679912.mp4,http://64.31.23.207:80/movie/96795792/50165825/5679887.mp4
+Kally's Mashup! Um Aniversário Muito Kally! (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5679912.mp4,http://64.31.23.207:80/movie/96795792/50165825/5679887.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310658.mp4
 Kalte Füße (2018)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/75149.mp4
 Kam motýli nelétají (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5679942.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311014.mp4
+Kamala Harris, an American ambition (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/138215.mkv
 Kamen Rider Eins with Girls Remix	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751690.mp4
 Kamen Rider Faiz: Paraíso Reconquistado (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5700985.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754702.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76247.mp4,https://embedplayer2.xyz/cdn/hls/03f30225a54609a95834f1a2b5bdabe4/master.txt
 Kamen Rider Gavv Guilty Parfait (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5681927.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750837.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307292.mp4
@@ -78,7 +68,9 @@ Karate Kid 4 - A Nova Aventura (1994)	dub=http://64.31.23.207:80/movie/96795792/
 Karatê Kid: Lendas (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5692907.mp4,http://64.31.23.207:80/movie/96795792/50165825/5692822.mp4,http://64.31.23.207:80/movie/96795792/50165825/5692795.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760355.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760381.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/575314.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/574614.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4491.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56528.mp4,https://embedplayer2.xyz/cdn/hls/24b277ad04ab26c92d3d40cb8fdd7b63/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/35203.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5692850.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757089.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/574615.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76267.mp4
 Kardec (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716666.mp4,http://64.31.23.207:80/movie/96795792/50165825/5716627.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762754.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/4641.mp4,http://31.43.191.125:8080/movie/restream/restream/134329.mkv,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/27191.mp4
 Kardec: A História por Trás do Nome (2019)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/99874.mp4
+Karim, O Infiltrado (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5702228.mp4,http://64.31.23.207:80/movie/96795792/50165825/5702202.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/295353.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5702258.mp4
 Karla (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5678159.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750625.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/650804.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315672.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315721.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5678188.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/650805.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315687.mp4
+Karma: Aqui se Faz, Aqui se Paga (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717048.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758771.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/6672.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49481.mp4
 Karol G no Rock in Rio (2024)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/517040.mp4
 Karsmênia (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5698080.mp4,http://64.31.23.207:80/movie/96795792/50165825/5698049.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757942.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/38408.mp4,https://embedplayer2.xyz/cdn/hls/5e43048d42cfafc98d5c1df4e87bc0db/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/32248.mp4
 Karsmênia Nac (2023)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/519916.mp4
@@ -112,10 +104,13 @@ Keith Richards: Under the Influence (2015)	dub=http://31.43.191.125:8080/movie/r
 Kelet (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/138217.mkv
 Kelsey Cook: Mark Your Territory (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/136569.mkv
 Kelsey Cook: The Hustler (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137537.mkv
+Ken Jeong: You Complete Me, Ho (2019)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/123418.mp4
+Ken Loach, le vent de la révolte (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/138218.mkv
 Kenia Os: A OG (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5691555.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76298.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1888556.mp4
 Kensuke's Kingdom (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/73466.mp4
 Kentucky em Chamas (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5694636.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752957.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/561857.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/44771.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5694608.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756538.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76293.mp4
 Keoma (1976)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720803.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1891308.mp4
+Keruak, o Exterminador de Aço (1986)	dub=http://64.31.23.207:80/movie/96795792/50165825/5683867.mp4,http://64.31.23.207:80/movie/96795792/50165825/5683835.mp4
 Kevin (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5678581.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314518.mp4
 Kevin Costner apresenta: O Primeiro Natal (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5687939.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76287.mp4
 Kevin Hart & Chris Rock: Headliners Only (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/133046.mkv
@@ -276,8 +271,10 @@ Kingsman: The Golden Circle (2017)	dub=http://on.viptv.stream/playott/2e5fd924a4
 Kingsman: The Secret Service (2014)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/141342.mp4
 Kinjite: Desejos Proibidos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764940.mp4
 Kiriku e a Feiticeira (1998)	dub=http://64.31.23.207:80/movie/96795792/50165825/5682790.mp4,http://64.31.23.207:80/movie/96795792/50165825/5682405.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/321201.mp4
+Kiss Me, Stupid (1964)	dub=http://31.43.191.125:8080/movie/restream/restream/142069.mkv
 Kiss the Cook (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/144016.mkv
 Kiss Toledo Goodbye (1999)	dub=http://31.43.191.125:8080/movie/restream/restream/143282.mkv
+Kiss, Kiss! (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/132789.mkv
 Kissufim (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5699060.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756400.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76432.mp4
 Kitbull (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/137291.mkv
 Kite (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/143767.mkv
@@ -285,6 +282,7 @@ KIZUMONOGATARI -Koyomi Vamp (2024)	leg=http://64.31.23.207:80/movie/96795792/501
 Klaus (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716788.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766073.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/3109.mp4,http://31.43.191.125:8080/movie/restream/restream/133656.mkv,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9745.mp4,https://comprarebom.xyz/cdn/down/441a75821f0ae0bf31677c40/index.m3u8,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/146093.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/100589.mp4
 Kleks Academy (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/95973.mp4
 Klondike - A Guerra na Ucrânia (2022)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1889434.mp4
+Klute, O Passado Condena (1971)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/656019.mp4
 KM 31: Kilometer 31 (2006)	dub=http://31.43.191.125:8080/movie/restream/restream/138969.mkv
 KM17 (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/142620.mkv	leg=http://64.31.23.207:80/movie/96795792/50165825/5696478.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755527.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76434.mp4
 Kneecap: Música e Liberdade (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5697416.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768308.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/528429.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15895.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5697388.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757001.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/528430.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76444.mp4
@@ -376,6 +374,7 @@ Kung Fu Panda: Os Segredos dos Mestres (2011)	dub=http://64.31.23.207:80/movie/9
 Kung Fu Panda: Secrets of the Furious Five (2008)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/111526.mp4
 Kung Fu Panda: Segredos do Pergaminho (2016)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766157.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/306366.mp4,https://embedplayer2.xyz/cdn/hls/675692f918fabfe3c43d025630e9d853/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/146075.mp4
 Kung Fu Yoga (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717257.mp4,http://64.31.23.207:80/movie/96795792/50165825/5717228.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760651.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/1386.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4594.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/142345.mp4
+Kung Fu: O Caminho do Tigre, o Sinal do Dragão (1972)	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/542850.mp4
 Kung Fury (2015)	dub=http://31.43.191.125:8080/movie/restream/restream/143283.mkv
 Kung Fury (CURTA) (2015)	dub=http://64.31.23.207:80/movie/96795792/50165825/5677298.mp4,http://64.31.23.207:80/movie/96795792/50165825/5677277.mp4
 Kung Pow: O Mestre Da Kung-Fu-São (2002)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712334.mp4,http://64.31.23.207:80/movie/96795792/50165825/5712310.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761132.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/1388.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4590.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/4598.mp4

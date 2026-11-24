@@ -1,47 +1,3 @@
- Tac (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/138658.mkv
- Tal Filha (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716293.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768575.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/75989.mp4
- Tal Filha (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719726.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768582.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/75990.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19699.mp4
- Tal Filho	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752554.mp4
- Tal Filho (2011)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720447.mp4,http://64.31.23.207:80/movie/96795792/50165825/5720414.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768552.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/269058.mp4
- Tal Filho (2022)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/589558.mp4	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/589554.mp4
- Tal Filho (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5694842.mp4,http://64.31.23.207:80/movie/96795792/50165825/5691339.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5691307.mp4
- Tales of Shadybug and Claw Noir (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137375.mkv
- Talvez (2008)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/138809.mp4
- Tango & Cacao (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/138700.mkv
- Tchau (1971)	dub=http://64.31.23.207:80/movie/96795792/50165825/5682839.mp4,http://64.31.23.207:80/movie/96795792/50165825/5682814.mp4
- Te Amo (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5715651.mp4,http://64.31.23.207:80/movie/96795792/50165825/5715627.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/75833.mp4
- te amo (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5698756.mp4
- Tela Preta	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/320946.mp4
- Tequilas e Algumas Mentiras (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5705278.mp4,http://64.31.23.207:80/movie/96795792/50165825/5698824.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767715.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/243120.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5705309.mp4
- Terra do Ouro (1967)	dub=http://64.31.23.207:80/movie/96795792/50165825/5711602.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761890.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/1049.mp4
- Texas (1984)	leg=http://64.31.23.207:80/movie/96795792/50165825/5685361.mp4
- Texas (1998)	dub=http://64.31.23.207:80/movie/96795792/50165825/5685855.mp4,http://64.31.23.207:80/movie/96795792/50165825/5685482.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5685512.mp4
- Texas (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5697806.mp4,http://64.31.23.207:80/movie/96795792/50165825/5697780.mp4,http://64.31.23.207:80/movie/96795792/50165825/5697618.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/580113.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/527502.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/75532.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/101264.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5697744.mp4
- The Creator no Lollapalooza Brasil (2026)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/614663.mp4
- the Devil (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/137841.mkv
- the Goal and the Glory (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/142563.mkv
- the Jungle Creature (1993)	dub=http://31.43.191.125:8080/movie/restream/restream/139243.mkv,http://31.43.191.125:8080/movie/restream/restream/139244.mkv
- The Legendary Warriors (2022)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/116035.mp4
- The Messenger (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/138214.mkv
- the Thief (1969)	dub=http://31.43.191.125:8080/movie/restream/restream/136962.mkv
- the Witch and the Wardrobe (2005)	dub=http://31.43.191.125:8080/movie/restream/restream/136922.mkv
- This Christmas (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/139831.mkv
- This Evening (2018)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/79592.mp4
- tick... BOOM! (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/140134.mkv,http://31.43.191.125:8080/movie/restream/restream/133712.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/115302.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/145124.mp4
- tick...BOOM!	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762883.mp4
- tick… BOOM! (2009)	dub=http://64.31.23.207:80/movie/96795792/50165825/5709202.mp4,http://64.31.23.207:80/movie/96795792/50165825/5709168.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5709229.mp4
- Tide & Oar (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5682882.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751038.mp4
- Time! (2026)	dub=http://64.31.23.207:80/movie/96795792/50165825/5678206.mp4,http://64.31.23.207:80/movie/96795792/50165825/5677974.mp4,http://64.31.23.207:80/movie/96795792/50165825/5677947.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750225.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/650812.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5678001.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/650813.mp4
- Todos me Amam (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5690512.mp4,http://64.31.23.207:80/movie/96795792/50165825/5690483.mp4,http://64.31.23.207:80/movie/96795792/50165825/5679845.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768754.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/642046.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/590480.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5690544.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/590481.mp4
- Tonya (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719672.mp4,http://64.31.23.207:80/movie/96795792/50165825/5719639.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762502.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/4509.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/25961.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/92683.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/142242.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/111240.mp4
- Too! (2023)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/113944.mp4
- Towards Happy Alleys (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5688201.mp4
- TRAIDOR	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301718.mp4
- Traidor (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5707162.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763642.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/196792.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5706779.mp4
- Trapaças E Dois Canos Fumegantes (1998)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713750.mp4,http://64.31.23.207:80/movie/96795792/50165825/5713722.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767653.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/3924.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15806.mp4
- Trenler ve Otomobiller (1987)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/137335.mp4
- Três é Demais (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713044.mp4,http://64.31.23.207:80/movie/96795792/50165825/5677911.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/3750.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5677938.mp4
- Tu e o Emplastro (2006)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/138218.mp4
 T'ammazzo! - Raccomandati a Dio	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753800.mp4
 T-34: O Monstro de Metal (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710857.mp4,http://64.31.23.207:80/movie/96795792/50165825/5710833.mp4,http://64.31.23.207:80/movie/96795792/50165825/5693772.mp4,http://64.31.23.207:80/movie/96795792/50165825/5693758.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760430.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/565940.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7426.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5710952.mp4,http://64.31.23.207:80/movie/96795792/50165825/5693788.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757115.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/565939.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90647.mp4
 T2 Trainspotting (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717208.mp4,http://64.31.23.207:80/movie/96795792/50165825/5717183.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761847.mp4,https://embedplayer2.xyz/cdn/hls/9123396c668d880ff361cdfdc673d151/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/41627.mp4
@@ -90,6 +46,11 @@ Takers (2010)	dub=http://31.43.191.125:8080/movie/restream/restream/143483.mkv
 Taking Earth (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/143878.mkv
 Tal Filha (2017)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19691.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1810462.mp4
 Tal Filho (2022)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19672.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1809356.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90636.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301258.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1809356.mp4
+Tal Mãe, Tal Filha (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716293.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768575.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/75989.mp4
+Tal Pai, Tal Filha (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719726.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768582.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/75990.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19699.mp4
+Tal Pai, Tal Filho	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752554.mp4
+Tal Pai, Tal Filho (2022)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/589558.mp4	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/589554.mp4
+Tal Pai, Tal Filho (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5691307.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5691339.mp4
 Talento e Fé (2015)	dub=http://64.31.23.207:80/movie/96795792/50165825/5711853.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757565.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41018.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/141069.mp4
 Tales from Black Manor (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134559.mkv
 Tales from the Crypt 3: Demónios da Noite (1995)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/135601.mp4
@@ -121,6 +82,8 @@ Tango & Cash: Os Vingadores (1989)	dub=http://64.31.23.207:80/movie/96795792/501
 Tango (1989)	dub=http://64.31.23.207:80/movie/96795792/50165825/5691721.mp4,http://64.31.23.207:80/movie/96795792/50165825/5691692.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5691749.mp4
 Tango (1998)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/593813.mp4
 Tango e Cash: Os Vingadores (1989)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/582136.mp4
+Tango One, O Mais Procurado (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716545.mp4,http://64.31.23.207:80/movie/96795792/50165825/5716518.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752789.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/5402.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46114.mp4
+Tangos, Tequilas e Algumas Mentiras (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5705278.mp4,http://64.31.23.207:80/movie/96795792/50165825/5698824.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767715.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/243120.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5705309.mp4
 Tanhaji: The Unsung Warrior (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715983.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90663.mp4
 Tank Girl (1995)	dub=http://31.43.191.125:8080/movie/restream/restream/142872.mkv
 Tanner Hall (2011)	dub=http://64.31.23.207:80/movie/96795792/50165825/5709708.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764422.mp4
@@ -144,6 +107,7 @@ TARDE DEMAIS OU NA HORA CERTA	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0
 Tarde Demais Para Esquecer (1957)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712086.mp4,http://64.31.23.207:80/movie/96795792/50165825/5712065.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763587.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31920.mp4
 TARDE DEMAIS PARA O AMOR 15 DIAS APOS UM ABORTO ESPONTANEO	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302349.mp4
 Tarde Demais Para Voltar (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5698626.mp4,http://64.31.23.207:80/movie/96795792/50165825/5698603.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/393836.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21933.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5698576.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755925.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90669.mp4
+Tarde demais, meu amor (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5687014.mp4,http://64.31.23.207:80/movie/96795792/50165825/5686990.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/608867.mp4
 Tardes de Solidão	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752030.mp4
 Target Number One (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715743.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90675.mp4
 Tarot - Carta da Morte (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/100624.mp4
@@ -163,6 +127,7 @@ Tarzan Vai à Índia (1962)	dub=http://64.31.23.207:80/movie/96795792/50165825/5
 Taste of Freedom (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/142846.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/65236.mp4
 Tata mută munții (2021)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/145091.mp4
 Tatame (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5679080.mp4,http://64.31.23.207:80/movie/96795792/50165825/5679057.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750456.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/645404.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312571.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312579.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5679136.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768878.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/645405.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/312561.mp4
+Tati, a Garota (1973)	dub=http://64.31.23.207:80/movie/96795792/50165825/5683626.mp4,http://64.31.23.207:80/movie/96795792/50165825/5683602.mp4
 Táticas do Amor (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708641.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753689.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/267446.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43087.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5708674.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93082.mp4
 Táticas do Amor 2 (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5704207.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754245.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/267469.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43092.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/69326.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5704180.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93071.mp4
 Tau (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718845.mp4,http://64.31.23.207:80/movie/96795792/50165825/5718816.mp4,http://64.31.23.207:80/movie/96795792/50165825/5688036.mp4,http://64.31.23.207:80/movie/96795792/50165825/5688008.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765343.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/4969.mp4,http://31.43.191.125:8080/movie/restream/restream/133827.mkv,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34760.mp4,https://embedplayer2.xyz/cdn/hls/8cefc8350fd0b42172eb4611ae00713b/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/135362.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5688067.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90714.mp4
@@ -202,6 +167,7 @@ Te Espero no Fim da Jornada (2024)	leg=http://64.31.23.207:80/movie/96795792/501
 Te Pego Lá Fora (1987)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695393.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768119.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/373820.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19713.mp4,https://embedplayer2.xyz/cdn/hls/4c0e684ee0740ec8c8842f9741818945/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/134794.mp4
 Te Pego na Saída (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719958.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767931.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/72996.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19722.mp4
 Te Peguei! (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720309.mp4,http://64.31.23.207:80/movie/96795792/50165825/5720278.mp4,http://64.31.23.207:80/movie/96795792/50165825/5718984.mp4,http://64.31.23.207:80/movie/96795792/50165825/5678391.mp4,http://64.31.23.207:80/movie/96795792/50165825/5678367.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767849.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/72997.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/2862.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19718.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58710.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5678416.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314582.mp4
+Te Quiero, Imbécil (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5715971.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/72998.mp4
 Te_Deseo_Lo_Mejor_2021	dub=http://31.43.191.125:8080/movie/restream/restream/137333.mkv
 Tea for Two	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758092.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/31947.mp4
 Tea for Two (2015)	dub=http://64.31.23.207:80/movie/96795792/50165825/5697168.mp4,http://64.31.23.207:80/movie/96795792/50165825/5697141.mp4
@@ -260,6 +226,7 @@ Tell It To The Bees (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/57
 Tell Me Who I Am (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/133173.mkv
 Tell No One (2012)	dub=http://31.43.191.125:8080/movie/restream/restream/142166.mkv
 Teller's Camp (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134560.mkv
+Telma, o Unicórnio (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/86008.mp4
 Tem Algo de Errado com as Crianças (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5702433.mp4,http://64.31.23.207:80/movie/96795792/50165825/5702411.mp4,http://64.31.23.207:80/movie/96795792/50165825/5698773.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758417.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/388663.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/291439.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52152.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58719.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5702591.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757221.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90751.mp4
 Tem Alguém Na Sua Casa (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710448.mp4,http://64.31.23.207:80/movie/96795792/50165825/5710382.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759177.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/6931.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52166.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5710919.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90763.mp4
 Tem Alienígenas no meu Quarto (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720061.mp4,http://64.31.23.207:80/movie/96795792/50165825/5720041.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767342.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/72991.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19745.mp4,https://embedplayer2.xyz/cdn/hls/29500d4218d8bf936b44189192d94b20/master.txt
@@ -374,6 +341,7 @@ Terapia do Sexo (1978)	dub=http://64.31.23.207:80/movie/96795792/50165825/571980
 Terapia Intensiva (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5679485.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/644161.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311845.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5679512.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311894.mp4
 Terapia nas Montanhas (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695751.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768345.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/546028.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19812.mp4,https://embedplayer2.xyz/cdn/hls/0275450e5f3962b420f0a75a1760d921/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5695725.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755931.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/546029.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90883.mp4
 Terceira Pessoa (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710516.mp4,http://64.31.23.207:80/movie/96795792/50165825/5710486.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764521.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/556141.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32001.mp4
+Terceirão - Um Ano, Quatro Vidas (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5690459.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752120.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768869.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/592139.mp4
 Tere Ishk Mein (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5687791.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/604889.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/90894.mp4
 Terei o Direito de Matar? (1964)	dub=http://64.31.23.207:80/movie/96795792/50165825/5688547.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/600785.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32012.mp4
 Teresa (2023)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/46753.mp4
@@ -532,6 +500,8 @@ THAIDI Exordre (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/1438
 Thanatomorphose (2012)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720552.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1869207.mp4	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/252138.mp4
 Thangalaan (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/75846.mp4
 Thank You for Bombing (2015)	dub=http://31.43.191.125:8080/movie/restream/restream/139525.mkv,http://31.43.191.125:8080/movie/restream/restream/139641.mkv
+Thank You, I'm Sorry (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/133528.mkv
+Thank You, Next (2023)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/529574.mp4
 Thanks for Sharing (2013)	dub=http://31.43.191.125:8080/movie/restream/restream/142186.mkv
 Thanksgiving (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/142878.mkv
 Thar (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133909.mkv
@@ -582,6 +552,7 @@ The Adventures of Huck Finn (1993)	dub=http://31.43.191.125:8080/movie/restream/
 The Adventures of Jurassic Pet 2: The Lost Secret (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/139409.mkv
 The Adventures of Paddington	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/140911.mp4
 The Adventures of Peanut and Pig (2022)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/46889.mp4
+The Adventures of Priscilla, Queen of the Desert (1994)	dub=http://31.43.191.125:8080/movie/restream/restream/142885.mkv
 The Adventures of Tintin (2011)	dub=http://31.43.191.125:8080/movie/restream/restream/139425.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/111213.mp4
 The Aeronauts (1984)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/135281.mp4
 The Aeronauts (2019)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/100664.mp4
@@ -814,6 +785,7 @@ The Burden of Nine Lives (2024)	dub=https://embedplayer2.xyz/cdn/hls/e03947f72e0
 The Burial (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/142904.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/140773.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/80259.mp4
 The Burnt Orange Heresy (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5714503.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91207.mp4
 The Butcher (2009)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1860607.mp4
+The Butcher, the Chef, and the Swordsman (2011)	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/611104.mp4
 The Butterfly Effect 3: Revelations (2009)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/99550.mp4
 The Bygone	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/144400.mp4
 The Cage (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/143203.mkv
@@ -883,6 +855,7 @@ The Christmas Sitters (2020)	dub=http://31.43.191.125:8080/movie/restream/restre
 The Christmas Temp (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/139789.mkv
 The Christmas Writer (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5680535.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750209.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309794.mp4
 The Chronicles of Narnia: Prince Caspian (2008)	dub=http://31.43.191.125:8080/movie/restream/restream/137013.mkv
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)	dub=http://31.43.191.125:8080/movie/restream/restream/136922.mkv
 The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/99955.mp4
 The Chrysanthemum and the Guillotine (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/142205.mkv
 The Cigarette (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/41170.mp4
@@ -1256,6 +1229,7 @@ The Gabby Douglas Story (2014)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a
 The Gallows Act II (2019)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/171900.mp4
 The Gambler (2014)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/96252.mp4
 The Game Changers	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91424.mp4
+The Gangster, the Cop, the Devil (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/137841.mkv
 The Garden (2006)	dub=http://31.43.191.125:8080/movie/restream/restream/139000.mkv
 The Gardener (2021)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/102804.mp4
 The Gardener (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134574.mkv
@@ -1308,6 +1282,7 @@ The Good Mother (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/142
 The Good Neighbor (2022)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/91727.mp4
 The Good Nurse (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133543.mkv
 The Good Witch of Christmas (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137356.mkv
+The Good, the Bart, and the Loki (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/137335.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/104256.mp4
 The Grab (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/137679.mkv
 The Grand Bolero (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/142210.mkv
 The Grand Budapest Hotel (2014)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/117724.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/140523.mp4
@@ -1528,6 +1503,7 @@ The Jurassic Games (2018)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c171
 The Kama Sutra of Vatsyayana (1994)	dub=http://31.43.191.125:8080/movie/restream/restream/143047.mkv
 The Kangaroo King (2015)	dub=http://31.43.191.125:8080/movie/restream/restream/136703.mkv
 The Karate Kid (2010)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/100010.mp4
+The Karate Kid, Part III	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/185514.mp4
 The Keeper (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5697211.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757316.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91536.mp4
 The Key (2013)	leg=http://64.31.23.207:80/movie/96795792/50165825/5679144.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313387.mp4
 The Kid	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91538.mp4
@@ -1709,6 +1685,7 @@ The Long Walk (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/13844
 The Long Walk - O Desafio (2025)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/52101.mp4
 The Longest Week (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/139879.mkv
 The Longest Yard (2005)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/112377.mp4
+The Looney, Looney, Looney Bugs Bunny Movie (1981)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/174031.mp4
 The Lorax (2012)	dub=http://31.43.191.125:8080/movie/restream/restream/139203.mkv
 The Lord of the Rings: The Two Towers (2002)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/96483.mp4
 The Lord of the Rings: The War of the Rohirrim - 2024 [HDCAM]	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/75752.mp4
@@ -1977,6 +1954,7 @@ The Order (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/137747.mk
 The Origin of Evil (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137517.mkv
 The Orphanage (2007)	dub=http://31.43.191.125:8080/movie/restream/restream/143567.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/98370.mp4
 The Other Lamb (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715969.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91765.mp4
+The Other One: The Long, Strange Trip of Bob Weir (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/133213.mkv
 The Other Side (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/143523.mkv
 The Other Side (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/138453.mkv
 The Other Side of the Wind (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/133569.mkv
@@ -2109,6 +2087,7 @@ The Princess Switch: Switched Again (2020)	dub=http://31.43.191.125:8080/movie/r
 The Prisoner (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/142976.mkv
 The Private Lives of Pippa Lee (2009)	dub=http://31.43.191.125:8080/movie/restream/restream/139792.mkv
 The Privilege (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/134272.mkv
+The Prize Winner Of Defiance, Ohio (2005)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710772.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764360.mp4
 The Prodigy (2009)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/134592.mp4
 The Prodigy (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/71420.mp4
 The Professor	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91833.mp4
@@ -2201,6 +2180,7 @@ The Ring 2 - O Aviso (2005)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c1
 The Ring Two (2005)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/115337.mp4
 The Ringmaster (2018)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/144209.mp4
 The Rip: Ponto de Rutura (2026)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/46597.mp4
+The Rise of the Red Hot Chili Peppers: Our Brother, Hillel (2025)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/43277.mp4
 The Rising Hawk (2019)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/91633.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5714717.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91866.mp4
 The Ritual (2017)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/111282.mp4
 The River (1984)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/134265.mp4
@@ -2321,8 +2301,10 @@ The Silent Hour (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/137
 The Silent Mountain (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/139470.mkv,http://31.43.191.125:8080/movie/restream/restream/139570.mkv
 The Silent Natural (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715413.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91958.mp4
 The Simpsons in Plusaversary (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/137336.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/111601.mp4
+The Simpsons Meet the Bocellis in "Feliz Navidad" (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137359.mkv
 The Simpsons Movie (2007)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/112099.mp4
 The Simpsons: O C'mon All Ye Faithful (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/73564.mp4
+The Simpsons: The Good, the Bart, and the Loki (2021)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/115373.mp4
 The Sinful Dwarf (1973)	dub=http://31.43.191.125:8080/movie/restream/restream/143308.mkv
 The Single's Guidebook (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/139798.mkv
 The Sinking of the Lisbon Maru (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5694908.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91965.mp4
@@ -2431,6 +2413,7 @@ The Tambour of Retribution (2021)	dub=http://aponteiecair.lat:80/movie/65689527/
 The Taming of the Shrewd (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/132878.mkv
 The Taming of the Shrewd 2 (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/132877.mkv
 The Tangle (2019)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1883371.mp4
+The Tank and the Olive Tree, Another History of Palestine (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/138820.mkv
 The Taste of Things (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/139795.mkv,http://31.43.191.125:8080/movie/restream/restream/143789.mkv
 The Tax Collector (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/137103.mkv	leg=http://64.31.23.207:80/movie/96795792/50165825/5714749.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/91992.mp4
 The Taylor Hawkins Tributo (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5704009.mp4
@@ -2708,8 +2691,10 @@ Thelma & Louise (1991)	dub=http://64.31.23.207:80/movie/96795792/50165825/568861
 Thelma (1991)	dub=http://64.31.23.207:80/movie/96795792/50165825/5697748.mp4,http://64.31.23.207:80/movie/96795792/50165825/5697719.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5697694.mp4
 Thelma (2024)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/528435.mp4,http://31.43.191.125:8080/movie/restream/restream/137601.mkv,https://embedplayer2.xyz/cdn/hls/5453d857c807b19a31478d1db9cbedd8/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/88864.mp4	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/519949.mp4
 Thelma the Unicorn (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/133675.mkv
+Thelma, O Unicórnio (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5700269.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2769107.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/334866.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/102333.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5700243.mp4
 Then Came You (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/139772.mkv
 Theo Von: I'm Doing Fine (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5721239.mp4
+Theo, além da liberdade (2017)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/527655.mp4
 There Be Dragons (2011)	dub=http://31.43.191.125:8080/movie/restream/restream/139458.mkv,http://31.43.191.125:8080/movie/restream/restream/139555.mkv
 There There (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137168.mkv
 There's a New Killer in Town (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/71589.mp4
@@ -2783,12 +2768,15 @@ Thor: O Filho de Asgard (2011)	dub=http://dns.explouddev.com:80/movie/632270679/
 Thor: O Mundo Sombrio (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713295.mp4,http://64.31.23.207:80/movie/96795792/50165825/5713265.mp4,http://64.31.23.207:80/movie/96795792/50165825/5679309.mp4,http://64.31.23.207:80/movie/96795792/50165825/5679279.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760795.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/655895.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7562.mp4,https://embedplayer2.xyz/cdn/hls/865935242673cd3b26c343c3c5ded456/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/146432.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5679336.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311896.mp4
 Thor: Ragnarok (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719072.mp4,http://64.31.23.207:80/movie/96795792/50165825/5713241.mp4,http://64.31.23.207:80/movie/96795792/50165825/5713217.mp4,http://64.31.23.207:80/movie/96795792/50165825/5679569.mp4,http://64.31.23.207:80/movie/96795792/50165825/5679541.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761886.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/1861.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/2863.mp4,http://31.43.191.125:8080/movie/restream/restream/136791.mkv,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7571.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58798.mp4,https://embedplayer2.xyz/cdn/hls/55b92a3adb8ca4e05fb78baa99d8c666/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/133491.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/134490.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5679599.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311897.mp4
 Thor: The Dark World (2013)	dub=http://31.43.191.125:8080/movie/restream/restream/136817.mkv
+Thorin, le dernier Néandertalien (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/139453.mkv
 Thorn of War (2021)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/103724.mp4
 Those I met may not have seen me (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/138103.mkv
 Those Who Wish Me Dead (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/139537.mkv,http://31.43.191.125:8080/movie/restream/restream/139655.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/112301.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/102013.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5712429.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92180.mp4
 Thoughts and Prayers (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5680677.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309014.mp4
 Threads (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/138473.mkv
 Threads - Our Tapestry of Love (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/140021.mkv
+Three Bedrooms, One Corpse: An Aurora Teagarden Mystery (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/143547.mkv
+Three Billboards Outside Ebbing, Missouri (2017)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/110720.mp4
 Three Dates to Forever (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/139763.mkv
 Three Many Weddings (2013)	dub=http://31.43.191.125:8080/movie/restream/restream/142281.mkv
 Three Minutes: A Lengthening (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137682.mkv
@@ -2816,7 +2804,11 @@ Thunderbolt and Lightfoot (1974)	dub=http://31.43.191.125:8080/movie/restream/re
 Thunderbolts* (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5692186.mp4,http://64.31.23.207:80/movie/96795792/50165825/5692068.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751310.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760519.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/583004.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/582846.mp4,http://31.43.191.125:8080/movie/restream/restream/134468.mkv,http://31.43.191.125:8080/movie/restream/restream/134493.mkv,http://31.43.191.125:8080/movie/restream/restream/136818.mkv,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7579.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58808.mp4,https://comprarebom.xyz/cdn/down/05f0e39c4c5568830794ae5c/index.m3u8,https://embedplayer2.xyz/cdn/hls/7795bf749c80da6a3f3f7a652f52812b/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/36396.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/55772.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5692209.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755450.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/582847.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92196.mp4
 Thus Spoke De Crescenzo (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/138474.mkv
 Tia Virgínia (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5702136.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757673.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/298200.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39366.mp4,https://embedplayer2.xyz/cdn/hls/b36fa83eccbf35c3f3d26ca9bf3b9a10/master.txt
+Tic, Tac (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/138658.mkv
 Tic-Tac: A Maternidade do Mal (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5705189.mp4,http://64.31.23.207:80/movie/96795792/50165825/5704819.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758840.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/256018.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52291.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58803.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5705218.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92201.mp4
+tick, tick... BOOM! (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/140134.mkv,http://31.43.191.125:8080/movie/restream/restream/133712.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/115302.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/145124.mp4
+tick, tick...BOOM!	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762883.mp4
+tick, tick… BOOM! (2009)	dub=http://64.31.23.207:80/movie/96795792/50165825/5709202.mp4,http://64.31.23.207:80/movie/96795792/50165825/5709168.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5709229.mp4
 tick... BOOM!	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32176.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1887707.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92212.mp4
 Ticker - Ameaça Infernal (2001)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/81744.mp4
 Ticket to Paradise (2022)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/95466.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/103362.mp4
@@ -2931,12 +2923,14 @@ TIO EU TE QUERO	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF
 Tio Frank (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714650.mp4,http://64.31.23.207:80/movie/96795792/50165825/5714592.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762689.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/2864.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32193.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58834.mp4
 TIO NAO ME ACALME	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301442.mp4
 TIO SENADOR DEIXE-ME IR	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302353.mp4
+TIO WILLIAM, DIGA 'SIM'!	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302148.mp4
 Tiozões (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5702866.mp4,http://64.31.23.207:80/movie/96795792/50165825/5694550.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766815.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/568996.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/560500.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19891.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58836.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5702888.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/568995.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58836.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92263.mp4
 Tipos de Gentileza (2024)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/31711.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5698920.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757033.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92268.mp4
 Tirando a Maior Onda: O Filme (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5715077.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768039.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/73016.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19906.mp4,https://embedplayer2.xyz/cdn/hls/4a74524c87b29adf7644ba644d82fb5f/master.txt
 Tirando o Atraso (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5686685.mp4,http://64.31.23.207:80/movie/96795792/50165825/5682184.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767329.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/372879.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/19910.mp4,https://embedplayer2.xyz/cdn/hls/6b9cbf512d442e757ef42c28df6d0cfb/master.txt
 TIRAR AS NOTAS ACERTAR AS CONTAS	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303055.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302984.mp4
 Tiras em Apuros (2010)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712872.mp4,http://64.31.23.207:80/movie/96795792/50165825/5712847.mp4,http://64.31.23.207:80/movie/96795792/50165825/5681401.mp4,http://64.31.23.207:80/movie/96795792/50165825/5681374.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761210.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764559.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7588.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5681430.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307687.mp4
+Tiras, Só Que Não (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710734.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767056.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/73017.mp4,https://embedplayer2.xyz/cdn/hls/85877bfefc6548f91965cd58f9eaff35/master.txt
 Tire 5 Cartas (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5702565.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757883.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/291995.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39375.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/80156.mp4
 TIREI TUDO QUE DEI AGORA E MINHA VEZ	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301594.mp4
 Tiro às Cegas (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708308.mp4,http://64.31.23.207:80/movie/96795792/50165825/5707800.mp4,http://64.31.23.207:80/movie/96795792/50165825/5690251.mp4,http://64.31.23.207:80/movie/96795792/50165825/5690224.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/319716.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21965.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5707825.mp4,http://64.31.23.207:80/movie/96795792/50165825/5690280.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92257.mp4
@@ -2966,6 +2960,8 @@ Tô de Férias (2006)	dub=https://embedplayer2.xyz/cdn/hls/dcfaf357b4eaaa9136d27
 Tô de Graça: O Filme (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5698330.mp4,http://64.31.23.207:80/movie/96795792/50165825/5698305.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757979.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/555755.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39465.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/82062.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/84191.mp4
 To Die For (1995)	dub=http://31.43.191.125:8080/movie/restream/restream/143552.mkv
 To Dust	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92285.mp4
+To Each, Her Own (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/132885.mkv
+To England, With Love (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/139828.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/103413.mp4
 To Kill The Dragon (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/143332.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/144390.mp4
 To Let Go (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/133431.mkv
 Tô Ryca 2 (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708392.mp4,http://64.31.23.207:80/movie/96795792/50165825/5708369.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757916.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767267.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/646092.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39474.mp4
@@ -3067,15 +3063,14 @@ Tom & Jerry - O Dragão Perdido (2014)	dub=http://64.31.23.207:80/movie/96795792
 Tom & Jerry - O Filme	dub=http://64.31.23.207:80/movie/96795792/50165825/5713916.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761141.mp4
 Tom & Jerry - O Filme (1992)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713971.mp4,http://64.31.23.207:80/movie/96795792/50165825/5713942.mp4
 Tom & Jerry - O Filme (2021)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/1866.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/2867.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7614.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58857.mp4,https://embedplayer2.xyz/cdn/hls/81c47b74ca974280bde77a7517af8be5/master.txt
-Tom & Jerry no Velho Oeste (2022)	leg=https://embedplayer2.xyz/cdn/hls/b2fa0d5dc1e1fd27a0e5da38a112578f/master.txt
+Tom & Jerry no Velho Oeste (2022)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11566.mp4	leg=https://embedplayer2.xyz/cdn/hls/b2fa0d5dc1e1fd27a0e5da38a112578f/master.txt
 Tom & Jerry: Ajudantes do Papai Noel (2014)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/3218.mp4
 Tom & Jerry: De Volta À Oz (2016)	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766449.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/3348.mp4
 Tom & Jerry: Encontram Sherlock Holmes (2010)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/3353.mp4
 Tom & Jerry: Robin Hood e seu Ratinho Feliz (2012)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/531909.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/3349.mp4
 Tom & Jerry: Terra do Boneco de Neve (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5706138.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753868.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766224.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/601315.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53276.mp4
+Tom & Jerry: Uma Aventura no Museu (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5686647.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98591.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/2360869.mp4,https://embedplayer2.xyz/cdn/hls/a2efa0e8c3a480923c5595e3a8e2a5b4/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5686674.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98689.mp4
 Tom & Jerry: Velozes E Ferozes (2005)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/3350.mp4
-Tom &amp; Jerry no Velho Oeste (2022)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11566.mp4
-Tom &amp; Jerry: Uma Aventura no Museu (2025)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/2360869.mp4
 Tom (2022)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/72618.mp4
 Tom and Huck (1995)	dub=http://31.43.191.125:8080/movie/restream/restream/137034.mkv
 Tom And Jerry (1917)	leg=http://64.31.23.207:80/movie/96795792/50165825/5713591.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92403.mp4
@@ -3098,7 +3093,7 @@ Tom e Jerry: O Quebra-Nozes (2007)	dub=http://64.31.23.207:80/movie/96795792/501
 Tom e Jerry: Uma Aventura com Sherlock Holmes (2010)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713559.mp4,http://64.31.23.207:80/movie/96795792/50165825/5678863.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/646555.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11574.mp4
 Tom e Jerry: Uma Aventura no Museu (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720820.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768969.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/612354.mp4	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/612355.mp4
 Tom Hanks: The Nomad (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/138479.mkv
-Tom Jerry Uma Aventura no Museu (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5686647.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98591.mp4,https://embedplayer2.xyz/cdn/hls/a2efa0e8c3a480923c5595e3a8e2a5b4/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5686674.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98689.mp4
+Tom Petty, Somewhere You Feel Free (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/138480.mkv
 Tom Thumb’s Journey (2015)	dub=http://31.43.191.125:8080/movie/restream/restream/139307.mkv
 Tomando Rumo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750906.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307363.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307373.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307433.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750780.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307417.mp4
 Tomando Rumo (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5681474.mp4,http://64.31.23.207:80/movie/96795792/50165825/5681436.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5681468.mp4
@@ -3169,6 +3164,7 @@ TORNAR-SE SOGRA DO MEU EX	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-09283
 Torneio de Natal: De Volta ao Lar (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5703704.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765339.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768638.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40292.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5703673.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92460.mp4
 Toro (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5690646.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46196.mp4
 Torpedo: U-235 (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5709965.mp4,http://64.31.23.207:80/movie/96795792/50165825/5709939.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760369.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/1873.mp4,http://31.43.191.125:8080/movie/restream/restream/143564.mkv,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7648.mp4,https://embedplayer2.xyz/cdn/hls/456662292e4157742aa62a37e68fd677/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5709989.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92462.mp4
+Torquato, Imagem da Incompletude (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5684139.mp4,http://64.31.23.207:80/movie/96795792/50165825/5683747.mp4
 Torque - A Lei do Mais Rápido (2004)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/117558.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/137893.mp4
 Torre das Donzelas (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5696794.mp4,http://64.31.23.207:80/movie/96795792/50165825/5687448.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759345.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/605867.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1866449.mp4
 Torre Greenfell: A Verdade por Trás do Desastre (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5693517.mp4,http://64.31.23.207:80/movie/96795792/50165825/5693487.mp4,http://64.31.23.207:80/movie/96795792/50165825/5679709.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760138.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/642051.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311082.mp4,https://embedplayer2.xyz/cdn/hls/fd0a64c590849d48b97289fff6e3544f/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5693533.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756401.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/570666.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92467.mp4
@@ -3254,6 +3250,7 @@ Tráfico de Mulheres (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5
 Tráfico de Orgãos (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5702562.mp4,http://64.31.23.207:80/movie/96795792/50165825/5702507.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760893.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7748.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5702543.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755002.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92829.mp4
 Tráfico Sexual (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5700534.mp4,http://64.31.23.207:80/movie/96795792/50165825/5699986.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/347031.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21979.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5700503.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754438.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/347032.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92834.mp4,https://embedplayer2.xyz/cdn/hls/750625fbc00079579afcc01985621afe/master.txt
 TRAGA O PAPAI PARA CASA	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302636.mp4
+TRAGA, MINHA VIDA DE MAFIA! - BRING IT ON, MY MAFIA LIFE!	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302135.mp4
 Tragédia no Set: Rust e a História de Halyna (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5693925.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755854.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/564249.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92532.mp4
 Tragic Jungle (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/133600.mkv
 Trago Notícias de Fernando (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5677237.mp4,http://64.31.23.207:80/movie/96795792/50165825/5677205.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750264.mp4
@@ -3453,6 +3450,7 @@ Trinity Ainda é Meu Nome (1971)	dub=http://64.31.23.207:80/movie/96795792/50165
 Trinity é o Meu Nome (1970)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719725.mp4,http://64.31.23.207:80/movie/96795792/50165825/5719702.mp4,http://64.31.23.207:80/movie/96795792/50165825/5685059.mp4,http://64.31.23.207:80/movie/96795792/50165825/5685029.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767512.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/73031.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20036.mp4
 Trinity e Seus Companheiros (1975)	dub=http://64.31.23.207:80/movie/96795792/50165825/5684707.mp4,http://64.31.23.207:80/movie/96795792/50165825/5684681.mp4
 Trip de Família	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/146346.mp4
+Trip, O Elfo Construtor (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5702250.mp4,http://64.31.23.207:80/movie/96795792/50165825/5702221.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767025.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/292615.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5702286.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754957.mp4
 Tripla Ameaça (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5699251.mp4,http://64.31.23.207:80/movie/96795792/50165825/5699224.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761745.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/1880.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7706.mp4,https://embedplayer2.xyz/cdn/hls/22afc9005ca7d3a37e7e9b396974bfa0/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5699197.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755883.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/388316.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92705.mp4
 Triple 9 (2016)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/111049.mp4
 Triple 9: Polícia em Poder da Máfia (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5683405.mp4,http://64.31.23.207:80/movie/96795792/50165825/5683379.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/322955.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255359.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5683433.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255396.mp4
@@ -3612,6 +3610,8 @@ Tudo Começa no Brooklyn (2018)	dub=http://64.31.23.207:80/movie/96795792/501658
 Tudo de Novo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767487.mp4
 Tudo de Novo (2020)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20088.mp4
 Tudo De Novo (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712768.mp4
+Tudo de Novo, Mais Uma Vez (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5704959.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/256252.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5704986.mp4
+Tudo de Novo, Mais Uma Vez 4K [Hybrid] (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5702850.mp4
 Tudo é Possível (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5707720.mp4,http://64.31.23.207:80/movie/96795792/50165825/5707459.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753458.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/110681.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43077.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58971.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5707758.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/93003.mp4
 Tudo e Todas as Coisas (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719085.mp4,http://64.31.23.207:80/movie/96795792/50165825/5719055.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763989.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/538609.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/32356.mp4
 Tudo em Família (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5699540.mp4,http://64.31.23.207:80/movie/96795792/50165825/5699399.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753176.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/372912.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43058.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/58969.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5699949.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755272.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/372911.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/92930.mp4
@@ -3698,6 +3698,7 @@ Tunnelen (2016)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715798.mp4,h
 Turbo (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717946.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766210.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/3362.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11623.mp4,https://embedplayer2.xyz/cdn/hls/9ef4997fc3e1d7eb2b5461128a3fed40/master.txt,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/146126.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/140058.mp4
 Turbo Kid (2015)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/568997.mp4,http://31.43.191.125:8080/movie/restream/restream/143913.mkv,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/9209.mp4
 Turbo: Power Rangers 2	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765698.mp4
+Turbo: Power Rangers, O Filme (1997)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/135695.mp4
 Turbulence (2025)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/46912.mp4
 Turbulência	dub=http://64.31.23.207:80/movie/96795792/50165825/5678263.mp4,http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751507.mp4
 Turbulência (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5683860.mp4,http://64.31.23.207:80/movie/96795792/50165825/5683823.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5683890.mp4
@@ -3732,6 +3733,7 @@ Tutankhamun__Unmasking_the_Curse_2024	dub=http://31.43.191.125:8080/movie/restre
 TV Aparecida	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41009.mp4
 TV Girl no Lollapalooza Brasil (2026)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/615200.mp4
 Tweety - Aventura A Volta do Mundo (2000)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/91978.mp4,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/136572.mp4
+Twelfth Night, or What You Will (2003)	dub=http://31.43.191.125:8080/movie/restream/restream/139867.mkv
 Twenty One Grams (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/143087.mkv
 Twenty-Nine (2022)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/43911.mp4
 Twice Born (2012)	dub=http://31.43.191.125:8080/movie/restream/restream/142237.mkv
@@ -3773,5 +3775,6 @@ Tyler Perry's A Madea Homecoming (2022)	dub=http://31.43.191.125:8080/movie/rest
 Tyler Perry's Divorce in the Black (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/143034.mkv,http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/92092.mp4
 Tyler Perry's Duplicity (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134593.mkv
 Tyler Perry's Finding Joy (2025)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/51270.mp4
+Tyler, The Creator no Lollapalooza Brasil (2026)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/614663.mp4
 Tyson's Run (2022)	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/126462.mp4
 TZ da Coronel e Borges no Rock in Rio (2024)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/397509.mp4
