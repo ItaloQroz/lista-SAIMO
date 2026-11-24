@@ -9,6 +9,7 @@ Listas no formato do Saimo TV.
 
 ## Minhas listas (uma de cada vez)
 
+- `https://raw.githubusercontent.com/ItaloQroz/lista-SAIMO/main/m3u30/canais.m3u`
 - `https://raw.githubusercontent.com/ItaloQroz/lista-SAIMO/main/m3u30/filmes1.m3u`
 - `https://raw.githubusercontent.com/ItaloQroz/lista-SAIMO/main/m3u30/filmes2.m3u`
 - `https://raw.githubusercontent.com/ItaloQroz/lista-SAIMO/main/m3u30/series1.m3u`
