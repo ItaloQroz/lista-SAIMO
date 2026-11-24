@@ -1,0 +1,90 @@
+X A Marca da Morte 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59349.mp4
+X Men 2 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5714179.mp4
+X Men 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5714128.mp4
+X Men Apocalipse 4K (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714073.mp4
+X Men Dias De Um Futuro Esquecido 4K (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714016.mp4
+X Men Fenix Negra 4K [HDR]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59341.mp4
+X Men O Confronto Final 4K (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713954.mp4
+X Men Primeira Classe 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5713894.mp4
+X+Y (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/142111.mkv
+X-Men (2000)	dub=http://31.43.191.125:8080/movie/restream/restream/136822.mkv
+X-Men 2	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761001.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59344.mp4
+X-Men 2 (2003)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714462.mp4
+X-Men 2 (2003) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/230444.mp4
+X-Men Apocalipse 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59354.mp4
+X-Men Dias de um Futuro Esquecido 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59358.mp4
+X-Men Fênix Negra 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59363.mp4
+X-Men O Confronto Final 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59367.mp4
+X-Men O Filme 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59369.mp4
+X-Men Origens: Wolverine	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761996.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8222.mp4
+X-Men Origens: Wolverine (2009)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714317.mp4
+X-Men Origins: Wolverine (2009)	dub=http://31.43.191.125:8080/movie/restream/restream/136827.mkv
+X-Men: Apocalipse	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760499.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59354.mp4
+X-Men: Apocalipse (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714247.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5684559.mp4
+X-Men: Apocalipse (2016) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/230445.mp4
+X-Men: Apocalypse (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/136823.mkv
+X-Men: Days of Future Past (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/136825.mkv
+X-Men: Dias de um Futuro Esquecido	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760606.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59358.mp4
+X-Men: Dias De Um Futuro Esquecido (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714332.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5684434.mp4
+X-Men: Dias de um Futuro Esquecido (2014) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/230446.mp4
+X-Men: Fênix Negra	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761666.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59341.mp4
+X-Men: Fênix Negra (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5717960.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5714197.mp4
+X-Men: Fênix Negra (2019) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/230447.mp4
+X-MEN: FÊNIX NEGRA [4K] (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713984.mp4
+X-Men: First Class (2011)	dub=http://31.43.191.125:8080/movie/restream/restream/136826.mkv
+X-Men: O Confronto Final	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761369.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59367.mp4
+X-Men: O Confronto Final (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714374.mp4
+X-Men: O Confronto Final (2006) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/230448.mp4
+X-Men: O Filme	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760258.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59369.mp4
+X-Men: O Filme (2000)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714522.mp4
+X-Men: O Filme (2000) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/230449.mp4
+X-Men: Primeira Classe	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761803.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59374.mp4
+X-Men: Primeira Classe (2011)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714453.mp4
+X-Men: Primeira Classe (2011) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/230450.mp4
+X-Men: The Last Stand (2006)	dub=http://31.43.191.125:8080/movie/restream/restream/136828.mkv
+X2 (2003)	dub=http://31.43.191.125:8080/movie/restream/restream/136829.mkv
+X: A Marca da Morte	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759142.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59349.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96208.mp4
+X: A Marca da Morte (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5706505.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5706478.mp4
+X: A Marca da Morte 4K (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5705943.mp4
+Xamã - O Iluminado (2019)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/6768.mp4
+Xamã: O Exorcista Pagão	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768917.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96236.mp4
+Xamã: O Exorcista Pagão (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5688932.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96236.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5688907.mp4,https://embedplayer2.xyz/cdn/hls/7e85cf09d3c1bac2d6cb3b04fbc4cea2/master.txt
+Xamã: O Exorcista Pagão (2025) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/599043.mp4
+Xande de Pilares no Rock in Rio 2024	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/515654.mp4
+XENO Amizade do Além (2025)	dub=https://embedplayer2.xyz/cdn/hls/6ad1d933a18a52d1bb9964ec78e034cc/master.txt
+Xenophobia (2019)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1881403.mp4
+Xeque Mate	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8235.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59379.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96214.mp4
+Xeque Mate (1983)	dub=http://64.31.23.207:80/movie/96795792/50165825/5701342.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5701297.mp4
+Xeque Mate (2024)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/315706.mp4,https://embedplayer2.xyz/cdn/hls/0d7e7f555a23a173d8b040cc17bdfbd8/master.txt
+Xeque-Mate (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712666.mp4
+Xeque-Mate (2020)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/1962.mp4
+Xeque-Mate 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5699716.mp4
+Xeque-Mate: O Jogo da Vida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750805.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/2383754.mp4
+Xeque-Mate: O Jogo da Vida (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720416.mp4
+Xerife do Oeste	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35356.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1890473.mp4
+Xerife Do Oeste (1973)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712101.mp4
+Xica da Silva (1976)	dub=http://64.31.23.207:80/movie/96795792/50165825/5721282.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1876455.mp4
+Xing He Ru Meng	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307315.mp4
+Xing He Ru Meng (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5681928.mp4
+Xingu	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757990.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39628.mp4
+Xingu (2012)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712022.mp4
+Xirê dos Orixás - A Festa da Natureza (2016)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/552953.mp4
+XOXO (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/133621.mkv
+XOXO: A Vida é Uma Festa	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763638.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33257.mp4
+XOXO: A Vida é Uma Festa (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719409.mp4
+Xtreme (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/132650.mkv
+Xtremo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761085.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59386.mp4
+Xtremo (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712470.mp4
+Xtremo (2021) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/530214.mp4
+Xtremo 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5697622.mp4
+Xuxa Abracadabra (2003)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/378754.mp4
+Xuxa e o Tesouro da Cidade Perdida	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310717.mp4
+Xuxa e o Tesouro da Cidade Perdida (2004)	dub=http://64.31.23.207:80/movie/96795792/50165825/5679810.mp4
+Xuxa e os Duendes (2001)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/517083.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1827681.mp4
+Xuxa e os Duendes 2: No Caminho das Fadas (2002)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/517082.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1863676.mp4
+Xuxa em Sonho de Menina (2007)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/378888.mp4
+Xuxa em: O Mistério de Feiurinha (2009)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/378847.mp4
+Xuxa Gêmeas (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5686101.mp4
+Xuxa Popstar (2000)	dub=http://64.31.23.207:80/movie/96795792/50165825/5686152.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1863944.mp4
+Xuxa Requebra	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310718.mp4
+Xuxa Requebra (1999)	dub=http://64.31.23.207:80/movie/96795792/50165825/5679861.mp4

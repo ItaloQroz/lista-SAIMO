@@ -1,0 +1,1201 @@
+O Abismo Mágico (Abyss) 2019 Leg		0	16
+O Acampamento de Lazlo		0	53
+O Acampamento de Lazlo	2005	0	61
+O Acerto de Contas Levanta Voo		0	1
+O Adeus Que Sacudiu O Trono		0	1
+O Advogado		0	18
+O Advogado de Divórcio		0	12
+O Agente de Futebol		0	6
+O Agente Divino	2026	0	8
+O Agente Noturno	2023	0	30
+O Agente Noturno 2023 LEG		0	30
+O Ajustador		0	1
+O Alienista	2018	0	18
+O Amanha e Eu	2024	0	4
+o Amor Ardente		0	1
+O Amor Começa		0	1
+O Amor Comeca no Mundo do E Se		0	6
+O Amor da Minha Vida - Hayatimin Aski		0	17
+O Amor de Sr Murilo		0	1
+O Amor e Melhor na Segunda Vez		0	6
+O Amor Está Por Aí	2014	0	122
+O Amor faz voce chorar - Aşk Ağlatır		0	16
+O Amor Invencivel	2023	0	80
+O Amor Mora ao Lado	2024	0	16
+O Amor Não Entende Palavras		0	61
+O Amor Não Está Esgotado	2026	0	12
+O Amor Nao Tem Mitos	2026	0	21
+O Amor não tem Receita	2024	0	28
+O Amor Nunca Falha LEG	2025	0	40
+O Amor Perdura	2024	0	32
+O Amor Pode Ser Traduzido	2026	0	12
+O Amor Que Me Da		0	28
+O Amor Que Me Dá Leg	2023	0	28
+O Amor Se Desfez no Jogo		0	1
+O Amor Tem Fogos de Artifício	2026	0	72
+O Amor Volta para Casa	2024	0	12
+O Ancião - Baba		0	30
+O Aniversario Do Pai Se Transformou No Funeral Da Filha	2026	0	1
+O Anjo do Amor		0	16
+O Anjo do Amor 2019 LEG		0	16
+O Anjo do Mar		0	8
+O Ano Em Que A Música Mudou O Mundo		0	8
+O Anti Heroi		0	10
+o Apóstolo	2025	0	51
+O Aquario	2019	0	20
+O Aristocrata Decadente	2026	0	6
+O Aroma do Tempo		1	60
+O Aroma do Tempo 2023 LEG		1	30
+O Arrependimento no Espelho		1	1
+O Arsenal dos Espiões	2021	1	8
+O Artista	2025	1	6
+O Assalto	2013	1	3
+O Assassinato das Três Escoteiras		1	4
+O Assassinato de Jill Dando		1	3
+O Assassinato de Yara Gambirasio	2024	1	5
+O Assassinato do Ator Rafael Miguel	2025	1	3
+O Assassinato nas Montanhas Rochosas	2025	1	3
+O Assassino Confesso	2019	1	5
+O Assassino da Capa de Chuva: Caça ao Serial Killer Coreano		1	3
+O Assassino de Valhalla	2019	1	8
+O Assassino do Rio Green Caca Ao Monstro		1	4
+O Assassino do TikTok	2026	1	2
+o Assassino do Zodíaco	2020	1	4
+O Assassino Midiático	2023	1	10
+O Astro		1	145
+O Astro	2011	1	64
+O Ataque de Ciragan - Çırağan Baskını		1	4
+O Atentado ao Voo Pan Am 103	2025	1	6
+O Atirador	2016	1	32
+O Ato (L)		1	8
+O Ato 2019 - The act		1	8
+O Auto da Compadecida		1	4
+O Avatar do Rei (L)		1	69
+O Baba	2023	1	26
+O bárbaro	1980	1	13
+O Barbeiro da Vila Leg	2026	1	10
+O Batman	2004	1	65
+O Bebê		1	8
+O Beijo da Sereia	2026	1	12
+O Beijo do Destino		1	12
+O Beijo do Vampiro		1	215
+O Bem-Amado		1	177
+O Berserker da Gula		1	12
+O Berserker da Gula 2023 LEG		1	12
+O Bicho Vai Pegar O Chamado da Natureza		1	8
+O Bilionário e a Amada Grávida Desaparecida		1	1
+o Bionicão	1976	1	16
+O Blefe de 1 Milhão!		1	10
+O Bom Doutor		1	20
+O Bombeiro Bilionario e Sua Doce Esposa		1	1
+O Bombeiro Sam		1	26
+O Bonde	2022	1	16
+O Bosque	2017	1	6
+O Brado Retumbante	2012	1	8
+O Bravo e a Bela		1	32
+O Bravo e a Bela (Cesur ve Güzel)		2	93
+O Bravo e a Bela 2016 LEG		2	32
+O Caçador	2014	2	14
+o Caçador de Magia		2	10
+o Caçador de Magia	2022	2	20
+O Cafetão		2	6
+O Caminho do Destino	2012	2	24
+O Caminho Estreito para os Confins do Norte	2025	2	5
+O Caminho para o Sucesso	2026	2	33
+O Cangaceiro do Futuro	2022	2	7
+O Canto da Sereia	2013	2	4
+O Canto do Pássaro	2022	2	427
+O Canto do Pássaro 2022 LEG		2	79
+O Canto Livre de Nara Leão		2	5
+o Cão Covarde	1999	3	53
+o Cãopanheiro	2020	3	8
+O Caozinho Esperto	2000	3	13
+O Capuz - Kopuk		3	5
+o Carneiro		3	138
+o Carneiro	2007	3	150
+O Cartel da Marmita	2025	3	7
+O Casal da Casa ao Lado	2023	3	12
+O Casal Perfeito	2024	3	6
+O Casamento Proibido		3	12
+O Caso Ashley Madison		3	3
+O Caso Asunta	2024	3	6
+O Caso Celso Daniel		3	8
+O Caso do Chefe - Uma Questao de Honra - Seref Meselesi		3	26
+O Caso Escola Base		3	4
+O Caso Evandro		3	9
+O Caso Outreau Um Pesadelo Frances	2024	3	4
+O Caso Robinho	2024	3	4
+O Caso Sherri Papini	2025	3	4
+O Castelo de Takeshi Japao		3	8
+O Cativeiro - Esaret		3	557
+O Cativeiro - Esaret 2022 LEG		4	557
+O Cavaleiro dos Sete Reinos	2026	4	6
+O Cavaleiro dos Sete Reinos Leg	2026	4	6
+O Cavalheiro - Delikanli		4	7
+O Cavalo Amarelo		4	3
+O CEO perseguindo a esposa substituta		4	2
+O CEO Que Comprou Meu Destino		4	1
+O Cerco de Waco		4	3
+O Chefe Da Casa		4	56
+O Chefe da Casa	2016	4	69
+O Chefinho: De Volta ao Berço		4	28
+O Chefinho: De Volta aos Negócios		4	37
+O Chefinho: De Volta aos Negócios	2018	4	49
+O Ciclo Pendragon: A Ascensão de Merlin		4	7
+O Circo da Paixão	2023	4	15
+O Circulo		4	80
+O Circulo Secreto		4	22
+O Cla Olimpia Uma Historia de Redencao		4	6
+O Clone		4	252
+O Clube	2020	4	47
+O Clube da Meia-Noite	2022	4	10
+O Clube das Babás		4	18
+O Clube das Babás	2020	5	10
+O Clube das Coisas Mágicas	2018	5	40
+O Clube das Divorciadas		5	29
+O Clube das Winx	2004	5	208
+O Clube dos Amigos Secretos		5	12
+O Clube dos Graves		5	10
+O Código Bill Gates	2019	5	3
+o Coelhinho Perdido	2022	5	4
+O Colapso		5	1
+O Coletor de Corpos		5	3
+O Conde de Monte Cristo	2025	5	16
+o Construtor		5	52
+O Consultor		5	8
+O Continental Do Mundo de John Wick		5	3
+O Conto Da Aia	2017	5	66
+O Conto da Raposa de Nove Caudas		5	29
+O Conto da Raposa de Nove Caudas 2020 LEG - A Lenda do Nove Caudas		5	16
+O Conto da Senhora Ok	2024	5	30
+O Coro: Sucesso Aqui Vou Eu!		5	10
+O Corredor Da Morte		5	4
+O Corvo: Uma Escada para o Céu	1998	5	4
+O Cravo e a Rosa	2000	5	221
+O Crime do Padre Amaro		5	6
+O Crime do Século		5	2
+O Cristal Encantado: A Era da Resistência	2019	5	10
+O Crush Perfeito		5	6
+O Cuco de Cristal	2025	5	6
+o Culpado	2022	5	12
+O Culto da Morte O Caso Andrea Yates	2026	5	3
+O Curandeiro		5	20
+O Curioso		5	63
+O Curioso	2006	5	36
+O Curioso Caso de Natalia Grace	2023	5	16
+O Curioso Caso de...		5	14
+O Curioso Caso de...	2025	5	6
+O Curioso Mundo de James		5	20
+O Degelo		5	12
+O Dentista Mascarado		5	12
+O Desaparecimento de Birgit Meier		5	4
+O Desaparecimento de Kimmy Diore		6	6
+O Desastre de Chernobyl		6	3
+O Desconhecido Mundo Animal	2021	6	12
+O Despertar das Tartarugas Ninja		6	26
+O Despertar das Tartarugas Ninja	2018	6	49
+O Destino do Amor	2026	6	10
+O Detetive das Sombras	2022	6	16
+O Dia De Amanhã		6	5
+O Dia Depois da Eleição		6	5
+O Dia Do Chacal	2024	6	10
+O Dia Em Que A Minha Vida Mudou		6	20
+O Dia em Que a Minha Vida Mudou	2024	6	10
+O Diabo em Ohio	2022	6	8
+O Diagnóstico		6	10
+O Diário de Daniela	1998	6	101
+O Diário de Mika	2015	6	78
+O Dilema De Suzie		6	11
+O Direito De Nascer		6	191
+O Direito de Nascer	2001	6	125
+O Diretor Nu		6	8
+O DNA da Justiça	2020	6	9
+o documentário		6	5
+O Domo		6	38
+O Domo de Vidro	2025	6	6
+O Domo: Prisão Invisível	2013	6	38
+O Dono de Kingstown	2021	6	40
+O Dono Do Lar	2019	6	140
+O Dono do Mundo		7	198
+O Doutrinador – A Série		7	7
+O Duplo 2024 LEG		7	40
+O Eleito	2023	7	6
+O Elo Perdido	2009	7	39
+O Encontro com Dragao		7	36
+O Ensaio		7	11
+O Escandalo de Chunhwa		7	10
+O Escolhido	2019	7	12
+O Espantalho	2026	7	12
+O Espetacular Homem-Aranha	2008	7	26
+O Espião		7	6
+O Espião Arrependido		7	16
+O Esplendor de um Pai		7	1
+O Estado de Leyla - O Jeito de Leyla - Leyla Hali		7	1
+O Estrangulador de Hillside		7	4
+O Estrangulador de HillsideO Estrangulador de Hillside		7	4
+O Estranho Retorno de Diana Salazar	2024	7	8
+O Estripador	2020	7	4
+O Estudio	2025	7	10
+O Estudio da Meia Noite	2024	7	16
+O Estúdio da Meia-Noite 2024 LEG		7	16
+o ETeimoso	1986	7	101
+O Eternauta		7	6
+O Eternauta 2025 - The Eternaut		7	6
+O Exército Esquecido		7	5
+O Exorcista		7	20
+O Experimento Americano	2026	7	5
+O Exterminador do Futuro Zero	2024	7	8
+O Exterminador do Futuro: As Crônicas de Sarah Connor	2008	7	31
+O Extraordinário Observador de Pássaros com Christian Cooper		7	6
+O Extraordinario Territorio da Escandinavia		7	5
+O Falcão do Golfe	2026	7	10
+O Falsificador - Kalpazan		7	8
+O Falsificador Mórmon	2021	7	3
+O Falso Sheik		7	3
+O Famoso Alfaiate		7	46
+O Fantasma Do Metro		7	16
+O Fantasma Escritor		7	39
+O Fantasma Escritor	2019	7	26
+o Fantasminha		7	3
+O Fantástico Jaspion		7	46
+O Fantastico Mundo do Cao da Pradaria	2019	7	12
+O Farejador		7	32
+O Faz Nada	2023	7	7
+O Filho Banido de Zeus	2026	7	1
+O Filho Bastardo do Diabo	2022	7	8
+O Fim da Beleza	2022	7	3
+O fim da geada e o sol - Ayazın Sonu Güneş		7	75
+O Fim da Infância	2015	7	3
+O Fim do Amor		7	10
+O Fim do Mundo		7	35
+O Fim do Mundo Com Você		7	8
+O Fogo dentro de Nós - İçimizdeki Ateş		7	5
+O Futuro	2022	7	12
+O Futuro de Bill Gates	2024	7	5
+O Gabinete de Curiosidades de Guillermo del Toro	2022	7	8
+O Gambito da Rainha	2020	8	7
+O Garoto de Cada Dia		8	7
+O Garoto De Programa Que Conheci Em Paris		8	1
+O Gato Prendado está Deprimido Hoje de Novo		8	13
+O Gênio	2025	8	97
+O Genio - Deha		8	96
+O Gerente da Noite	2016	8	12
+O Gerente Noturno		8	6
+O Golpe do Amor	2019	8	6
+o Gorila		8	31
+o Gorila	1964	8	8
+O Grande	2025	8	4
+O Grande Clerigo		8	12
+O Grande Gonzalez		8	10
+O Grande Guerreiro Otomano	2014	9	896
+O Grande Sultao		10	310
+O Grifo		10	6
+O Grito das Mariposas		10	13
+O Grito: Origens	2020	10	6
+O Guardiao		10	32
+O Guardião do Espaço	1983	10	51
+O Guia Pratico do Amor		10	12
+O Guia Prático do Amor LEG	2026	10	12
+O Hacker Adolescente Mais Procurado		10	1
+O Herdeiro	2025	10	56
+O Herdeiro Impossivel		10	12
+O Herdeiro Impossível LEG	2024	10	12
+O Herdeiro Perdido: nas Vésperas de Retomar Tudo		10	1
+O Herdeiro: A Dinastia do Freestyle		10	4
+O Homem Certo - O Cara Real - Esas Oglan		10	8
+O Homem com Mil Filhos		10	3
+O Homem das Castanhas	2021	10	13
+O Homem de Seis Milhões de Dólares	1974	10	19
+O Homem Do Castelo Alto		10	40
+O Homem do Fundo do Mar Leg	1977	10	17
+O Homem Inocente		10	20
+O Homem Mais Odiado da Internet		10	3
+O Homem Mais Procurado da Índia (L)		10	4
+o Homem Máquina		10	40
+O Homem na Arena: Tom Brady		10	10
+O Homem por Trás do Uniforme		10	1
+O Homem que Veio do Céu		10	111
+O Hóspede Americano		10	4
+O Hospital		10	18
+O Hospital	2021	10	12
+O Idiota Favorito de Deus	2022	10	8
+O Idolo Celestial		10	12
+O Idolo Celestial 2023 LEG		10	12
+O Iluminado	1997	10	3
+O Ima - the Imam		10	31
+O Imperador de Ocean Park		10	10
+O Imperdoavel - Lo Imperdonable		10	120
+O Império - The Empire		10	7
+O Império dos Chimpanzés		10	4
+O Imperio Elegante		10	105
+O imperio Xyrin		10	16
+O Impostor	2024	10	16
+O Incidente de Darwin	2026	11	13
+O Incrível Circo Digital	2023	11	9
+O Incrível Hulk	1977	11	82
+O Incrivel Mundo de Gumball		11	222
+O Indice do Medo	2022	11	4
+O Indomável - Amor Sem Limites	2023	11	182
+O Indomavel Amor Sem Limites		11	329
+O Inferno São as Pessoas	2019	11	10
+o Início		11	13
+o Início	2015	11	52
+O Inocente	2021	11	8
+O Inquilino Perfeito (Kuzursuz Kiraci) Leg	2022	11	8
+O Instituto		11	9
+O Instituto	2025	11	8
+O Internato: Las Cumbres		11	22
+O Isqueiro e o vestido da Princesa		11	38
+O Jardim de Bronze		11	24
+O Jardim dos Esquecidos: A Origem		11	4
+O Jardim Secreto - Gizli Bahce		11	6
+O Jardineiro	2025	11	6
+O Jeito Apropriado de Escrever Amor		11	1
+O Jeito Que Voce Brilha		11	24
+O Jim é Assim	2001	12	177
+O Jogador 2 Entre Golpistas		12	12
+O Jogo da Abelha Rainha		12	10
+O Jogo da Corrupção	2020	12	16
+O Jogo da Fama		12	8
+O Jogo da Morte	2023	12	16
+O Jogo da Piramide	2024	12	19
+O Jogo da Vida		12	36
+O Jogo da Vitima		12	16
+O Jogo das Chaves		12	24
+O Jogo das Chaves leg	2019	12	10
+O Jogo do Diabo	2023	12	24
+O Jogo Inglês		12	6
+O Jogo Que Mudou a História	2024	12	10
+O Jovem Papa		12	10
+O Jovem Wallander		12	12
+O Jovem Wallander	2020	12	6
+O Juiz do Diabo (L)		12	16
+O Juiz do Inferno		12	14
+O Julgamento de Nuremberg		12	1
+O Laboratório de Dexter		12	77
+O Lado Obscuro da Fama	2023	12	22
+O Lado Obscuro de Gangnam		12	6
+O Lado Obscuro dos Anos 80		12	16
+O Lado Sombrio da TV Infantil	2024	12	5
+O Lado Sombrio de Hollywood		12	11
+O Lado Sombrio de Hollywood	2025	12	8
+O Lago		12	16
+O Legado - Emanet		13	803
+O Legado de Júpiter	2021	13	8
+O Legado Dos Anos 90		13	2
+O Legado Perdido do Chef Divino		13	29
+O Leopardo		13	6
+O Livro de Boba Fett		13	7
+O Lobista	2018	13	10
+O Lobo		13	49
+O Maestro e o Mar	2022	13	19
+O Maior Roubo de Arte de Todos os Tempos	2021	13	4
+O Mal na sua Essencia A Historia de Hadden Clark	2024	13	5
+O Manipulado	2025	13	12
+O Mapa dos Desejos	2026	13	6
+O Mar da Tranquilidade	2021	13	8
+O Mar Lá Fora		13	50
+O Mar Lá Fora	2020	13	12
+O Mar no Meu Coração		14	175
+O Mar no Meu Coração - Kalbimdeki Deniz	2016	14	90
+O Mar no Meu Coração - Sen Anlat Karadeniz		14	99
+O Marido	2026	14	24
+O Marido do Meu Irmao		14	3
+O Marinheiro Popeye		14	440
+O Maskara A Serie Animada	1995	14	54
+O Massacre de Waco: As Consequências		14	5
+O Mecanismo	2018	14	16
+O Médico Chefe é o Papai do meu Bebê		14	1
+O Medico da Familia - The Town Doctor - Kasaba Doktoru		14	32
+O Melhor de Mexicanicos		14	10
+O Melhor de Tudo		14	28
+O Melhor Dia da Minha Vida		14	14
+O Melhor Do Chespirito		14	8
+O Melhor dos Anos 90		14	2
+O Melhor Infarto da Minha Vida	2025	14	6
+O Menino Gênio		14	63
+O Menino Maluquinho	2022	14	26
+O Menino que não vai para o Ceu	2026	14	6
+O Mentalista		15	151
+O Mentiroso - Yalancı		15	7
+o Mestre Cuca		15	26
+O Mestre Oculto		15	1
+O Método Kominsky		15	16
+O Método Kominsky	2018	15	22
+O Meu Pai é um Caçador de Recompensas!	2023	15	19
+O Ministério do Tempo	2015	15	21
+o Minotauro	2026	15	10
+O Misteio da Rota 20		15	3
+O Mistério da Cidade do Dragão (L)		15	24
+O Mistério da Fazenda Blind Frog		15	38
+O Misterio da Fazenda Blind Frog	2021	15	28
+O Misterio da Rota 20	2023	15	3
+O Mistério das Mortes de Burari		15	3
+O Mistério de Chapelwaite		15	20
+O Misterio de Midwich	2022	15	7
+O Misterio de Varginha	2026	15	3
+O Mistério do Pico Victorio		15	6
+O Mistério do Triângulo das Bermudas		15	8
+O Misterioso Caso do Homem sem Coracao		15	2
+O Misterioso Mundo dos Sons com David Attenborough	2024	15	3
+O Misterioso Triângulo do Alasca		15	20
+O Misterioso Triângulo do Alasca	2020	15	10
+O Mito de Sísifo	2021	15	16
+O Monstro ao Lado		15	5
+O Monstro de Florença	2025	15	4
+O Monstro em Mim	2025	15	8
+o Mordomo e o Namorado	2023	15	3
+O Mundo Ainda e Belo		15	3
+O Mundo da Espionagem		15	8
+O Mundo das Winx	2016	15	26
+O Mundo de Any Malu	2026	15	10
+O Mundo De Beakman		15	26
+O Mundo de Greg	2018	15	173
+O Mundo de Karma		15	15
+O Mundo Dos Animais		15	6
+O Mundo dos Casados	2020	15	16
+O Mundo dos Centauros		15	10
+O Mundo dos Centauros	2021	15	18
+O Mundo é Dos Jovens		15	151
+O Mundo é dos Jovens	1993	15	158
+O Mundo E Um Teatro		15	11
+O Mundo Maravilhosamente Estranho de Gumball	2025	16	30
+O Mundo Maravilhoso		16	14
+O Mundo Maravilhoso De Mickey Mouse		16	20
+O Mundo Perdido	1999	16	66
+O Mundo Segundo Jeff Goldblum		16	12
+O Mundo Segundo Jeff Goldblum	2019	16	17
+O Mundo Sem Filtro de Any Malu		16	10
+O Mundo Sombrio de Sabrina	2018	16	35
+O Museu da Inocencia	2026	16	9
+O Namorado	2024	16	25
+O Nascimento de uma Beleza 2014 LEG		16	21
+O Natal dos Silva	2025	16	5
+o Natal...	2023	16	6
+O Naufrágio do Heweliusz	2025	16	5
+O Negociador		16	8
+O Negócio		16	52
+O Nevoeiro	2017	16	10
+O Ninho Futebol e Tragedia	2024	16	3
+O Noivo Perfeito - Sahane Damat		16	8
+O Nome da Rosa		16	8
+O Nome e Felicidade - Adi Mutluluk		16	30
+O Nome é Felicidade - Adı Mutluluk		16	17
+O Novato Mais Forte do Mundo		16	1
+O Novato Renascido	2026	16	12
+O Novo Experimento de Aprisionamento de Stanford	2026	16	6
+O Novo Papa		16	9
+O Novo Pica-Pau		16	112
+O Novo Pica-Pau	1999	16	55
+O Novo Show do Pica-Pau		16	112
+O Novo Show do Scooby-Doo e do Scooby-Loo	1983	16	40
+O Oitavo Sentido		16	10
+O Ônibus Mágico	1994	16	52
+O Ônibus Mágico Decola Novamente		16	26
+O Otimista		16	129
+O Otomano	2019	17	255
+O Otomano (Kuruluş Osman)		17	522
+O Ouro		17	6
+O Outro Lado		17	6
+O Outro Lado do Amor		17	104
+O Outro Lado do Paraíso	2017	18	172
+O Paciente	2022	18	10
+O Pacífico	2010	18	10
+O Pai da Minha Filha	2026	18	10
+O Pai de Menina - Kız Babası		18	8
+O Pai do Meu Filho é o Tio Richard		18	1
+O Pais de Tanabata	2024	18	19
+O Palacio Assombrado		18	16
+O Palácio Assombrado 2025 LEG		18	16
+O Palmar de Troya	2020	18	4
+O Pantanal E Outros Bichos		18	10
+O Papai de uma noite e um CEO		18	1
+O Paraíso e a Serpente	2021	18	16
+O Patriota	2015	18	18
+O Pentavirato	2022	18	6
+O Pequeno Furry	2016	18	78
+O Pequeno Grande Mundo de Jéssica	2023	18	20
+o Pequeno Guerreiro	1991	18	46
+O Pequeno Poderoso Bheem		18	64
+O Pequeno Scooby-Doo		18	27
+O Pequeno Scooby-Doo	1988	18	13
+O Pequeno Urso	1995	18	65
+O Perfume	2018	18	6
+O Peso da Gloria	2026	18	7
+O Peso da Lei	2026	18	7
+O Peso da Verdade		18	34
+O Pestinha		18	13
+O Picapau Amarelo		18	49
+O Píer		18	16
+O Píer	2025	18	8
+O Píer (El embarcadero)	2019	18	16
+O Piloto Invisível		18	3
+o Pimentinha		18	76
+o Pimentinha	1985	18	36
+O Pior do Mal		18	12
+O Pior do Mal 2023 LEG		18	12
+O Plano de Ressurreiçao	2025	18	9
+O Plano é Esse		18	6
+O Poder	2023	18	9
+O Poder de Hitler		18	3
+O Poder e a Lei	2022	19	40
+O Poligamo	2026	19	22
+O Poltergeist de Enfield		19	4
+O Portal do Ollie		19	26
+O Prazer e Meu	2024	19	4
+O Preco da Confissao	2025	19	12
+O Preço da Glória	2023	19	60
+O Preço da Obsessão		19	1
+O Preço da Paixão		19	128
+O Preço da Perfeição	2020	19	10
+O Preço de um Amor Mal Correspondido		19	1
+O Preço do Silêncio		19	1
+O Predador de Sevilha	2026	19	3
+O Presidente da Minha Escola		19	12
+O Pretendente Perfeito		19	72
+O Pretendente Perfeito 2025 LEG		19	36
+O Primeiro Amor do Quarterback		19	1
+O Primo Basilio	1988	19	16
+O Principe - The Prince - Prenz		19	23
+O Príncipe da Cobertura (L)		19	20
+O Príncipe Dragão	2018	19	63
+O Príncipe Dragão 2018 - El Dragón		19	63
+O Privilégio de Amar		19	155
+O Problema dos 3 Corpos	2024	19	8
+O Problema Final	2026	19	4
+O Processo Dos Távoras		19	8
+O Professor	2024	19	23
+O Profeta		20	252
+O Profeta	2006	20	178
+O Programa A Industria dos Internatos Abusivos	2024	20	3
+O Programa do Cheiroso e Sujinho	2016	20	39
+O Programa: 90 Dias Longe das Drogas		20	6
+O Promotor Militar Dobermann		20	16
+O Próximo Empreendedor com Gordon Ramsay		20	20
+O Próximo Grande Chef		20	6
+O psiquiatra ao lado	2021	20	8
+O Quarto Oculto		20	6
+O Que a Vida Me Roubou		20	197
+O Que Estou Comendo Com Zooey Deschanel		20	12
+O Que Fazemos nas Sombras	2019	20	61
+O Que Houve com a Secretária Kim		20	16
+O Que Houve com a Secretária Kim 2018 LEG		20	16
+O que Possuimos O Conceito de Propriedade ao Redor do Mundo		20	4
+O Que Querem As Mulheres?		20	4
+O Que Tem na Caixa	2025	20	6
+O que um amante não faz - Seven Ne Yapmaz		20	11
+O Que Vem Depois do Amor		20	6
+O Que Você Não Sabia Sobre o Humor Brasileiro		20	6
+O Quinteto	1994	20	119
+O Quinto dos Infernos	2002	21	47
+O RANCHO		21	120
+O Rastreador	2024	21	86
+O Rato	2026	21	10
+O Rebu	2014	21	36
+O Refugio		21	6
+O Refúgio Atômico	2025	21	8
+O Regime	2024	21	6
+O Rei da Pesca		21	10
+O Rei da TV		21	16
+O Rei das Compras Louis	2016	21	16
+O Rei das Lagrimas Lee Bang Won		21	32
+O Rei de Porcelana	2021	21	20
+O Rei do Bairro		21	207
+O Rei do Gado	1996	21	209
+O Rei do Gado (Vale a Pena Ver de Novo)		21	150
+O Rei do Inverno	2023	21	20
+O Rei Do Pedaço		22	240
+O Rei dos Pneus	2024	22	6
+O Rei Eterno	2020	22	16
+O Rei Supremo do Submundo		22	2
+O Reino das Sete Magilâminas		22	15
+O Reino do Lobo Branco	2019	22	6
+O Reino Perdido dos Piratas	2021	22	6
+O Relogio da Aventura		22	5
+O Renovador		22	8
+O Repatriado		22	10
+O Repórter do Poder		22	4
+O Resgate na Caverna Tailandesa		22	6
+O Residente	2018	22	107
+O Resort Zoobak		22	52
+O Restaurante da Bruxa	2021	22	8
+O Retorno da Herdeira Perdida		22	2
+O Retorno da Rainha		22	24
+O Retorno da Rainha 2025 LEG		22	24
+O Retorno de Simone Biles	2024	22	4
+O Retorno do Abismo - Back From The Brink Leg	2023	22	40
+O Retorno do Jovem Mestre		22	39
+O Retorno do Juiz		22	14
+O Retorno do Juiz LEG	2026	22	14
+O Rico e Lázaro		22	181
+O Ringue	2024	22	5
+O Roubo	2026	22	6
+O Sabor do Destino		22	17
+O Sabotador	2022	22	20
+O Sacerdote Impetuoso		22	40
+O Sacerdote Impetuoso LEG - The Fiery Priest		22	20
+O Salvador da Pátria		22	186
+O Salvador da Pátria 1		23	185
+O Sangue de Zeus	2020	23	24
+O Sangue nao Mente		23	1
+O Segredo Além do Jardim	2014	23	10
+O Segredo Bem Guardado		23	8
+O Segredo da Família Greco		23	9
+O Segredo Das Baleias		23	4
+O Segredo das Coisas		23	104
+O Segredo das Pirâmides		23	12
+O Segredo de Feriha	2011	23	236
+O Segredo de Um Milhão de Dólares	2025	23	16
+O Segredo de Widow's Bay		23	10
+O Segredo de Widow's Bay Leg	2026	23	10
+O Segredo de Widows Bay	2026	23	10
+O Segredo do Comissario - Innocent - Masum		23	8
+O Segredo Do Rancho Skinwalker		23	58
+O Segredo do Rancho Skinwalker	2020	23	70
+O Segredo do Rio	2024	23	8
+O Segredo do Templo		23	24
+O Segredo dos Animais A Serie		23	51
+O Segundo Melhor Hospital da Galáxia	2024	23	8
+O Senhor das Moscas	2026	23	4
+O Senhor dos Anéis: Os Anéis de Poder	2022	23	24
+O Senhor e a Serva	2025	23	10
+O Sequestro do Voo 601	2024	23	6
+O Servente Supremo		23	1
+O Sétimo Guardião	2018	24	161
+O Sexo dos Anjos		24	142
+O Show da Luna		24	209
+O Show de Tom e Jerry	2014	24	325
+O Show de Varnell Hill	2026	24	8
+O Show do Big Show		24	9
+O Show do Garfield		24	26
+O Show do Garfield	2009	25	106
+O Show do Patrick Estrela		25	63
+O Show do Patrick Estrela	2021	25	74
+O Show do Sabado		25	8
+O Show Do Scooby Doo		25	40
+O Show do Scooby-Doo	1976	25	40
+O Show dos Looney Tunes		25	52
+O Show dos Tubaroes Babies		25	12
+O Símbolo Perdido de Dan Brown		25	10
+O Simpatizante	2024	25	7
+O Sinal	2024	25	4
+O Sistema		25	6
+O Sócio		25	106
+O Som da Magia	2022	25	6
+O Som e a Silaba	2024	25	8
+O Sonho Africano	2024	25	5
+O Sorriso Deixou Seus Olhos		25	16
+O Submarino		25	7
+O Submarino 2022 - Yakamoz		25	7
+O Submundo das Apostas		25	8
+O Sucessor	2018	25	23
+O Super-Herói Americano Leg	1981	25	45
+O Surfista Prateado	1998	25	13
+O Tatuador de Auschwitz	2024	25	12
+O Taxista		25	101
+O Taxista - Taxi Driver Leg	2026	25	48
+O Teatro das Tesouras		25	8
+O Tempo ao Seu Lado	2021	25	8
+O Tempo ao Seu Lado - Ilk ve Son		25	31
+O Tempo das Moscas	2026	25	6
+O Tempo das Moscas Leg	2026	25	6
+O Tempo e o Vento		25	26
+O Tempo Entre Costuras		25	17
+O Tempo Não Para		25	156
+O Tempo Que Te Dou	2021	25	10
+O Tempo Traz Você pra Mim	2023	25	12
+O Terráqueo		25	16
+O Terremoto do Everest		25	3
+O Testamento O Segredo de Anita Harley	2026	25	5
+O Tio de Outro Mundo	2022	25	13
+O Toque Do Silêncio		25	6
+O Tormento	2026	25	4
+O Traficante	2021	25	10
+O Truque de Black	2018	25	13
+O Túnel Do Tempo	1966	26	30
+O Turista		26	24
+O Turista	2022	26	6
+O Ultimato: Ou Casa ou Vaza	2022	26	40
+O Ultimato: Queer Love	2023	26	20
+O Ultimo Ano de Hitler	2015	26	2
+O Último Cara da Terra	2015	26	67
+O Ultimo Dragão		26	82
+O Último Dragão 2019 El Dragón		26	82
+O Último Grande Peixe		26	8
+O Último Guardião	2018	26	64
+O Ultimo Homem Na Terra		26	64
+O Último Imortal		26	40
+O Último Juramento 2026 LEG		26	17
+O Ultimo Navio		26	56
+O Último Ônibus do Mundo	2022	26	10
+O ÚLTIMO REINO		26	46
+O Ultimo Verao	2021	26	119
+O Último Verão - Son Yas		26	80
+O Universo	2007	27	86
+O Universo Misterios Revelados		27	4
+O Urso		27	74
+O Urso 2022 - The Bear		27	46
+O Urso Leg - The Bear	2022	27	46
+O Valor Absoluto do Amor	2026	27	16
+O Vampiro Coelho	2016	27	104
+O Vazio	2018	27	20
+O Velho Oeste com Kevin Costner	2025	27	8
+O Verão de	1936	27	6
+O Verão de 1936	2026	27	6
+O Verão em que Hikaru Morreu	2025	27	22
+O Verão em que Hikaru Morreu LEG	2025	27	12
+O Verão Que Mudou Minha Vida		27	26
+O Vestido Ideal		27	103
+O Veu	2024	27	11
+O Vidente	2002	27	81
+O Vigarista	2026	27	8
+O Vigarista Negro		27	11
+O Vilão		27	6
+O Voto de Morte		27	12
+O Voto de Morte 2023 LEG		27	12
+O Xodó da Vovó	1965	27	26
+O!		27	8
+O... Coitado	1999	27	39
+O.C.: Um Estranho no Paraíso		27	92
+O.J. Simpson: Verdades Nunca Vistas	2026	27	4
+O.J.: Made in America (L)		27	5
+O11ZE	2017	28	220
+Oasis	2026	28	8
+Oban Star Racers		28	26
+Obi-Wan Kenobi		28	6
+Obituary (L)		28	6
+Objecao - Sakincali		28	5
+Objetos Amaldicoados		28	8
+Objetos Cortantes		28	8
+Oblivion Battery (L)		28	12
+Obsess		28	4
+Ocean Likes Me		28	8
+OceanXplorers		28	6
+Ochikobore Fruit Tart		28	12
+October Faction	2020	28	10
+Octonautas	2010	28	120
+Odd Mom Out		28	30
+Odd Taxi	2021	28	13
+Oddbods	2015	28	13
+Odo		28	13
+Oedo Fire Slayer The Legend of Phoenix		28	5
+Oferenda ao Demonio		28	31
+Off Campus Amores Improvaveis	2026	28	8
+Off Road	2025	28	6
+Oficina de Superclássicos		28	18
+Oficina do Barulho	2014	28	56
+Oficina TexMex		28	10
+Oggy e as Baratas Tontas		28	13
+Oggy e as Baratas Tontas: E Piya!		28	13
+Oh Hell (L)		28	16
+Oh My Assistant		28	8
+Oh My Baby		28	16
+Oh My God...Yes! Uma Série de Momentos que Fazem Todo Sentido	2025	28	7
+Oh The Mysterious		28	40
+Oi Linda Anatomia de um Golpe Romantico		28	3
+Oi Ninja	2019	28	20
+Oi Tonbo		28	26
+Ok KO Vamos Ser Herois		28	49
+Okarishimasu		28	36
+Okarishimasu 2022 LEG		28	10
+Oklahoma City Bombing: One Day in America (L)		28	3
+Oktoberfest: Sangue e Cerveja	2020	28	6
+Okura Casos Esquecidos		28	10
+Ola Meus 20 Anos	2016	28	26
+Olá? Sou Eu!		28	16
+Olaf Apresenta		28	6
+Old Fashion Cupcake		28	5
+Olha o que você me fez fazer		28	1
+Olhar de Mulher - Mirada de Mujer		29	120
+Olhar Indiscreto	2023	29	10
+Olhe nos Meus Olhos		29	12
+Olho no Olho		29	227
+Olhos Atentos		29	10
+Olhos da Lei	2023	29	32
+Olhos de Wakanda	2025	29	4
+Olhos do Mar Negro - Gozleri Karadeniz		29	16
+Olhos que Condenam	2019	29	4
+Olive Kitteridge	2014	29	4
+Ololade	2023	29	6
+Olympo	2025	29	8
+Omar - Omer		29	54
+Omar ‎		29	30
+Omegahorn 2026 LEG		29	6
+On My Block		29	38
+On My Block	2018	29	46
+Once Again		29	8
+Once Upon a Witch's Death (L)		29	11
+Onda - Donence		29	14
+Onda Boa com Ivete		29	5
+Onda de 100 Pés		29	12
+Ondas de Amor	2025	29	19
+Onde A Máscara Termina		29	1
+Onde Esta a Wanda	2024	29	10
+Onde Está Amy Bradley?	2025	29	3
+Onde Está Marta del Castillo?		29	3
+Onde Está Meu Coração		29	10
+Onde Está Tim Lopes?		29	4
+Onde Nascem os Fortes	2018	29	53
+Onde quer que voce esteja - Her Yerde Sen		29	23
+Onde Seus Olhos se Prolongam		29	9
+One Piece		30	2892
+ONE PIECE A Serie Conteudo Extra	2026	31	5
+One Piece LEG		31	1189
+ONE PIECE: A Série	2023	31	16
+One Punch Man	2015	31	36
+One Room Angel		31	6
+One Strange Rock		31	10
+One the Woman		31	16
+One-Punch Man Leg	2015	32	37
+ONE: High School Heroes		32	8
+ONE: High School Heroes Leg	2025	32	8
+ONI: A Lenda do Deus do Trovão	2022	32	4
+ONIMAI: I'm Now Your Sister! (L)		32	12
+Onimusha	2023	32	8
+Onisciente	2020	32	6
+Onision: Abuso na Internet		32	4
+Onivoros		32	8
+Only Boo		32	12
+Only Murders In The Building		32	50
+Onmyo Kaiten Re Birth Verse		32	6
+Onmyoji	2023	32	13
+Ônus da Prova		32	21
+Ōoku: Por Dentro do Castelo	2023	32	10
+Oops! Mysterious Sounds		32	8
+Operação Alto Mar: Estados Unidos	2024	32	12
+Operação Autoestima: Antes e Depois	2020	32	8
+Operação Berlim	2016	32	29
+Operacao Big Hero		32	46
+Operação Big Hero: A Série		32	67
+Operação Ecstasy	2019	32	28
+Operacao Encontre Meu Bebe		32	1
+Operacao FBI		32	6
+Operação Fronteira Brasil		32	108
+Operacao Fronteira Espanha		32	116
+Operacao Fronteira Italia		32	14
+Operacao Fronteira Suecia	2023	32	14
+Operação Fronteira: América do Sul		32	20
+Operação Fronteira: Estados Unidos		32	10
+Operacao Guerra Verde	2026	32	10
+Operação Infiltrados	2024	32	6
+Operação Maré Negra		32	9
+Operação Maré Negra: A Travessia Suicida		32	4
+Operação Naufrágios	2021	32	10
+Operação Pacífico		32	60
+Operacao Policial		32	55
+Operação Policial	2012	32	20
+Operação Safed Sagar	2026	32	6
+Operação Transplante	2025	32	8
+Operação Tyrant	2024	32	4
+Operação Tyrant 2023 LEG		32	4
+Operação: Lioness		32	24
+Orange	2016	32	13
+Orange County à Venda		32	16
+Orange County à Venda	2022	32	32
+Orange Days		32	11
+Orange Is the New Black	2013	32	91
+Orange Marmalade		32	12
+Orbe Sobre os Movimentos da Terra		33	24
+Ordem na Casa com Marie Kondo	2019	33	8
+Ordinary Joe		33	13
+Ore Dake Haireru Kakushi Dungeon		33	12
+Ore wa Subete o		33	1
+Ore wa Subete o "Parry" Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Narita 2024 LEG - I Parry Everything		33	13
+Órfãos da Terra		33	154
+Organização - Teşkilat		33	172
+Organizadora de Casamento - Darısı Başımıza		33	5
+Orgulho Além da Tela		33	3
+Orgulho e Família		33	4
+Orgulho e Paixão		33	162
+Orgulho e Preconceito	1995	33	6
+Orient		33	24
+Oriental Martial Academy Leg		33	16
+Origem		33	79
+Origem From	2022	33	40
+Origem LEG - From		33	40
+Orphan Black	2013	33	50
+Orphan Black: Echoes (L)		33	9
+Os		33	45
+Os 100		33	100
+Os 100 (The 100)	2014	33	100
+Os 100 (The 100) leg	2014	33	100
+Os 12 Macacos		33	47
+Os 13 Fantasmas do Scooby-Doo		33	13
+Os 20 dias de Lazaro		33	6
+Os 3 Lá Embaixo: Contos da Arcadia	2018	33	26
+Os 39	2024	33	6
+Os 4 Elementos da Terra	2026	34	24
+Os 43 de Ayotzinapa Crime de Estado		34	5
+Os 4400	2004	34	45
+Os 7 Ursos	2025	34	10
+Os Abandonados	2025	34	7
+Os Agentes Secretos de Churchill: Novos Recrutas		34	5
+Os Amores de Anne		34	2
+Os Apuros de Penélope Charmosa		34	17
+Os arquivos de OVNIs		34	20
+Os Aspones	2004	34	7
+Os Assassinatos da Loja de Iogurte		34	4
+Os Assassinatos da Mandala		34	8
+Os Assassinatos de Åre	2025	34	5
+Os Assassinatos de Fox Hollow Playground de um Serial Killer		34	4
+Os Assassinatos de Idaho: Pesadelo Universitário	2026	34	3
+Os Assumidos Queer As Folk 2000 LEG		34	81
+Os Astronautas		34	10
+Os Auditores		34	12
+Os Ausentes		34	10
+Os Backyardigans		34	58
+Os Backyardigans	2004	34	40
+Os Bandidos do Tempo	2024	34	10
+Os Bibliotecários		34	42
+Os Bibliotecários 2014 - The Librarians		34	41
+Os Bórgias	2011	34	29
+Os Bucaneiros	2023	34	16
+Os Busbys + 5		34	24
+Os Caca Fantasmas	1986	34	99
+Os Caçadores de Mitos	2003	34	11
+Os Cacadores de Peles		34	4
+Os Cadetes Mech	2023	34	10
+Os Caminhos de Jesus		34	6
+Os Camundongos Aventureiros		34	52
+Os Camundongos Aventureiros	1998	34	46
+Os Canibais de Baton Rouge	2023	34	4
+Os Caras de Pau		34	98
+Os Caras do Telemarketing		34	3
+Os Caras Malvados No Pedaço	2025	34	19
+Os Casagrandes		34	95
+Os Casos de Harry Hole	2026	34	9
+Os Castores Pirados	1997	34	61
+Os Cavaleiros de Castelcorvo		34	15
+Os Cavaleiros do Zodíaco		35	114
+Os Cavaleiros do Zodíaco	1986	35	73
+Os Cavaleiros Do Zodíaco - Saga De Poseidon		35	98
+Os Cavaleiros do Zodíaco - Saga do Santuário		35	114
+Os Cavaleiros do Zodiaco Omega	2012	35	97
+Os Cavaleiros do Zodíaco: A Saga de Hades	2002	35	31
+Os Cavaleiros do Zodíaco: Alma de Ouro		35	13
+Os Cavaleiros do Zodíaco: Saga de Hades		35	31
+Os Cavaleiros do Zodíaco: Saint Seiya		35	36
+Os Cavaleiros Do Zodíaco: The Lost Canvas		35	39
+Os Cavaleiros do Zodiáco:A SAGA DE ASGARD		35	99
+Os Celtas A Historia Nao Contada		35	3
+Os Choroes		35	5
+Os Contatinhos de Lauren		35	8
+Os Corretores de Beverly Hills		35	18
+Os Corretores de Londres	2024	35	7
+Os Crimes da Nossa Mãe	2022	35	3
+Os Crimes de Fortitude Leg	2015	35	25
+Os Defeituosos		35	8
+Os Desafios de Hailey		35	19
+Os Desajustados de Seul		35	20
+Os Desajustados de Seul LEG	2024	35	20
+Os Dez Bravos de Sanada		35	1
+Os Dez Mandamentos	2015	36	242
+Os Dias Eram Assim	2017	36	88
+Os Dinossauros	2026	36	4
+Os Donos do Jogo	2025	36	8
+OS DOOMIES	2026	36	22
+Os Eleitos		36	8
+Os Empoderados		36	20
+Os Encanadores da Casa Branca		36	5
+Os Enviados	2021	36	16
+Os Escolhidos à Prova De Tudo Com Bear Grylls	2026	36	6
+Os Experientes		36	7
+Os Fantasmas de Devil Perch		36	1
+Os Farad		36	8
+Os Feiticeiros Alem de Waverly Place	2024	36	35
+Os Feiticeiros De Waverly Place	2007	36	106
+Os Filhos da Estação Zoo		36	8
+Os Filhos da Guerra LEG	2013	36	3
+Os Filhos de Sam: Loucura e Conspiração	2021	36	4
+Os Fios do Passado - Los Hilos del Pasado		36	60
+Os Flintstones		36	144
+Os Forasteiros	2016	36	13
+Os Fosters: Família Adotiva		36	104
+Os Fosters: Família Adotiva 2013 LEG		37	125
+Os Franceses		37	10
+Os Garotos do Brasil: A Ascensão dos Bolsonaros (L)		37	3
+Os Gigantes		37	2
+Os Goldbergs	2013	37	185
+Os Golpistas de Toquio	2024	37	7
+Os Grandes Seljucidas - Uyanış Büyük Selçuklu		37	34
+Os Grandiosos Irmãos Robôs		37	10
+Os Guardioes da Nacao	2025	37	6
+Os Guerreiros Wasabi	2011	37	85
+Os Hassums		37	5
+Os Herculóides		37	18
+Os Herdeiros da Terra	2022	37	8
+Os Ho ho limpicos		37	32
+Os Homens que Venderam a Copa do Mundo	2021	37	2
+Os Homens São De Marte E é Pra Lá Que Eu Vou		37	52
+Os Horrores de Dolores Roach		37	8
+Os Imortais do Brasil		37	8
+Os Inocentes		37	8
+Os Invenciveis CarrosMonstros	2024	37	26
+Os Irmaos Esquizofrenicos	2024	37	4
+Os Irmãos Kaulitz	2024	37	8
+Os Irregulares de Baker Street	2021	37	8
+Os Jetsons	1962	37	75
+Os Jovens Titãs	2003	37	65
+Os Jovens Titãs em Ação	2013	38	287
+Os Jovens Titãs em Ação!		38	283
+Os Kabanes da Estação de Ferro LEG	2016	38	12
+Os Leoes da Sicilia		38	8
+Os Leões da Sicília Leg	2023	38	8
+Os Lobos da Ilha de Vancouver		38	3
+Os Lucros do Amor	2024	38	12
+Os Maias		38	42
+Os Mais Procurados do Mundo		38	5
+Os Mãos de Vaca		38	6
+Os Mares da Arabia		38	5
+Os Medicos da Face		38	8
+Os Mensageiros	2015	38	13
+Os Mestres da Fritura		38	8
+Os Miseráveis		38	8
+Os Mistérios Da Civilização Maia		38	4
+Os Mistérios de Frajola e Piu-Piu		38	65
+Os Mistérios de Rock Island		38	10
+Os Misteriosos Raptos em Iowa		38	3
+Os Mosqueteiros	2014	38	60
+Os Mutantes 2: Caminhos do Coração	2008	38	242
+Os Mutantes: Caminhos do Coração		39	243
+Os Normais		39	72
+Os Novos Filmes do Scooby-Doo	1972	39	24
+Os Oblongs	2001	39	12
+Os Originais		39	92
+Os Originais 2013 -the originals		39	92
+Os Osbournes Investigacao Paranormal	2020	39	28
+Os Outros		39	36
+Os Pacientes do Dr. García	2023	39	10
+Os Padrinhos Mágicos		39	185
+Os Padrinhos Magicos Um Novo Desejo	2024	39	10
+Os Padrinhos Mágicos: Mais Mágicos Que Nunca		39	12
+Os Parças - A Série	2024	39	10
+Os Parques Nacionais Mais Fascinantes do Mundo		39	10
+Os Parques Nacionais Mais Fascinantes do Mundo	2022	39	5
+Os Passaros Feridos	1983	39	4
+Os Pecados de Kujo	2026	39	10
+Os Pequenos Johnstons		39	162
+Os Pequenos Johnstons	2015	39	103
+Os Pilares Da Terra		39	4
+Os Pilares da Terra Leg	2010	39	8
+Os Pinguins de Madagascar	2008	39	78
+Os Pioneiros	1974	40	215
+Os Piores Ex		40	8
+Os Piores Ex	2024	40	4
+Os Quatro da Candelaria	2024	40	4
+Os Quatro Elementos da Água Leg	2026	40	8
+Os Quebradores da Banca		40	6
+Os Queridinhos de Byron Bay		40	8
+Os Refens do Professor Hiiragi	2019	40	10
+Os Reinos da Ruina		40	12
+Os Reis da Selva	2018	40	5
+Os Reis da Sucata		40	50
+Os Reis de Tupelo Crime e Conspiracao nos Estados Unidos		40	3
+Os Reis de Tupelo Crime e Conspiração nos EUA		40	3
+Os Reis do Arpao	2025	40	9
+Os Reis do Esgoto		40	6
+Os Ricos Também Choram	2005	40	152
+Os Ricos Também Choram	2022	40	60
+Os Roni		40	60
+Os Roni	2019	40	10
+Os Runarounds Musica e Sonhos	2025	40	8
+Os Segredos Da Biblia	2013	40	6
+Os Segredos da Igreja Hillsong		40	4
+Os Segredos das Piramides		40	12
+Os Segredos de Anna		40	12
+Os Segredos de Manscheid	2019	40	24
+Os Segredos de Tutancamon	2018	40	3
+Os Segredos do Everest		40	2
+Os Segredos do Zoológico		40	6
+Os Sem Nome	2025	40	6
+Os Sete Cavaleiros do Reino Marronnier	2026	40	5
+Os Sete Monstrinhos		40	42
+Os Sete Monstrinhos	2000	40	52
+Os Sete Pecados Capitais	2014	41	96
+Os Sete Pecados Capitais Os Quatro Cavaleiros do Apocalipse	2023	41	36
+Os Sete Relogios de Agatha Christie	2026	41	3
+Os Simpsons		41	818
+Os Smurfs		41	104
+Os Smurfs	2021	41	90
+Os Suburbanos		42	135
+Os Super Patos		42	26
+Os Supercaes e Seus Extraordinarios Trabalhos		42	5
+Os SUPERtontos	2026	42	8
+Os SUPERtontos Leg	2026	42	8
+Os Sustos Ocultos de Frankelda	2021	42	5
+Os Testamentos Das Filhas de Gilead	2026	42	10
+Os Thundermans	2013	42	101
+Os Thundermans Disfarcados	2025	42	26
+Os Top Dez dos Anos 80		42	6
+Os Topuria LEG	2026	42	3
+Os Trapalhões	1977	42	203
+Os Trapalhoes	2017	42	9
+Os Últimos Czares	2019	42	6
+Os Últimos Czares Leg	2019	42	6
+Os Últimos Dias de Ptolemy Grey	2022	42	6
+Os Últimos Lenhadores		42	25
+Os Últimos Lenhadores	2024	42	9
+Os Ursinhos Carinhos	1985	42	52
+Os Ursinhos Gummi	1985	42	65
+Os Vingadores A Serie		42	13
+Os Vingadores da Marvel Guerras Secretas		42	6
+Os Vingadores Unidos	2013	42	127
+Os Vingadores: Os Super-Heróis Mais Poderosos da Terra		42	52
+Os Vivos e os Mortos		43	6
+Os Vizinhos Green		43	109
+Os Westies: Donos do Oeste	2026	43	8
+Os Winchesters		43	18
+Osama Sentai Kingu Oja		43	50
+Oscar no Oasis	2010	43	20
+OSHI NO KO	2023	43	53
+OSHI NO KO Leg	2023	43	35
+Osmar a Primeira Fatia do Pao de Forma A Serie		43	39
+Ossans Love		43	7
+Ossans Love In the Sky		43	8
+Ossans Love Returns		43	9
+Ossan’s Love	2025	43	1
+Ossos Marcados pela Dor		43	1
+Oswaldo		43	52
+Otome Yokai Zakuro		43	13
+Ou Tudo ou Nada de Novo		43	8
+Ouça me - Duy Beni		43	20
+Our Dating Sim		43	8
+Our Dating Story: The Experienced You and The Inexperienced Me (L)		43	12
+Our Girl		43	63
+Our Kind of People		43	24
+Our Last Crusade or the Rise of a New World		43	24
+Our Last Crusade or the Rise of a New World	2020	43	12
+Our Last Crusade or the Rise of a New World (L)		43	24
+Our Love Will Make It Through	2025	43	12
+Our Movie		43	12
+Our Skyy		43	5
+Our Skyy 2		43	16
+Ourika Cidade em Chamas	2024	43	7
+Ouro E Sangue		43	24
+Ouro Verde		43	241
+Ousama Ranking		43	27
+Ousama Ranking: Yuuki no Takarabako		43	10
+OUT THERE Crimes of the Paranormal		43	8
+Outcast		43	20
+Outer Banks		43	50
+Outer Banks	2020	43	60
+Outlander	2014	43	101
+Outlander Blood of My Blood	2025	43	18
+Outlander Leg	2014	44	101
+Outlander: Blood of My Blood 2025 LEG		44	12
+Outra Chance - Gelsin Hayat Bildiği Gibi		44	41
+Outra Vez Você		44	3
+Outra Vez Você	2019	44	44
+Outra Vida	2019	44	20
+Over There	2005	44	13
+Overgeared	2026	44	7
+Overlord		44	52
+OVERTAKE! (L)		44	12
+Óvnis: Investigação Secreta		44	14
+Ovos Verdes e Presunto	2019	44	23
+Oxen		44	6
+Oxen	2023	44	12
+Oxygen The Series		44	13
+Oz		44	57
+Ozark	2017	44	44
+Ozark LEG	2017	44	37

@@ -1,0 +1,913 @@
+"Sr." (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133273.mkv
+#Alto Realidade	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765260.mp4
+#Alto Realidade (2017)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/3397.mp4
+#AmeriCAN (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720950.mp4
+#AMFAD All My Friends Are Dead	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53550.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59440.mp4
+#AMFAD: All My Friends Are Dead (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5687711.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5687357.mp4
+#AnneFrank. Parallel Stories (2019) Leg	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/662416.mp4
+#Comvocê: Volume 2	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761946.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59451.mp4
+#Comvocê: Volume 2 (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5707626.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5707596.mp4
+#ComVocê: Volume: 1	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766915.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59445.mp4
+#ComVocê: Volume: 1 (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5707708.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5707686.mp4
+#eagoraoque	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757991.mp4
+#eagoraoque (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5699549.mp4
+#Manhole - Desvio Fatal	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59479.mp4
+#Manhole - Desvio Fatal (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5689239.mp4
+#Natal (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5698075.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5698042.mp4
+#Natal (2022) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/523399.mp4
+#Natal (2023)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/523098.mp4
+#ninfabebe (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5684528.mp4
+#NUDES	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767792.mp4
+#NUDES (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716499.mp4
+#PartiuFama: Cancelado no Amor	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754670.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59461.mp4
+#PartiuFama: Cancelado no Amor (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5701101.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5701072.mp4
+#REALITYHIGH	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12139.mp4
+#RealityHigh (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717001.mp4
+#Riccanza – Pluto TV	dub=https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626baa721c279b00072cbedd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#SalveRosa	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751337.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98619.mp4
+#SalveRosa (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5686857.mp4,https://embedplayer2.xyz/cdn/hls/5f15488cf03ea39eca112bdd4f905bed/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5686569.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98619.mp4
+#SalveRosa 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253284.mp4
+#SalveRosa 4K (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5684642.mp4
+#SalveRosa 4K [HDR]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251506.mp4
+#SalveRosa 4K [HDR] (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5684825.mp4
+#SeAcabó: Diário das Campeãs	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755914.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59503.mp4
+#SeAcabó: Diário das Campeãs (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5698177.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5698151.mp4
+#Sem_Filtro - Noite Sangrenta	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752368.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59474.mp4
+#Sem_Filtro - Noite Sangrenta (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5691321.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5691292.mp4
+#Sem_Filtro - Noite Sangrenta (2022) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/586225.mp4
+#SemFiltro (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5721146.mp4
+#SemSaída (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712059.mp4
+#Single (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134547.mkv
+#SKYKING	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253657.mp4
+#SKYKING (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5684447.mp4
+#UberXTáxis	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308402.mp4
+#UberXTáxis (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5680979.mp4
+'El Vaquilla' - 1985	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/134519.mp4
+(1985)	dub=http://64.31.23.207:80/movie/96795792/50165825/5705643.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53801.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59677.mp4
+(500) Dias com Ela	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767968.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1818637.mp4
+(500) Dias Com Ela (2009)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719972.mp4
+(A) Fronteira	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758766.mp4,http://fenixflix.fenixhub.online/r/oJ6wDSOqCqkcKn0ge5i0xHhT62fQhIhDQLpM9zcnT8prInwRloIeLMOy7zWlO73bKikh49mXVIt7QdTjZQSG_GtY_fklkdfx9JTRuLrhbjnXPdKMNcjAEcU/video.mp4	leg=http://fenixflix.fenixhub.online/r/mUeRdhoNMMq-cwhyE-VjcDZuZjL2VJU4acaZ_dko3LT1Xw5N_sxH3veBTV9wWg6BNhwkvMg8l4x8bxwUf_HUpXPoPddceHWSrIzIYqLlJAM/video.mp4
+(A) Fronteira (2007)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/575318.mp4
+(A) Fronteira (2007) Leg	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/546587.mp4
+(A) Fronteira (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5692945.mp4
+(a)traído pelo amor (2023)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/658635.mp4
+(Des)controle (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5684917.mp4
+(Des)controle (2026)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/618622.mp4
+(Des)controle [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254678.mp4
+(Des)encontro Perfeito (2015)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302441.mp4
+(Im)mortels (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720642.mp4
+(In) Seguros	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759128.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46545.mp4	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/144721.mp4
+(In) Seguros (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5711112.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5711087.mp4
+(In)Sanidade	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758906.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/49294.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/75314.mp4
+(In)Sanidade (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5706832.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5706805.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/210737.mp4
+(MAD)²	leg=http://64.31.23.207:80/movie/96795792/50165825/5693843.mp4
+(Re)Nascer	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757198.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59465.mp4	dub=https://embedplayer2.xyz/cdn/hls/e8c531295e7f43d06baefd6f691324e5/master.txt
+(Re)Nascer (2023)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/320407.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313701.mp4
+(Re)Nascer (2023) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/320770.mp4
+(Re)Nascer (2026)	dub=http://64.31.23.207:80/movie/96795792/50165825/5701166.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5701111.mp4
+(Un)lucky Sisters (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/132891.mkv
++ Velozes + Furiosos	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754537.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59469.mp4	dub=https://comprarebom.xyz/cdn/down/ae993e184926f9a532dafe97/index.m3u8
++Velozes +Furiosos (2003)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713499.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5692815.mp4
+...E o Bravo Ficou Só	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753879.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/34996.mp4
+...E o Vento Levou	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763974.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301082.mp4
+0.0MHz	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306366.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306426.mp4
+0.0MHz (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5682088.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5682063.mp4
+000 BC - 2008	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/138751.mp4
+000 Days (2014)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/3034.mp4
+000 Espécies de Abelhas	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757206.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1813586.mp4
+000 Espécies de Abelhas (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5695185.mp4
+000 Leagues Under the Sea (1954)	dub=http://31.43.191.125:8080/movie/restream/restream/136905.mkv
+007 - O Amanhã Nunca Morre (1997)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714165.mp4,https://embedplayer2.xyz/cdn/hls/90d7af4cf86d6378438ad394b9dd6e12/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682410.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300960.mp4
+007 - O Mundo Não é o Bastante	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256156.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300962.mp4
+007 - O Mundo Não é O Bastante (1999)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714057.mp4,https://embedplayer2.xyz/cdn/hls/86a70b5f0ee3ef3ed9620637004e210b/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682616.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300962.mp4
+007 - Permissão para Matar	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761140.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300950.mp4
+007 - Permissão Para Matar (1989)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714308.mp4,https://embedplayer2.xyz/cdn/hls/55c8d85a667aaf7473e003e569f1c990/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682640.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300950.mp4
+007 - Um Novo Dia Para Morrer (2002)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714144.mp4,https://embedplayer2.xyz/cdn/hls/98cdee3b7316b7a5fe8f2ecc469da7ec/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682382.mp4,https://embedplayer2.xyz/cdn/hls/5429cffa636f284e8b63633bda0e50ea/master.txt
+007 A Serviço Secreto de Sua Majestade	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761026.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300951.mp4
+007 Cassino Royale	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761551.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290745.mp4
+007 Contra a Chantagem Atômica	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760888.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300952.mp4
+007 Contra A Chantagem Atômica (1965)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714338.mp4,https://embedplayer2.xyz/cdn/hls/cbaef86a50287bb30510fe110026858b/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682448.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300952.mp4
+007 Contra GoldenEye	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761123.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300953.mp4
+007 Contra GoldenEye (1995)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714283.mp4,https://embedplayer2.xyz/cdn/hls/f993e2c06a5020ff79ee279e18e00750/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682504.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300953.mp4
+007 Contra Goldfinger	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757110.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59508.mp4
+007 Contra Goldfinger (1964)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714226.mp4,https://embedplayer2.xyz/cdn/hls/7b61bbef9f576aad3210c07d62ad8683/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5692777.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59508.mp4
+007 Contra o Foguete da Morte	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761283.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300954.mp4
+007 Contra O Foguete Da Morte (1979)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714104.mp4,https://embedplayer2.xyz/cdn/hls/a99853367cc9ef93f399267f7a85e070/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682422.mp4,https://embedplayer2.xyz/cdn/hls/1f7c32cc89ede2f2a0e36343dcd2636f/master.txt
+007 Contra o Homem com a Pistola de Ouro	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760388.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300955.mp4
+007 Contra O Homem Com A Pistola De Ouro (1974)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714053.mp4,https://embedplayer2.xyz/cdn/hls/8f70a60d823b765b37da5d5bb317007d/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682368.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300955.mp4
+007 Contra o Satânico Dr. No	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760561.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1377.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300956.mp4
+007 Contra Octopussy	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761765.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300957.mp4
+007 Contra Octopussy (1983)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714175.mp4,https://embedplayer2.xyz/cdn/hls/091f56063825cc34633441ea3081c489/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682644.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300957.mp4
+007 Contra Spectre	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761086.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300958.mp4
+007 Marcado para a Morte	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760432.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300959.mp4
+007 Na Mira dos Assassinos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761911.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1389.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300961.mp4
+007 O Amanhã Nunca Morre	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760515.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300960.mp4
+007 O Espião Que Me Amava	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760882.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300963.mp4
+007 Operação Skyfall	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761638.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300964.mp4
+007 Os Diamantes São Eternos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761362.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300965.mp4
+007 Quantum of Solace	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761812.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300966.mp4
+007 Sem Tempo para Morrer (2021) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/83589.mp4
+007 Somente para Seus Olhos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761718.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300967.mp4
+007 Um Novo Dia para Morrer	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761318.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300968.mp4
+007: A Serviço Secreto De Sua Majestade (1969)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714075.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1354.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5682525.mp4,https://embedplayer2.xyz/cdn/hls/352c819846e62c16ae7438e46ea8363e/master.txt
+007: Cassino Royale (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714023.mp4,https://embedplayer2.xyz/cdn/hls/6ac4724c44422354dc3d09df5762f0f3/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682797.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290745.mp4
+007: Contra O Satânico Dr No (1962)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714004.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5682735.mp4
+007: Contra Spectre (2015)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714294.mp4,https://embedplayer2.xyz/cdn/hls/afda06648cbb79c0f6342b931288a663/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682566.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300958.mp4
+007: Marcado Para A Morte (1987)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714267.mp4,https://embedplayer2.xyz/cdn/hls/6538a77182aaa42b9760c2f838ff0d76/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682794.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300959.mp4
+007: Na Mira Dos Assassinos (1985)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714220.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5682492.mp4
+007: O Espião Que Me Amava (1977)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714109.mp4,https://embedplayer2.xyz/cdn/hls/7786c1e281eabefd4274b80a9e1ed0ef/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682700.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300963.mp4
+007: Operação Skyfall (2012)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714009.mp4,https://embedplayer2.xyz/cdn/hls/802cdcd4e385f19d0e6a202744fada02/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682720.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300964.mp4
+007: Os Diamantes São Eternos (1971)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713960.mp4,https://embedplayer2.xyz/cdn/hls/ff047d3c784b9a9d0a427a50f70656a1/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682536.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300965.mp4
+007: Quantum Of Solace (2008)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714253.mp4,https://embedplayer2.xyz/cdn/hls/11576ca784d1734a07b37bb40865c4b2/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682556.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300966.mp4
+007: Sem Tempo para Morrer	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760297.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53815.mp4
+007: Sem Tempo para Morrer (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5709969.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5709949.mp4
+007: Sem Tempo para Morrer 4K [HDR]	dub=http://64.31.23.207:80/movie/96795792/50165825/5710034.mp4
+007: Somente Para Seus Olhos (1981)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714196.mp4,https://embedplayer2.xyz/cdn/hls/d5626bea514117296c06893ffe3f88c8/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5682454.mp4,https://embedplayer2.xyz/cdn/hls/d3ee57e8dd3a75b40045ecca29d53af7/master.txt
+1 - Harry Potter E A Pedra Filosofal	dub=https://embedplayer2.xyz/cdn/hls/9ac541c55361ebe661899a2d51197bb8/master.txt
+1 - Harry Potter E A Pedra Filosofal 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53795.mp4
+1 - Máquina Mortífera (1987)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717706.mp4
+1 - O Ataque Dos Vermes Malditos	dub=http://64.31.23.207:80/movie/96795792/50165825/5718634.mp4
+1 Milhão de Seguidores	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751851.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98938.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99187.mp4,https://embedplayer2.xyz/cdn/hls/380dc8fe42c53d1f204a3731ab27f479/master.txt
+1 Milhão de Seguidores (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5686357.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5686332.mp4
+1 Milhão de Seguidores (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/611154.mp4
+10	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758742.mp4
+10 (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718398.mp4
+10 Anos de Pura Amizade	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766910.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12148.mp4
+10 Anos De Pura Amizade (2012)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719821.mp4
+10 Anos do Impeachment	dub=http://64.31.23.207:80/movie/96795792/50165825/5722763.mp4
+10 Coisas Que Deveríamos Fazer Antes de Nos Separar	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767514.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12150.mp4
+10 Coisas Que Deveríamos Fazer Antes De Nos Separar (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716541.mp4
+10 Coisas Que Eu Odeio em Você	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767729.mp4
+10 Coisas Que Eu Odeio Em Você (1999)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720220.mp4,https://embedplayer2.xyz/cdn/hls/fab00b5c5ddd4bee702397c560e60844/master.txt
+10 Days of a Bad Man (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/133277.mkv
+10 Days of a Curious Man (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/133837.mkv
+10 Days of a Good Man (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/133838.mkv
+10 Dias de um Homem Bom	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752898.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43435.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59488.mp4
+10 Dias de um Homem Bom (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5705389.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5705361.mp4
+10 Dias de um Homem Curioso	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755377.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59522.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21035.mp4
+10 Dias de um Homem Curioso (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5697713.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5697665.mp4
+10 Dias de um Homem Curioso (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/525710.mp4
+10 Dias de um Homem Mau	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21040.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53796.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59517.mp4
+10 Dias de um Homem Mau (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5703682.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5703654.mp4
+10 Dias de um Homem Mau4 K	dub=http://64.31.23.207:80/movie/96795792/50165825/5702943.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53796.mp4
+10 Horas para o Natal	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765277.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39661.mp4
+10 Horas Para O Natal (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714669.mp4
+10 Hours for Christmas (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/139140.mkv
+10 Items or Less (2006)	dub=http://31.43.191.125:8080/movie/restream/restream/139880.mkv
+10 Minutes Gone (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/142283.mkv
+10 Regras Para Salvar um Casamento	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753078.mp4,https://embedplayer2.xyz/cdn/hls/9ca0551c793cde29f07cb01f2b87c970/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59532.mp4
+10 Regras Para Salvar um Casamento (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695834.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5695813.mp4
+10 Segundos Para Vencer (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719405.mp4
+10 Years (2012)	dub=http://31.43.191.125:8080/movie/restream/restream/139669.mkv
+10.000 A.C.	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760980.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1409.mp4
+10.000 A.C. (2008)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708436.mp4
+10/31 Part 2 (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/143085.mkv
+100 Coisas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767643.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12152.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59513.mp4
+100 Coisas (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710390.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5710304.mp4
+100 Coisas para Fazer Antes de Virar Zumbi	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761170.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53807.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59537.mp4
+100 Coisas para Fazer Antes de Virar Zumbi (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5703951.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5703922.mp4
+100 Coisas para Fazer Antes de Virar Zumbi (2023) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/272159.mp4
+100 Coisas para Fazer Antes de Virar Zumbi 4K [Hybrid]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53807.mp4
+100 Coisas para Fazer Antes de Virar Zumbi 4K [Hybrid] (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5703908.mp4
+100 Days to Live (2019)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1879958.mp4
+100 DIAS DE CASAMENTO CALOROSO	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302376.mp4
+100 Dias de Dona de casa a Bilionaria	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303135.mp4
+100 Dias de Resistência	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757421.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36766.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59527.mp4
+100 Dias de Resistência (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5707099.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5707070.mp4
+100 Dias para o Natal	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753203.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39676.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59542.mp4
+100 Dias para o Natal (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5707608.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5707577.mp4
+100 Dias para o Natal (2021) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/144722.mp4
+100 Escovadas Antes de Dormir	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756323.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59551.mp4	dub=https://embedplayer2.xyz/cdn/hls/bcc1e92e941c6d4a6d4b02a3aaa74db3/master.txt
+100 Escovadas Antes de Dormir (2005)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695093.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5695064.mp4
+100 Garotas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768003.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12167.mp4
+100 Garotas (2000)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710206.mp4
+100 Horsemen (1964)	dub=http://31.43.191.125:8080/movie/restream/restream/138813.mkv
+100 Medos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767598.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12165.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59556.mp4
+100 Medos (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5707073.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5707038.mp4
+100 Metros	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12161.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1808630.mp4
+100 Metros (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5692801.mp4
+100 Million BC (2008)	dub=http://31.43.191.125:8080/movie/restream/restream/143926.mkv
+100 Noites de Desejo (2025)	dub=https://embedplayer2.xyz/cdn/hls/3d011e075d9dec4eb6d10aed0ef2ac22/master.txt	leg=https://embedplayer2.xyz/cdn/hls/c40072479d2e82b9a78e1c8466493cfd/master.txt
+100 Noites de Desejo (2025) Leg	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/644773.mp4
+100 Percent Wolf	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59566.mp4	dub=https://embedplayer2.xyz/cdn/hls/4ec7eefabef59ecbb7da0e657457ee3e/master.txt
+100 Rifles (1969)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1891264.mp4
+100 Yards	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59571.mp4
+100 Yards (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715512.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/83605.mp4
+100% Lobo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766053.mp4
+100% Lobo (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715887.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5713924.mp4,https://embedplayer2.xyz/cdn/hls/4ec7eefabef59ecbb7da0e657457ee3e/master.txt
+100% Lobo (2020) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/83604.mp4
+1000 Miles From Christmas (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/132670.mkv
+1001 Histórias do Pernalonga (1982)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/398205.mp4
+101 Dálmatas	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756287.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59561.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8303.mp4
+101 Dálmatas (1961)	dub=http://64.31.23.207:80/movie/96795792/50165825/5690369.mp4
+101 Dálmatas (1996)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695526.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5695470.mp4
+101 Dálmatas II: A Aventura de Patch em Londres	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766124.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1863735.mp4
+101 Dálmatas II: A Aventura de Patch em Londres (2003)	dub=http://64.31.23.207:80/movie/96795792/50165825/5687495.mp4
+101 Dalmatians (1996)	dub=http://31.43.191.125:8080/movie/restream/restream/136903.mkv
+101 Reykjavik (2000)	dub=http://31.43.191.125:8080/movie/restream/restream/139670.mkv
+102 Dálmatas (2000)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1863933.mp4
+102 Dalmatians (2000)	dub=http://31.43.191.125:8080/movie/restream/restream/136904.mkv
+10DANCE	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751836.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59576.mp4
+10DANCE (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5688484.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59576.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5688458.mp4,https://embedplayer2.xyz/cdn/hls/69559fd422a92fef0e1eb6d129437ada/master.txt
+10DANCE (2025) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/652079.mp4
+10DANCE (2025) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/652089.mp4
+10DANCE 4K [DV][HDR]	dub=http://64.31.23.207:80/movie/96795792/50165825/5680164.mp4
+10th & Wolf (2006)	dub=http://31.43.191.125:8080/movie/restream/restream/143083.mkv
+10x10 (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/137839.mkv
+10x10 - O Cativeiro	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1886077.mp4
+10x10: O Cativeiro (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718632.mp4
+11 de Setembro 25 Anos Depois	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314469.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314468.mp4
+11 de Setembro: 25 Anos Depois (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5678615.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314468.mp4
+11/09: Os Quatro Voos Fatais	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760191.mp4
+11/09: Os Quatro Voos Fatais (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5698540.mp4
+11/9: A Vida Sob Ataque	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759424.mp4
+11/9: A Vida Sob Ataque (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5711513.mp4
+11/9: Ataque ao Pentágono	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759555.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1889691.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59584.mp4
+11/9: Ataque ao Pentágono (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695897.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5695845.mp4
+11M: Terror in Madrid (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/132906.mkv
+12 Angry Men (1957)	dub=http://31.43.191.125:8080/movie/restream/restream/143029.mkv
+12 Angry Men (1997)	dub=http://31.43.191.125:8080/movie/restream/restream/143030.mkv
+12 Anos de Escravidão	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763246.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59589.mp4
+12 Anos De Escravidão (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719567.mp4,https://embedplayer2.xyz/cdn/hls/506ed91da5da1bd084984b2399eb0893/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5689788.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59589.mp4
+12 Feet Deep	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59594.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1874356.mp4
+12 Feet Deep (2018)	leg=http://64.31.23.207:80/movie/96795792/50165825/5703153.mp4
+12 Feet Deep (2018) Leg	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/609819.mp4
+12 Heróis	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763244.mp4
+12 Heróis (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719928.mp4,https://embedplayer2.xyz/cdn/hls/f6c390533d73d2288d9110b88520c8a1/master.txt
+12 Homens e uma Sentença	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762359.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22039.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300969.mp4,http://fenixflix.fenixhub.online/r/zmHucZ006f17047ptnRTzcAxD8_MxdSuJfGPFaSPrb5SO61O8IntVeIWT9NR0uYShTF6-WOBq3fC8rauKU918A3HztA_yfp0oSdwHLXOYak/video.mp4
+12 Homens e Uma Sentença (1957)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708970.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5682463.mp4
+12 Homens e uma Sentença (1997)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/4034.mp4
+12 Horas de Fúria Infinda	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751472.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254215.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254257.mp4
+12 Horas de Fúria Infinda (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5684066.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5684036.mp4
+12 Horas de Fúria Infinda (2024) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/623869.mp4
+12 Horas de Fúria Infinda 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5683927.mp4
+12 Horas de Fúria Infinda [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254681.mp4
+12 Horas Para o Fim do Mundo	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755085.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59599.mp4
+12 Horas Para o Fim do Mundo (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5702133.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59599.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5702108.mp4,https://embedplayer2.xyz/cdn/hls/4cd10b5fb9a6d7896edd95821b09f8ad/master.txt
+12 Horas Para o Fim do Mundo 2023.	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/295273.mp4
+12 Horas para Sobreviver O Ano da Eleição	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309812.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309816.mp4
+12 Horas para Sobreviver: O Ano da Eleição (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718796.mp4,https://embedplayer2.xyz/cdn/hls/d25b07cd8bd6aa2adb766893d21fe6fd/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5680154.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309816.mp4
+12 Hour Shift	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59604.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1878035.mp4
+12 Hour Shift (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715120.mp4
+12 Moedas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760053.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1864268.mp4
+12 Moedas (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5703956.mp4
+12 Noites	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762325.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22048.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59609.mp4
+12 Noites (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5704659.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5704633.mp4
+12 Órfãos Poderosos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763474.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22062.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59623.mp4
+12 Órfãos Poderosos (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5711453.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5711399.mp4
+12 Presentes de Natal	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41082.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59618.mp4
+12 Presentes de Natal (2015)	leg=http://64.31.23.207:80/movie/96795792/50165825/5688812.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5688793.mp4
+12 Rodadas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1418.mp4
+12 Rodadas (2009)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/834.mp4
+12 Rounds	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761652.mp4
+12 Rounds (2009)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717173.mp4
+12 Rounds 2: Reloaded (2013)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1827391.mp4
+12 Rounds 3: Caçada Mortal (2015)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1880073.mp4
+12 Strong (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/143484.mkv
+12 Vésperas de Natal	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756923.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39671.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59613.mp4
+12 Vésperas de Natal (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5702666.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5702343.mp4
+12.12 O Dia	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256202.mp4
+12.12: O Dia (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5683127.mp4
+127 Horas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763922.mp4
+127 Horas (2010)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719453.mp4,https://embedplayer2.xyz/cdn/hls/e5c6f93b3c08f26dc413c8f7259f4a62/master.txt
+13 - O Jogador (2010)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713869.mp4
+13 Assassinos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760506.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1427.mp4
+13 Assassinos (2010)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717495.mp4
+13 Dias 13 Noites	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751371.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751427.mp4
+13 Dias 13 Noites (2025)	dub=https://embedplayer2.xyz/cdn/hls/488650dd8a58cba53dc618a64236a464/master.txt
+13 Dias no Lago da Morte	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751676.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249194.mp4
+13 Dias no Lago da Morte (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5686366.mp4,https://embedplayer2.xyz/cdn/hls/32ca9a9032121c9c4947b8bf70f34848/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5685785.mp4,https://embedplayer2.xyz/cdn/hls/f71a8553e4433b5c9b18b8aea6ecf601/master.txt
+13 Dias no Lago da Morte (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/613460.mp4
+13 Exorcismos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758053.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46504.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59633.mp4
+13 exorcismos (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5705081.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5705051.mp4
+13 Fantasmas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758723.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46509.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310023.mp4
+13 Fantasmas (1960)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/6344.mp4
+13 Fantasmas (2001)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717896.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5680565.mp4
+13 Horas: Os Soldados Secretos de Benghazi	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761327.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1419.mp4
+13 Horas: Os Soldados Secretos De Benghazi (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717117.mp4
+13 Hours: The Secret Soldiers of Benghazi (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/142285.mkv
+13 Minutos de Tormenta	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761259.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59628.mp4
+13 Minutos de Tormenta (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5708708.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59628.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5708680.mp4,https://embedplayer2.xyz/cdn/hls/36392ad9e7567a228e99e5a426a52c9f/master.txt
+13 Noites	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255378.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255379.mp4
+13 Noites (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5683790.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5683760.mp4
+13 Noites (2025) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/625031.mp4
+13 Noites [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255419.mp4
+13 Sentimentos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751178.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254300.mp4
+13 Sentimentos (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5683894.mp4
+13 Sentimentos [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254677.mp4
+1303 - Apartamento do Mal (2012)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/6348.mp4,https://embedplayer2.xyz/cdn/hls/9839d4aa4d295e1ac78d11817c6d2aa6/master.txt
+1303: Apartamento do Mal	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758809.mp4
+137 Disparos	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756139.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59647.mp4
+137 Disparos (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5697450.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5697409.mp4
+137 Shots (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/132910.mkv
+13: O Jogador	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764452.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22067.mp4
+13: O Musical	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753805.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53025.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59643.mp4
+13: O Musical (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5707503.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5707473.mp4
+13: O Pavilhão da Morte	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754842.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59638.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1423.mp4
+13: O Pavilhão da Morte (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5702589.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5702527.mp4
+13: The Musical (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133636.mkv
+13:14: The Challenge of Helping (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/138744.mkv
+13th (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/132907.mkv
+13th: A Conversation with Oprah Winfrey & Ava DuVernay (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/132908.mkv
+13° Distrito - Ultimato	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1431.mp4
+13° Distrito - Ultimato (2009)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717406.mp4
+13º Andar	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752728.mp4
+13º Andar (1999)	leg=http://64.31.23.207:80/movie/96795792/50165825/5721326.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5721325.mp4,https://embedplayer2.xyz/cdn/hls/a0ed0dfcc5b8826bdd4fc0f9f8b628b5/master.txt
+13º Distrito	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256157.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290746.mp4
+13º Distrito (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717548.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5683309.mp4
+13º Distrito.1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290718.mp4
+14 Cartas de Amor	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753420.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41068.mp4
+14 Cartas de Amor (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5708293.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5708270.mp4
+14 Dias	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764244.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22071.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59652.mp4
+14 Dias (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5705405.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5705380.mp4
+14 Peaks: Nothing Is Impossible (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/132909.mkv
+1408	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309815.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309834.mp4
+1408 (2007)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718111.mp4,https://embedplayer2.xyz/cdn/hls/0aa50d7574eaf68159c70099f576f338/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5680454.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309815.mp4
+1492 - A Conquista do Paraíso (1992)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/519745.mp4
+15 Anos em Silêncio	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755547.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59671.mp4	dub=https://embedplayer2.xyz/cdn/hls/3810cffefab86607eaeb7b045c1b53bf/master.txt
+15 Anos em Silêncio (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5693379.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5692882.mp4
+15 Anos em Silêncio (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/572503.mp4
+15 Assassinatos (2020)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1878057.mp4
+15 August (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/132669.mkv
+15 Câmeras	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752233.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46519.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59657.mp4
+15 Câmeras (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5690958.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5690937.mp4
+15 Minutes of Shame	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59667.mp4
+15 Minutes Of Shame (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5710415.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/83598.mp4
+15 Minutos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761005.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1446.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59662.mp4
+15 Minutos (2001)	leg=http://64.31.23.207:80/movie/96795792/50165825/5690919.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5690893.mp4
+15 minutos (2009)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/838.mp4
+15 Minutos de Guerra	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761835.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1450.mp4
+15 Minutos De Guerra (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713500.mp4
+15h17 - Trem Para Paris (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719764.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5683661.mp4
+15h17 - Trem Para Paris (2018) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/2650.mp4
+15h17 - Trem Para Paris 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5718884.mp4
+15h17: Trem Para Paris	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764106.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53805.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/255438.mp4
+15h17: Trem Para Paris (2018) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/626063.mp4
+16 anni e incinta – Pluto TV	dub=https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+16 Desejos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764319.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22080.mp4
+16 Desejos (2010)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713172.mp4
+16 Quadras (2006)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1827472.mp4
+16 Sunrises (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/138038.mkv
+1618 (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/138771.mkv
+17 Again (2009)	dub=http://31.43.191.125:8080/movie/restream/restream/142286.mkv
+17 Outra Vez	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767918.mp4,http://fenixflix.fenixhub.online/r/8-_N72aEaUMLoCj8QmpYK-rRv3A8k3Vb2Zy1mXZhrJMVqqTwuiJ9omU5cYsQCccXqnFVREJN1X-h_nZiqrwyQvO8f6i0UWnqaarvbUlv5_8/video.mp4
+17 Outra Vez (2000)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/3407.mp4
+17 Outra Vez (2009)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720197.mp4,https://embedplayer2.xyz/cdn/hls/905392b77b29cc6c0a73f84aec3e4cd0/master.txt
+1798 - Revolta dos Búzios	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750239.mp4
+1798 - Revolta dos Búzios (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5677172.mp4
+18 Anos Depois	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757022.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59681.mp4
+18 Anos Depois (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5699106.mp4
+18 Presentes (2020)	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/83599.mp4
+18 Presentes (2020) Leg	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/529265.mp4
+18 Presents	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59686.mp4
+18 Presents (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5712464.mp4	dub=http://31.43.191.125:8080/movie/restream/restream/134285.mkv
+18 Rosas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751266.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751389.mp4
+18 Rosas (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5685122.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251685.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5685097.mp4,https://embedplayer2.xyz/cdn/hls/6bbb8972d4dfb08070cacde09b69ddc8/master.txt
+18 Rosas (2026) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/618617.mp4
+18 Rosas (2026) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/618624.mp4
+18 Rosas 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5684957.mp4
+18 Rosas [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254673.mp4
+18 Years Old and Rising (2011)	dub=http://31.43.191.125:8080/movie/restream/restream/139751.mkv
+180	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751382.mp4,https://embedplayer2.xyz/cdn/hls/946d8e4290d3bae0a84afc8b6d12bc4d/master.txt	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751652.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253335.mp4
+180 (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5684929.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5684904.mp4
+180 (2026) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/620856.mp4
+180 [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254679.mp4
+19 (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5721145.mp4
+19 Ano Para Amar Voce	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303333.mp4
+19 Ano Para Amar Voce [Parte 1]	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303333.mp4
+19 Ano Para Amar Voce [Parte 2]	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303498.mp4
+19 Anos Para Amar Voce Parte 1	leg=http://64.31.23.207:80/movie/96795792/50165825/5680502.mp4
+19 Anos Para Amar Voce Parte 2	leg=http://64.31.23.207:80/movie/96795792/50165825/5680448.mp4
+19 Outra Vez	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750634.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308618.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308627.mp4
+19 Outra Vez (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5680742.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5680717.mp4
+19 Outra Vez (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/636438.mp4
+19 Outra Vez [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308673.mp4
+1911: A Revolução	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762787.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22085.mp4
+1917	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760932.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53818.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59691.mp4
+1917 (1917)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716476.mp4
+1917 (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5681491.mp4	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/847.mp4
+1917 (2019) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/2651.mp4
+1917 (2019) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/83612.mp4
+1917 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5715671.mp4
+1918 – A Batalha de Kruty	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762335.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22089.mp4
+1918 – A Batalha de Kruty (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716431.mp4
+1922 (2017)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/662489.mp4
+1922 (2017) (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5681512.mp4
+1941: Uma Guerra Muito Louca (1979)	leg=http://64.31.23.207:80/movie/96795792/50165825/5679081.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5679059.mp4
+1942: A Batalha Desconhecida (2019)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/280674.mp4
+1964: O Brasil Entre Armas e Livros	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757682.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37483.mp4
+1964: O Brasil Entre Armas e Livros (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718904.mp4
+1968 - Um Ano Na Vida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750331.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311240.mp4
+1968 - Um Ano Na Vida (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5679753.mp4
+1968 - Um Ano Na Vida [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311241.mp4
+1975 O Ano Do Colapso	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59700.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2536.mp4
+1975: O Ano Do Colapso (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5688175.mp4
+1975: O Ano Do Colapso (2025) Leg	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/600620.mp4
+1978	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758332.mp4,https://embedplayer2.xyz/cdn/hls/2d198f0bd0db3001172368c44ff07ce6/master.txt	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756533.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59696.mp4
+1978 (1978)	dub=http://64.31.23.207:80/movie/96795792/50165825/5693540.mp4
+1978 (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5693555.mp4	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/570311.mp4
+1978 (2025) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/570310.mp4
+1982: La gesta (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/138042.mkv
+1984 (1984)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/650783.mp4
+1985 (2017)	leg=http://64.31.23.207:80/movie/96795792/50165825/5705672.mp4
+1985 - 2022	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/121993.mp4
+1985 4K [HDR]	dub=http://64.31.23.207:80/movie/96795792/50165825/5705751.mp4
+1992	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755756.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59705.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21068.mp4
+1992 (1992)	dub=http://64.31.23.207:80/movie/96795792/50165825/5696704.mp4
+1992 (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5696659.mp4	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/538882.mp4
+1992 (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/538881.mp4
+1BR	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59715.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1871002.mp4
+1BR (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5716026.mp4	dub=http://31.43.191.125:8080/movie/restream/restream/138880.mkv
+1BR: O Apartamento (2019)	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/83587.mp4
+2 - Brinquedo Assassino 2 (1990)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718017.mp4
+2 - Harry Potter E A Camera Secreta	dub=https://embedplayer2.xyz/cdn/hls/a9477756ed0363a0c6661ea99235b44f/master.txt
+2 - Harry Potter E A Camera Secreta 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53830.mp4
+2 - Máquina Mortífera 2 (1989)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717014.mp4
+2 - O Ataque Dos Vermes Malditos 2 (1996)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718296.mp4
+2 Coelhos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760598.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1442.mp4
+2 Coelhos (2012)	dub=http://64.31.23.207:80/movie/96795792/50165825/5704177.mp4
+2 Corações	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753676.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53811.mp4
+2 Corações (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712192.mp4
+2 Corações 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53811.mp4
+2 Dias em Nova York	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767860.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12170.mp4
+2 Dias em Nova York (2012)	dub=http://64.31.23.207:80/movie/96795792/50165825/5709832.mp4
+2 Fast 2 Furious (2003)	dub=http://31.43.191.125:8080/movie/restream/restream/142280.mkv
+2 Filhos de Francisco	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762126.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22098.mp4
+2 Filhos De Francisco (2005)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719625.mp4
+2 Mais 2	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767836.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12179.mp4
+2 Mais 2 (2012)	dub=http://64.31.23.207:80/movie/96795792/50165825/5693467.mp4
+2 Minutos de Fama	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768559.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12183.mp4
+2 Minutos De Fama (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5715720.mp4
+2 Pais	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97847.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/97926.mp4
+2 Pais (1997)	leg=http://64.31.23.207:80/movie/96795792/50165825/5686946.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5686919.mp4
+2 Pais (1997) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/609021.mp4
+2 Posuidos	dub=https://embedplayer2.xyz/cdn/hls/aa12902f4cca0ee8c911b51909465165/master.txt
+2.0 Lucy (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/143642.mkv
+20 (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5721148.mp4
+20 000 Léguas Submarinas	dub=http://64.31.23.207:80/movie/96795792/50165825/5715680.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33353.mp4
+20 Anos + Jovem	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767972.mp4
+20 Anos + Jovem (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719962.mp4
+20 Anos Mais Jovem	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12192.mp4
+20 Anos Mais Jovem (2013)	dub=https://embedplayer2.xyz/cdn/hls/4d9e95e4e1e47f8029f86cd683f3cacb/master.txt
+20 Days in Mariupol	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59710.mp4	dub=https://embedplayer2.xyz/cdn/hls/41f6c65faea74e90ef049edd9b86a761/master.txt
+20 Days in Mariupol (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5701262.mp4
+20 Dias em Mariupol	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755261.mp4
+20 Dias em Mariupol (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5720625.mp4
+20 Dias em Mauripol	leg=http://64.31.23.207:80/movie/96795792/50165825/5699578.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5699244.mp4
+20 Dias em Mauripol (2023)	dub=https://embedplayer2.xyz/cdn/hls/41f6c65faea74e90ef049edd9b86a761/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40503.mp4
+20 Dias em Mauripol (2023) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/325282.mp4
+20.0 Megaquake (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/139017.mkv
+20.000 Léguas Submarinas (1916)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/4690.mp4
+20.000 Léguas Submarinas (1954)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/548473.mp4
+200% Wolf (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/137380.mkv,https://embedplayer2.xyz/cdn/hls/6914f478572dcf5fb982a6b4e337033d/master.txt
+2000 Metros até Andriivka	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751998.mp4
+2000 Metros até Andriivka (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5687562.mp4
+2000's Greatest Tragedies (2015)	dub=http://31.43.191.125:8080/movie/restream/restream/136575.mkv
+2001 Maníacos (2005)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/523813.mp4
+2001: Uma Odisséia no Espaço	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765871.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35359.mp4
+2001: Uma Odisséia no Espaço (1968)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/652127.mp4
+2010: Moby Dick (2010)	dub=http://31.43.191.125:8080/movie/restream/restream/143088.mkv
+2010: O Ano em que Faremos Contato (1984)	dub=http://64.31.23.207:80/movie/96795792/50165825/5687863.mp4
+2012	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760596.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1454.mp4
+2012 (2009)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/403365.mp4
+2012 (2012)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717414.mp4
+2012: Ice Age (2011)	dub=http://31.43.191.125:8080/movie/restream/restream/143927.mkv
+2019: O Ano da Extinção	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765474.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33338.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309817.mp4
+2019: O Ano da Extinção (2010)	leg=http://64.31.23.207:80/movie/96795792/50165825/5680371.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5680342.mp4
+2023 Oscar Nominated Shorts: Documentary (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5705246.mp4
+2024 Rock & Roll Hall of Fame Induction Ceremony (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/137836.mkv
+2025 Armageddon (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/143646.mkv
+2035: Dimensão Proibida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758923.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46529.mp4
+2035: Dimensão Proibida (2013)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/6349.mp4
+2036 Origem Desconhecida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765564.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33334.mp4
+2036 Origem Desconhecida (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718508.mp4
+2047: Visões da Morte	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760573.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1452.mp4
+2047: Visões da Morte (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5691984.mp4
+2067	dub=http://64.31.23.207:80/movie/96795792/50165825/5715363.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35362.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59740.mp4
+2067 (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5680693.mp4	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/5051.mp4
+2067 (2020) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/145160.mp4
+2073	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253676.mp4,https://embedplayer2.xyz/cdn/hls/34e724316bd769727aef46b881fe1964/master.txt
+2073 (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5684353.mp4
+20dB (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/143084.mkv
+20th Century Girl (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133713.mkv
+21 Bridges (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/142287.mkv
+21 paraíso (2023)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56337.mp4
+211 (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/137943.mkv
+211 - O Grande Assalto (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716955.mp4
+211: O Grande Assalto	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761772.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1462.mp4
+22 Balas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761376.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1458.mp4
+22 Balas (2010)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717411.mp4
+22 de Julho	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762807.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53788.mp4
+22 de Julho (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719158.mp4
+22 de Julho 4K [Hybrid]	dub=http://64.31.23.207:80/movie/96795792/50165825/5705320.mp4
+22 July (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/133278.mkv
+22 Milhas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761162.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1466.mp4
+22 Milhas (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717317.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5684384.mp4
+22 vs. Earth (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/137314.mkv
+23.000 Vidas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750585.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750984.mp4
+23.000 Vidas (2026)	dub=http://64.31.23.207:80/movie/96795792/50165825/5680539.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309169.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309176.mp4
+23.000 Vidas (2026) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/637961.mp4
+23.000 Vidas 4K [DV][HDR]	dub=http://64.31.23.207:80/movie/96795792/50165825/5680812.mp4
+23.000 Vidas [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309188.mp4
+24 Davids (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/138039.mkv
+24 Horas com Gaspar	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757561.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59730.mp4
+24 Horas com Gaspar (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5701182.mp4,https://embedplayer2.xyz/cdn/hls/6c2818169222f0a04135ecba565d5f0b/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5701129.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59730.mp4
+24 Horas com Gaspar (2023) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/316559.mp4
+24 Horas de Fúria	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762346.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22119.mp4
+24 Horas de Fúria (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5696464.mp4
+24 Horas para o Natal	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765252.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1821000.mp4
+24 Horas para o Natal (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720959.mp4
+24 Hours to D-Day (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/139448.mkv
+24 Hours to Live (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/143644.mkv
+24 Hours with Gaspar (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/132577.mkv
+242310	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1472.mp4
+27 Noites	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752486.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53823.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59725.mp4
+27 Noites (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5690487.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5690458.mp4
+27 Noites (2025) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/595352.mp4
+27 Noites 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5689208.mp4
+27 Noites 4K [DV][HDR]	dub=http://64.31.23.207:80/movie/96795792/50165825/5679925.mp4
+28 Dias	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53675.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59735.mp4
+28 Dias (2000)	leg=http://64.31.23.207:80/movie/96795792/50165825/5687418.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5687390.mp4
+28 Dias (2000) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/605057.mp4
+28 Dias com o Alfa	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/303141.mp4
+28 Years Later (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134506.mkv
+29	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750248.mp4
+29 (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5679169.mp4
+2: Possuídos	dub=https://embedplayer2.xyz/cdn/hls/aa12902f4cca0ee8c911b51909465165/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290747.mp4
+2:22 (2008)	dub=http://31.43.191.125:8080/movie/restream/restream/143079.mkv
+2:22 - Encontro Marcado	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756626.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59752.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35365.mp4,https://embedplayer2.xyz/cdn/hls/5d1fd1c9dd621da6393d512ba6663ed9/master.txt
+2:22 - Encontro Marcado (2017)	leg=http://64.31.23.207:80/movie/96795792/50165825/5692448.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5692421.mp4
+2:22 - Encontro Marcado (2017) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/583079.mp4
+2DIE4: 24 Horas no Limite	dub=http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/6246674.mp4
+2DIE4: 24 Horas no Limite (2026)	dub=http://64.31.23.207:80/movie/96795792/50165825/5677525.mp4
+2DIE4: 24 Horas no Limite (2026) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/656808.mp4
+2DIE4: 24 Horas no Limite 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5677821.mp4
+3 - Harry Potter E O Prisioneiro De Azkaban	dub=https://embedplayer2.xyz/cdn/hls/b9d01bf713fc1d4384d63c4647eabc88/master.txt
+3 - Harry Potter E O Prisioneiro De Azkaban 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53837.mp4
+3 - Máquina Mortífera 3 (1992)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717943.mp4
+3 - O Ataque Dos Vermes Malditos 3 (2001)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718548.mp4
+3 Days in Malay (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/139522.mkv
+3 Dias com Meu Pai	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767554.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12196.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59757.mp4
+3 Dias com Meu Pai (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5705956.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5705932.mp4
+3 Dias para Matar	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760879.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1473.mp4
+3 Dias Para Matar (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717427.mp4
+3 Faces (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5715859.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56850.mp4
+3 Histórias de Amor	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764765.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22114.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59748.mp4
+3 Histórias De Amor (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710915.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5710866.mp4
+3 Idiotas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766996.mp4
+3 Ninjas (1992)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/302905.mp4
+3 Ninjas - Aventura na Mega Mountain (1998)	dub=http://64.31.23.207:80/movie/96795792/50165825/5691747.mp4
+3 Ninjas - Uma Aventura Radical (1992)	dub=http://64.31.23.207:80/movie/96795792/50165825/5691852.mkv
+3 Ninjas Contra-Atacam	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767559.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12201.mp4
+3 Ninjas Contra-Atacam (1994)	dub=http://64.31.23.207:80/movie/96795792/50165825/5691801.mp4
+3 Ninjas em Apuros (1995)	dub=http://64.31.23.207:80/movie/96795792/50165825/5690626.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1863947.mp4
+3 Obás de Xangô	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750692.mp4
+3 Obás de Xangô (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5678249.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315426.mp4
+3 Obás de Xangô [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/315430.mp4
+3 Palavrinhas – Vol. 1 (2013)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/546596.mp4
+3 Palavrinhas – Vol. 2 (2014)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/546597.mp4
+3 Palavrinhas – Vol. 3 (2016)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/546598.mp4
+3 Pedidos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752732.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43440.mp4
+3 Pedidos (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717160.mp4
+3 Semanas e 2 Dias (2007)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720584.mp4
+3 Turcos e um Bebê	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768057.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12206.mp4
+3 Turcos E Um Bebê (2015)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714836.mp4
+3 Vidas (2019)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1874337.mp4
+3 Working Days	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756849.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59762.mp4
+3 Working Days (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5697473.mp4	dub=http://31.43.191.125:8080/movie/restream/restream/142282.mkv
+3.2.1 ADEUS E PONTO FINAL	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302742.mp4
+30 Anos Blues	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763621.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22127.mp4
+30 Anos Blues (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5711105.mp4
+30 Anos Congelada 3 Irmaos se Arrependem []	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/302915.mp4
+30 Dias de Noite	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759244.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1874766.mp4
+30 Dias De Noite (2007)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718184.mp4
+30 Dias de Noite 1	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46535.mp4
+30 Dias de Noite 2	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46550.mp4
+30 Dias de Noite 2: Dias Sombrios	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759305.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309835.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309818.mp4
+30 Dias De Noite 2: Dias Sombrios (2010)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718507.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5680292.mp4
+30 Minutos ou Menos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253761.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253803.mp4
+30 Minutos ou Menos (2011)	leg=http://64.31.23.207:80/movie/96795792/50165825/5683969.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253803.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5683941.mp4,https://embedplayer2.xyz/cdn/hls/32f906bdf83aa4aa1d59644208da099a/master.txt
+30 Noites com a Minha Ex	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767586.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12202.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59767.mp4
+30 Noites com a Minha Ex (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5706225.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5705712.mp4
+300	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760765.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1476.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308815.mp4
+300 (2007)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717337.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5680903.mp4
+3000 Milhas para o Inferno	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761161.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1482.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/249195.mp4
+3000 Milhas para o Inferno (2001)	leg=http://64.31.23.207:80/movie/96795792/50165825/5685922.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5685896.mp4
+3000 Milhas para o Inferno (2001) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/615232.mp4
+300: A Ascensão do Império	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760701.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308816.mp4
+300: A Ascensão Do Império (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717925.mp4,https://embedplayer2.xyz/cdn/hls/3e1cab785769acb767a39ccde6c70496/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5680711.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308816.mp4
+300: Rise of an Empire (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/142290.mkv
+3022	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59776.mp4
+3022 (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715039.mp4,http://dns.explouddev.com:80/movie/632270679/F823j7133R/83614.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59776.mp4	dub=https://embedplayer2.xyz/cdn/hls/38b7b9a928da4003ba8ccbb3a1bb45dc/master.txt
+303 Squadron	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59772.mp4
+303 Squadron (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717926.mp4
+3096 Dias de Cativeiro	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762513.mp4
+3096 Dias de Cativeiro (2013)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/83815.mp4,https://embedplayer2.xyz/cdn/hls/bad974825d4396917db41b80fc3a2930/master.txt
+3096 Dias De Cativeiro (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5680046.mp4
+31 - A Morte é a Única Saída	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309819.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309836.mp4
+31 - A Morte é a Única Saída (2016)	leg=http://64.31.23.207:80/movie/96795792/50165825/5680215.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5680188.mp4
+31 Minutos: Natal Escaldante	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751368.mp4,https://embedplayer2.xyz/cdn/hls/516d2327e6c57d256fcc5586ff87da8c/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59781.mp4
+31 Minutos: Natal Escaldante (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5689862.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5689180.mp4
+31 Minutos: Natal Escaldante (2025) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/595273.mp4
+316	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764256.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22132.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59786.mp4
+316 (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5703675.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5703647.mp4
+32 – A Guerra Civil	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308401.mp4
+32 – A Guerra Civil (1993)	dub=http://64.31.23.207:80/movie/96795792/50165825/5681424.mp4
+33 Photos from the Ghetto	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59791.mp4
+33 Photos from the Ghetto (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5687504.mp4
+35 - O Assalto ao Poder (2002)	dub=http://telaplay93.top:80/movie/LuizDavi@/fBkvnKe5Mq/6250765.mp4
+36	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250449.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250813.mp4
+36 (2004)	leg=http://64.31.23.207:80/movie/96795792/50165825/5685670.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5685639.mp4
+36 (2004) LEG	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/622394.mp4
+36 Horas de Guerra	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763253.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22137.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59801.mp4
+36 Horas de Guerra (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5705384.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5705357.mp4
+365 Days: This Day (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133279.mkv
+365 Dias	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753333.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41078.mp4
+365 Dias (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715866.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5698722.mp4
+365 Dias (2020) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/83609.mp4
+365 Dias Finais	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753850.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41073.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59796.mp4
+365 Dias Finais (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5707284.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5707254.mp4
+365 Dias: Hoje	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753324.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53840.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59805.mp4
+365 Dias: Hoje (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5708566.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5708537.mp4
+365 Dias: Hoje (2022) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/393795.mp4
+365 Dias: Hoje (2022) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/232966.mp4
+365 Dias: Hoje 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5698468.mp4
+365 dni	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59815.mp4
+365.Dias.mp4	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/101456.mp4
+37 Seconds (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/134286.mkv
+3: Gênesis	dub=https://embedplayer2.xyz/cdn/hls/8ccc9262a11a325ed136784fbb4bb059/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290748.mp4
+4 - Harry Potter E O Calice De Fogo	dub=https://embedplayer2.xyz/cdn/hls/2249bf682dd046b7d44afcd8e1145f81/master.txt
+4 - Harry Potter E O Calice De Fogo 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53845.mp4
+4 - Máquina Mortífera 4 (1998)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717174.mp4
+4 - O Ataque Dos Vermes Malditos 4: O Começo Da Lenda (2004)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718433.mp4
+4 Horsemen: Apocalypse (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/143643.mkv
+4 Kings 2	leg=http://64.31.23.207:80/movie/96795792/50165825/5700422.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59825.mp4	dub=https://embedplayer2.xyz/cdn/hls/b0400d26bef2522928e06c742b7fdb34/master.txt
+4 Latas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766676.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12213.mp4
+4 Latas (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716946.mp4
+40 Acres	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755392.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59810.mp4
+40 Acres (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5692219.mp4
+40 Acres (2025) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/603130.mp4
+40 Dias - O Milagre da Vida	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764009.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22141.mp4
+40 Dias - O Milagre Da Vida (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5717816.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5714524.mp4
+40 días perdidos en la selva	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751370.mp4,https://embedplayer2.xyz/cdn/hls/f8ef518f8acdbdde0e37f30d65fae456/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253804.mp4
+40 días perdidos en la selva (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5684173.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5684150.mp4
+40 días perdidos en la selva [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254680.mp4
+40 Dias Perdidos na Selva (2024)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/623087.mp4,https://embedplayer2.xyz/cdn/hls/f8ef518f8acdbdde0e37f30d65fae456/master.txt
+40 Years Young (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/134287.mkv
+400 Balas (2021)	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/83610.mp4
+400 Bullets	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59830.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1889418.mp4
+400 Bullets (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5713725.mp4
+400 Contra 1 Uma História do Crime Organizado	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37497.mp4
+400 Contra 1: A História do Comando Vermelho	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757958.mp4
+400 Contra 1: A História do Comando Vermelho (2010)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/71361.mp4
+400 Contra 1: Uma História Do Crime Organizado (2010)	dub=http://64.31.23.207:80/movie/96795792/50165825/5711719.mp4,https://embedplayer2.xyz/cdn/hls/6174103477b1bda7ef3f57cdd5fabef1/master.txt
+407 : O Vôo das Trevas (2012)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/54861.mp4
+41ª DP - Inferno no Bronx (1981)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/21451.mp4
+42 Segundos	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756892.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59820.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22150.mp4
+42 Segundos (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5699537.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5699513.mp4
+42 segundos - The Final Game (2022)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/376361.mp4
+42: A História de uma Lenda	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763558.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22146.mp4
+42: A História de uma Lenda (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5679865.mp4
+438 Dias	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762521.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22152.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59835.mp4
+438 Dias (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708772.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5708305.mp4
+43deg a lombre (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5678700.mp4
+43° à l’ombre	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313349.mp4
+44 Minutos O Tiroteio de North Hollywood	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314395.mp4
+44 Minutos: O Tiroteio de North Hollywood (2003)	dub=http://64.31.23.207:80/movie/96795792/50165825/5678574.mp4
+45 do Segundo Tempo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767569.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12215.mp4
+45 do Segundo Tempo (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5706594.mp4
+47 Meters Down Uncaged	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59840.mp4,https://embedplayer2.xyz/cdn/hls/0ca05cc29f4285d113ac051eeb3461cf/master.txt
+47 Meters Down: Uncaged (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/142288.mkv
+47 Ronin (2013)	dub=http://31.43.191.125:8080/movie/restream/restream/142289.mkv
+47 Ronins	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761506.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1484.mp4
+47 Ronins (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713816.mp4
+48 Horas (1982)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713450.mp4
+48 Horas!	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752703.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1488.mp4
+4: Apocalipse (2014)	dub=https://embedplayer2.xyz/cdn/hls/0d229b8a5f65970ee91ccb32680b30a9/master.txt	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290749.mp4
+4x100 Correndo por um Sonho4	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764572.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1810671.mp4
+4x100: Correndo por um Sonho	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1810671.mp4
+4x100: Correndo por um Sonho (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5711776.mp4
+4x4	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1873571.mp4
+4x4 (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708130.mp4
+4x44	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752498.mp4
+5 - Harry Potter E A Ordem Da Fenix	dub=https://embedplayer2.xyz/cdn/hls/680fdba3cad8fde5bad8304900467c51/master.txt
+5 - Harry Potter E A Ordem Da Fenix 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53864.mp4
+5 - O Ataque Dos Vermes Malditos 5: Linhas De Sangue (2015)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718669.mp4
+5 Casas	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/37474.mp4
+5 Casas (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5688505.mp4
+5 e o Numero Perfeito (2019)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/287685.mp4
+5 Is the Perfect Number (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/143080.mkv
+5 Star Christmas (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/132668.mkv
+5 to 7 (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/142082.mkv
+5-Headed Shark Attack (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/143776.mkv
+50 Aniversários Celebremos!	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251185.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/2054336.mp4
+50 Aniversários: Celebremos! (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5685142.mp4
+50 First Dates Mexico	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59847.mp4
+50 Km Por Hora	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756772.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59852.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12210.mp4
+50 Km Por Hora (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5698782.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5698400.mp4
+50%	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766887.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12219.mp4
+50% (2011)	dub=http://64.31.23.207:80/movie/96795792/50165825/5703554.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5677915.mp4
+5000 Cobertas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762086.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22160.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59857.mp4
+5000 Cobertas (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5703737.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5703710.mp4
+5000 Cobertas (2023)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/274221.mp4
+53 Domingos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751732.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250077.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250085.mp4
+53 Domingos (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5685597.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5685572.mp4
+53 Domingos (2026) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/615502.mp4
+55 Passos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763966.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22155.mp4
+55 Passos (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716876.mp4
+57 Segundos	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755123.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59862.mp4
+57 Segundos (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5701813.mp4,https://embedplayer2.xyz/cdn/hls/0237f10b7c0bceadfd0ebad3af7568e1/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5701755.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59862.mp4
+6 - Harry Potter E O Enigma Do Principe	dub=https://embedplayer2.xyz/cdn/hls/0ef49ca3037f377a5148a43e0315b08a/master.txt
+6 - Harry Potter E O Enigma Do Principe 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53858.mp4
+6 - O Ataque Dos Vermes Malditos 6: Um Dia Frio No Inferno (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717976.mp4
+6 Balas (2012)	dub=http://64.31.23.207:80/movie/96795792/50165825/5683546.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1859027.mp4
+6 Balloons (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/133274.mkv
+6 Balões	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755828.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59867.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22165.mp4
+6 Balões (2018)	leg=http://64.31.23.207:80/movie/96795792/50165825/5697378.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5696978.mp4
+6 Balões (2018) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/532033.mp4
+6 Bullets (2012)	dub=http://31.43.191.125:8080/movie/restream/restream/138008.mkv
+6 Dias (2017)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1876549.mp4
+6 Guns (2010)	dub=http://31.43.191.125:8080/movie/restream/restream/144084.mkv
+6 Hours Away (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/143081.mkv
+6 Hours Away (2025)	dub=https://embedplayer2.xyz/cdn/hls/5018e2f17da217b2c0a1bd3e169b7f03/master.txt	leg=https://embedplayer2.xyz/cdn/hls/32b373c4d17dea52d9c92d5887707a3e/master.txt
+6 Souls (2010)	dub=http://31.43.191.125:8080/movie/restream/restream/138012.mkv
+6 Underground (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/132576.mkv
+60 Minutos	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756411.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59877.mp4
+60 Minutos (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5702048.mp4,https://embedplayer2.xyz/cdn/hls/cb10b08951949d37d85fdec874d3b0ea/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5701989.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59877.mp4
+60 Minutos 4K [Hybrid]	dub=http://64.31.23.207:80/movie/96795792/50165825/5701536.mp4
+60 Minutos para Morrer	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758670.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46566.mp4
+60 Minutos Para Morrer (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718116.mp4
+60 Segundos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760871.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1496.mp4
+60 Segundos (2000)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717283.mp4
+633 Squadron (1964)	dub=http://31.43.191.125:8080/movie/restream/restream/138529.mkv
+65 (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/143910.mkv
+65: Ameaça Pré-Histórica	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765797.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53877.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59887.mp4
+65: Ameaça Pré-Histórica (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5705295.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5705264.mp4
+65: Ameaça Pré-Histórica (2023) - 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/250850.mp4
+65: Ameaça Pré-Histórica 4K [Hybrid]	dub=http://64.31.23.207:80/movie/96795792/50165825/5705350.mp4
+666 - O Filho do Mal (2006)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55018.mp4
+684 Unidade de Combate	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1492.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59881.mp4
+684: Unidade de Combate (2003)	leg=http://64.31.23.207:80/movie/96795792/50165825/5688448.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5688423.mp4
+69: The Saga of Danny Hernandez (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/137628.mkv
+7 - Harry Potter e as Reliquias da Morte - Parte 1	dub=https://embedplayer2.xyz/cdn/hls/69bd12f12a45f3d202ef84852a8ceebb/master.txt
+7 - Harry Potter e as Reliquias da Morte - Parte 1 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53872.mp4
+7 Anos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311838.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311846.mp4
+7 Anos (2016)	leg=http://64.31.23.207:80/movie/96795792/50165825/5679686.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5679659.mp4
+7 Days (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/137476.mkv
+7 Days to Hell (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5680829.mp4
+7 Denúncias: As Consequências do Caso COVID-19	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760007.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1867015.mp4
+7 Denúncias: As Consequências do Caso COVID-19 (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5715869.mp4
+7 Desejos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759619.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46571.mp4
+7 Desejos (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718200.mp4
+7 dias (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5720497.mp4
+7 DIAS ALGEMADA COM UM CALL BOY	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301847.mp4
+7 Dias com Você	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753904.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/41088.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59872.mp4
+7 Dias com Você (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5705298.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5705267.mp4
+7 Dias em Entebbe	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752818.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43441.mp4
+7 Dias em Entebbe (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718620.mp4
+7 Dias para Vegas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768289.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12227.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59892.mp4
+7 Dias para Vegas (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5703452.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5703424.mp4
+7 Guardians of the Tomb (2018)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/555742.mp4
+7 Minutes (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/138528.mkv
+7 Minutos Na Escuridão (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716068.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/51834.mp4
+7 Mulheres e Um Mistério	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768168.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59911.mp4
+7 Mulheres e Um Mistério (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5706758.mp4,https://embedplayer2.xyz/cdn/hls/47e82e8b08830167c48a9b75567337d4/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5706148.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59911.mp4
+7 Piano Sketches	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309516.mp4
+7 Piano Sketches (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5680622.mp4
+7 Prisioneiros	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764201.mp4
+7 Prisioneiros (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710199.mp4,https://embedplayer2.xyz/cdn/hls/be2248bac3deb8f4b3d7a3bb379edbe4/master.txt
+7 Prisioneiros (2021) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/242134.mp4
+7 Prisioneiros 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5705554.mp4
+7 Prisoners (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/133276.mkv
+7 Segundos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760987.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1500.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300970.mp4
+7 Segundos (2005)	leg=http://64.31.23.207:80/movie/96795792/50165825/5682671.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5682642.mp4
+7 Verões	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12236.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59897.mp4
+7 Verões (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5690481.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5690452.mp4
+70 Anos Esta Noite	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759630.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1866317.mp4
+70 Anos Esta Noite (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5709427.mp4
+70 é Apenas um Número	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754987.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59906.mp4	dub=https://embedplayer2.xyz/cdn/hls/4e4fa4cb7252f2370f41f91fed2e1666/master.txt
+70 é Apenas um Número (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5694032.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5693695.mp4
+70 é Apenas um Número (2021) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/565923.mp4
+700 Sharks (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/138041.mkv
+70s Cinema	dub=http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+72 Horas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763475.mp4,http://fenixflix.fenixhub.online/r/pWiW87oOpQrElzR96Ed3MKtrPuDexTlXvEZYvZnjMphqX7Pq2VMUcrXISbHtlFYXnSH4WlWwAJmTVsS5RpwtB8Tbk3qX7_6upWJ3zL-BLx0/video.mp4	leg=http://fenixflix.fenixhub.online/r/v6HtoqbN8R12du3u0o10t3pOwNa4ampqasmiv548m-pJQeQ5_c-qZqwl3SZxLCmO-TfyjSPdIP8aWXWYf6P-9ixYrP9-RZgqxDR4Y6ynsaI/video.mp4
+72 Horas (2010)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719853.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22169.mp4
+72 Horas Depois	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760707.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1504.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59901.mp4
+72 Horas Depois (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5711166.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5711142.mp4
+72 Horas em Miami	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750766.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750236.mp4
+72 Horas em Miami (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5680357.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309842.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5680330.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309851.mp4
+72 Horas em Miami (2026) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/640386.mp4
+72 Horas em Miami (2026) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/640346.mp4
+72 Horas em Miami 4K [DV][HDR]	dub=http://64.31.23.207:80/movie/96795792/50165825/5680059.mp4
+72 Horas em Miami [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309847.mp4
+75 días	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762479.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22179.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59915.mp4
+75 días (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5691405.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5691379.mp4
+7500	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762127.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1871796.mp4
+7500 (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716510.mp4
+7500 (2019)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/4049.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22183.mp4
+78 Dias	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/313350.mp4
+78 Dias (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5679115.mp4
+7th & Union	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763256.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22188.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59925.mp4
+7th & Union (2021)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/80543.mp4
+7th &amp; Union	leg=http://64.31.23.207:80/movie/96795792/50165825/5707621.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5707589.mp4
+7th Floor (2013)	dub=http://31.43.191.125:8080/movie/restream/restream/143082.mkv
+8 - Harry Potter e as Reliquias da Morte - Parte 2	dub=https://embedplayer2.xyz/cdn/hls/cd2c24fb76872fc337cfee90589c00b4/master.txt
+8 - Harry Potter e as Reliquias da Morte - Parte 2 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53909.mp4
+8 do1 – A Democracia Resiste (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720750.mp4
+8 Mil Metros e 7 Meses	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760068.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1866924.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59920.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1866924.mp4
+8 Mil Metros e 7 Meses (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5709847.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5709818.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1866924.mp4
+8 Mile: Rua das Ilusões	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762444.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22190.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59930.mp4
+8 Mile: Rua das Ilusões (2002)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708020.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5687886.mp4
+8 Mulheres e 1 Segredo	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/12243.mp4
+8 Presidentes 1 Juramento: A História de um Tempo Presente	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760013.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1865687.mp4
+8 Presidentes 1 Juramento: A História de um Tempo Presente (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708208.mp4
+8 Segundos	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22193.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59939.mp4
+8 Segundos (1994)	leg=http://64.31.23.207:80/movie/96795792/50165825/5688377.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5688350.mp4
+8 Segundos (1994) Leg	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/567209.mp4
+8/1 – A Democracia Resiste	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759890.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59951.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59951.mp4
+8/1 – A Democracia Resiste (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5701931.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5701905.mp4
+80 for Brady Quatro Amigas e uma Paixão 4K [HDR]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53906.mp4
+80 for Brady: Quatro Amigas e uma Paixão	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2767905.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53906.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59935.mp4
+80 For Brady: Quatro Amigas e Uma Paixão (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5705644.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5705616.mp4
+80 for Brady: Quatro Amigas e uma Paixão 4K [HDR] (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5704900.mp4
+800 balas (2002)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/55854.mp4
+80s Rewind	dub=http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+85 South: Ghetto Legends	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755187.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59961.mp4
+85 South: Ghetto Legends (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5700772.mp4
+88 (2015)	dub=http://64.31.23.207:80/movie/96795792/50165825/5677439.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5676892.mp4
+8mm 2: Oito Milímetros 2	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760440.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1508.mp4
+8mm 2: Oito Milímetros 2 (2005)	dub=http://64.31.23.207:80/movie/96795792/50165825/5699494.mp4
+8mm: Oito Milímetros	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752931.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43444.mp4
+8mm: Oito Milímetros (1999)	dub=http://64.31.23.207:80/movie/96795792/50165825/5699315.mp4
+9 - A Salvação	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765274.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59971.mp4
+9 Canções (2025)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306338.mp4
+9 Days at Raqqa (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/138037.mkv
+9 Dias Acordado	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763207.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22197.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59956.mp4
+9 Dias Acordado (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5709469.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5709444.mp4
+9 Satra: A Lenda do Muay Thai	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765424.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33343.mp4
+9 Satra: A Lenda do Muay Thai (2018)	leg=http://64.31.23.207:80/movie/96795792/50165825/5708249.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5708221.mp4
+9 Ways to Hell (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/138869.mkv
+9 Windows (2024)	leg=https://embedplayer2.xyz/cdn/hls/55bba61cf731c68ce1c72f8ef0edd5cd/master.txt
+9 ½ Semanas de Amor	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762932.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22209.mp4
+9 ½ Semanas de Amor (1986)	leg=http://64.31.23.207:80/movie/96795792/50165825/5678779.mp4	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/645374.mp4
+90 Minutos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752902.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43449.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59966.mp4
+90 Minutos (1990)	leg=http://64.31.23.207:80/movie/96795792/50165825/5706734.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5706709.mp4
+90 Minutos (2022)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/223430.mp4
+90 Minutos (2022) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/223431.mp4
+90 Minutos no Paraíso	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757650.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40639.mp4
+90 Minutos No Paraíso (2015)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712128.mp4
+90s Throwback	dub=http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+96 Minutes	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99934.mp4	dub=https://embedplayer2.xyz/cdn/hls/a5e2ef74196ba3d8a0056ac371b904d8/master.txt
+96 Minutes (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5687585.mp4
+96 Minutes [Cinema]	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752654.mp4
+99 Luas de Paixão	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/309517.mp4
+99 Luas de Paixão (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5680713.mp4
+99 Luas de Paixão (2023) Leg	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/653579.mp4
+9: A Salvação (2009)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695200.mp4,https://embedplayer2.xyz/cdn/hls/43bb57e693c303a553c478f14910e21e/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5695174.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59971.mp4
+9mm O Preço da Vingança	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1512.mp4
+9mm: O Preço da Vingança (2006)	dub=http://64.31.23.207:80/movie/96795792/50165825/5690812.mp4
+9º Pelotão	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2763035.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/22213.mp4
+9º Pelotão (2005)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/4030.mp4
+[Cargo] (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/134227.mkv
+[Oshi no Ko] -O Ato Final	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59976.mp4
+[Oshi no Ko] -O Ato Final- (1971)	leg=http://64.31.23.207:80/movie/96795792/50165825/5689344.mp4
+[Oshi no Ko] -O Ato Final- (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/596629.mp4
+[REC]	dub=http://64.31.23.207:80/movie/96795792/50165825/5713224.mp4,https://embedplayer2.xyz/cdn/hls/920cb8de42a3c27d27728d45c4ee3293/master.txt
+[REC] (2007)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/6974.mp4,https://embedplayer2.xyz/cdn/hls/920cb8de42a3c27d27728d45c4ee3293/master.txt
+[REC] 2 - Possuídos (2009)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713177.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5682793.mp4
+[REC] 2 Posuidos	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/6975.mp4
+[REC] 2: Possuídos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759407.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290747.mp4
+[REC] 3 - Gênesis (2012)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713121.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5682721.mp4
+[REC] 3: Gênesis	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759408.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290748.mp4
+[REC] 4 - Apocalipse (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713548.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5682665.mp4
+[REC] 4: Apocalipse	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758236.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/290749.mp4
+¡Casa Bonita Mi Amor!	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755049.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96393.mp4
+¡Casa Bonita Mi Amor! (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5698035.mp4
+¡Me muero! (2024)	dub=https://embedplayer2.xyz/cdn/hls/82c82e44cc1e9183622cc36decb4fce4/master.txt	leg=https://embedplayer2.xyz/cdn/hls/92609d0630f41489fa00fcc710d66385/master.txt
+¡Three Amigos! (1986)	dub=http://31.43.191.125:8080/movie/restream/restream/143009.mkv
+¡Viva Maestro!	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96408.mp4
+¡Viva Maestro! (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5703745.mp4
+कॉकटेल २ (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5721353.mp4,https://embedplayer2.xyz/cdn/hls/9c0db23bc0d91e331754eb6b7cf86cf9/master.txt	dub=http://64.31.23.207:80/movie/96795792/50165825/5721228.mp4,https://embedplayer2.xyz/cdn/hls/6899d556cc9d9bbdfd97721b2d77bf7f/master.txt
+सेक्स और धोखा 2 (2024)	dub=https://embedplayer2.xyz/cdn/hls/bd2aaed52af870e8b11001ade3136e9b/master.txt	leg=https://embedplayer2.xyz/cdn/hls/4ade1491a93241de633ba2a0c0197552/master.txt
+सावी (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5699292.mp4,https://embedplayer2.xyz/cdn/hls/721199f757368fefc6045c86eec45f3f/master.txt	dub=http://64.31.23.207:80/movie/96795792/50165825/5693888.mp4,https://embedplayer2.xyz/cdn/hls/3b216b1bfa26afcf872e65913f486e45/master.txt
+ஜெயிலர் 2 (2026)	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/1442.mp4
+டியூட் (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5677767.mp4	dub=https://embedplayer2.xyz/cdn/hls/85d3c8782b3e02a7ff9e61fea6f48690/master.txt
+పుష్పా 2 - The Rule	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8295.mp4
+ರ‍್ಯಾಂಬೋ 2	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760604.mp4
+შაშვი შაშვი მაყვალი (2023)	dub=https://embedplayer2.xyz/cdn/hls/1f9907d3c1e221bf6134b362771d1832/master.txt	leg=https://embedplayer2.xyz/cdn/hls/1fc6f6a6a9baa604159e1814aa19a4ef/master.txt
+비밀애 (2010)	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/83744.mp4
+‎Operação Panda: Missão Resgate	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2762114.mp4
+‎Operação Panda: Missão Resgate (2024)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/568551.mp4
+‎Operação Panda: Missão Resgate (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/567959.mp4
+‎Um Grande Despertar	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750400.mp4	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750488.mp4
+‎Um Grande Despertar (2026)	dub=http://64.31.23.207:80/movie/96795792/50165825/5680425.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5680367.mp4
+‎Um Grande Despertar (2026) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/639994.mp4
+‎Um Grande Despertar [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310543.mp4
+“O Morro dos Ventos Uivantes” (2026) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/616930.mp4
+“O Morro dos Ventos Uivantes” (2026) Leg	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/616055.mp4
+“O Morro dos Ventos Uivantes” 4K [HDR]	dub=http://64.31.23.207:80/movie/96795792/50165825/5685331.mp4
+“O Morro dos Ventos Uivantes” [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254862.mp4
+壹獄壹世界II：劫數難逃 (2023)	dub=https://embedplayer2.xyz/cdn/hls/bc133d6bc17254708928adb358581577/master.txt
+宇宙大戦争	leg=http://64.31.23.207:80/movie/96795792/50165825/5688336.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/301288.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36756.mp4
+宇宙大戦争 (1959)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/307323.mp4
+焚城 [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254863.mp4

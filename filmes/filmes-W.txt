@@ -1,0 +1,497 @@
+W Django! (1971)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/5049.mp4
+Wadaiko Girls (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/138929.mkv
+Wade no Rock in Rio 2024	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/515653.mp4
+Wagons East! (1994)	dub=http://31.43.191.125:8080/movie/restream/restream/144168.mkv
+Waiting For Anya	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95883.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/29299.mp4
+Waiting For Anya (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5713345.mp4
+Waiting For The Barbarians	leg=http://64.31.23.207:80/movie/96795792/50165825/5715186.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95888.mp4	dub=https://embedplayer2.xyz/cdn/hls/d510229c174a82ba92eabd9aa0520403/master.txt
+Waiting for the Barbarians (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/138865.mkv
+Waiting for You (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/142240.mkv
+Wakey Wakey (2012)	dub=http://31.43.191.125:8080/movie/restream/restream/143586.mkv
+Walk. Ride. Rodeo. (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/133611.mkv
+Walker (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134604.mkv
+Walkin' on the Ritz (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/138505.mkv
+Walking with the Tall whites Aftermath (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/138504.mkv
+Wall Street: O Dinheiro Nunca Dorme	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765249.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1880215.mp4
+Wall Street: O Dinheiro Nunca Dorme (2010)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/637011.mp4
+Wall Street: Poder e Cobiça	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761916.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33233.mp4
+Wall Street: Poder e Cobiça (1987)	dub=http://64.31.23.207:80/movie/96795792/50165825/5703398.mp4
+WALL-E	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766371.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11782.mp4
+WALL-E (2008)	dub=http://64.31.23.207:80/movie/96795792/50165825/5711997.mp4,https://embedplayer2.xyz/cdn/hls/aa414130bd4216ccfc38d8d2ce70b85d/master.txt
+Wallace & Gromit - Avengança	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756015.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95894.mp4
+Wallace & Gromit - Avengança (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5697241.mp4,https://embedplayer2.xyz/cdn/hls/6c8ec97c53d2d7becefe2751c8071b4f/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5697220.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95894.mp4
+Wallace & Gromit: A Batalha dos Vegetais	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750630.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11787.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308839.mp4
+Wallace & Gromit: A Batalha Dos Vegetais (2005)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717692.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5680712.mp4
+Wallace & Gromit: Vengeance Most Fowl (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/133690.mkv
+Wallace e Gromit - A Batalha dos Vegetais (2005)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/3387.mp4
+Wallbanger	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755805.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95899.mp4
+Wallbanger (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5698369.mp4
+Wallbanger (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/645530.mp4
+Walt Antes do Mickey	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764420.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33243.mp4
+Walt Antes do Mickey (2015)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708331.mp4
+Walt nos Bastidores de Mary Poppins	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768304.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254280.mp4
+Walt Nos Bastidores De Mary Poppins (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712644.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/300949.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5683721.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/254280.mp4
+Walt nos Bastidores de Mary Poppins (2013) LEG	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/624280.mp4
+Waltzing with Brando	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95910.mp4	dub=https://embedplayer2.xyz/cdn/hls/223b571870cf117a9ce2fcf0941d8536/master.txt
+Waltzing with Brando (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5690203.mp4
+Wanda Sykes Legacy	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751133.mp4
+Wander	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752750.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46470.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95905.mp4
+Wander (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715034.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5705291.mp4
+Wander Darkly - Sem Rumo (2020)	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/145102.mp4
+Wander Darkly: Sem Rumo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753364.mp4
+Wander to Wonder	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756470.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95915.mp4
+Wander to Wonder (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5695735.mp4
+Wanted (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/143053.mkv
+Wanted Man (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/137898.mkv
+Wanted Man Marcado Para Morrer 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59301.mp4
+Wanted Man: Marcado Para Morrer	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755863.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95920.mp4
+Wanted Man: Marcado Para Morrer (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5700668.mp4,https://embedplayer2.xyz/cdn/hls/d0d2c6383c1da9ce58bd7df4805e829f/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5700640.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95920.mp4
+Wanted Man: Marcado Para Morrer (2024) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/388665.mp4
+Wanted Man: Marcado Para Morrer (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/330676.mp4
+Wanted Man: Marcado Para Morrer 4K (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5699153.mp4
+War (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/139485.mkv
+War in the USA	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757375.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95931.mp4
+War in the USA (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5695284.mp4	dub=http://31.43.191.125:8080/movie/restream/restream/134606.mkv
+War in the USA (2025) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/557843.mp4
+War Machine (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/133612.mkv
+War of the Worlds (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/142241.mkv
+War of the Worlds: Annihilation (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/143920.mkv
+War of the Worlds: Extinction (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/143921.mkv
+War of the Worlds: The Attack (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/143922.mkv
+War Trap (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/139516.mkv
+Warbirds (2008)	dub=http://31.43.191.125:8080/movie/restream/restream/144013.mkv
+Warchief (2024) Leg	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/563539.mp4
+Warcraft - O Primeiro Encontro de Dois Mundos	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761212.mp4
+Warcraft - O Primeiro Encontro De Dois Mundos (2016)	dub=http://64.31.23.207:80/movie/96795792/50165825/5713327.mp4,https://embedplayer2.xyz/cdn/hls/1b137b249a8a07fa9a635ffb15ba1add/master.txt
+Ward No. 6 (2009)	dub=http://31.43.191.125:8080/movie/restream/restream/143587.mkv
+Wardriver (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5677996.mp4
+Warfare (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134605.mkv
+Warfighter	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95926.mp4
+Warfighter (2018)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715193.mp4
+WarGames: The Dead Code (2008)	dub=http://31.43.191.125:8080/movie/restream/restream/143588.mkv
+Warhorse One (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137990.mkv
+WarHunt (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/139547.mkv
+Warning	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765691.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95937.mp4
+Warning (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5709223.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95937.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5709197.mp4,https://embedplayer2.xyz/cdn/hls/c1a0fdf37fe64251fc4abde090e61a35/master.txt
+Warning: Do Not Play (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/139129.mkv
+Warpath	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95940.mp4
+Warpath (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715528.mp4
+Warriors (2015)	dub=http://31.43.191.125:8080/movie/restream/restream/144122.mkv
+Warriors (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/142478.mkv
+Warriors - Os Selvagens da Noite	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8168.mp4
+Warriors of Future (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/134401.mkv
+Warriors on the Field (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/139667.mkv
+Wasabi	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761390.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8176.mp4
+Wasabi (2001)	dub=http://64.31.23.207:80/movie/96795792/50165825/5696231.mp4
+Wasp Network	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95943.mp4
+Wasp Network (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/134386.mkv
+Wasp Network: Rede de Espiões	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764041.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33238.mp4
+Wasp Network: Rede De Espiões (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716099.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5716054.mp4
+Wastelander - Guerreiros do Deserto	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765834.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36726.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95960.mp4
+Wastelander - Guerreiros do Deserto (2018)	leg=http://64.31.23.207:80/movie/96795792/50165825/5705120.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5705092.mp4
+Wasteman	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314606.mp4
+Wasteman (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5678689.mp4
+Watch Me When I Kill (1977)	dub=http://31.43.191.125:8080/movie/restream/restream/139480.mkv
+Watch the Skies (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/143914.mkv
+Watchmen Capítulo 1 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59306.mp4
+Watchmen Capítulo 2 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59307.mp4
+Watchmen: Capítulo 1	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755461.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95949.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59306.mp4
+Watchmen: Capítulo 1 (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695132.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5695043.mp4
+Watchmen: Capítulo 1 (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/390352.mp4
+Watchmen: Capítulo 1 4K (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695089.mp4
+Watchmen: Capítulo 2	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757121.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95954.mp4	dub=https://embedplayer2.xyz/cdn/hls/1fcde96318b3eb936009bde84147128a/master.txt
+Watchmen: Capítulo 2 (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695014.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5694902.mp4
+Watchmen: Capítulo 2 4K (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5694953.mp4
+Watchmen: Capitulo II (2024)	dub=https://embedplayer2.xyz/cdn/hls/1fcde96318b3eb936009bde84147128a/master.txt
+Watchmen: O Filme	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765925.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36723.mp4
+Watchmen: O Filme (2009)	dub=http://64.31.23.207:80/movie/96795792/50165825/5693784.mp4
+Water & Garri (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/143055.mkv
+Water & Power: A California Heist (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/136715.mkv
+Watership Down - Uma Grande Aventura (1978)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/560294.mp4
+Waterworld: O Segredo das Águas	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766068.mp4,https://embedplayer2.xyz/cdn/hls/e61d5c753efb875c4524de2e126f9747/master.txt
+Waterworld: O Segredo das Águas (1995)	dub=http://64.31.23.207:80/movie/96795792/50165825/5699058.mp4
+Waves	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95965.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/24007.mp4
+Waves (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/143056.mkv
+Wax - We Are The X (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/142242.mkv
+Way Down	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95970.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/2155.mp4
+Way Down (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5713204.mp4
+WCW Greed (2001)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/3881.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/15438.mp4
+We All Lie My Darling (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/143057.mkv
+We Are Freestyle Love Supreme (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/137643.mkv
+We Are One (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/133258.mkv
+We are Soldiers (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/138509.mkv
+We Are Still Here (2015)	dub=http://31.43.191.125:8080/movie/restream/restream/143590.mkv
+We Bare Bears: The Movie (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/137313.mkv
+We Belong Together (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/143058.mkv
+We Bury the Dead	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96950.mp4	dub=https://embedplayer2.xyz/cdn/hls/010dbf9ed83b3250492886483de72e8e/master.txt
+We Bury the Dead (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5687007.mp4
+We Can Be Heroes (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/133691.mkv
+We Feed People (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137427.mkv
+We Go On (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/143591.mkv
+We Have a Ghost (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/132892.mkv
+We Live Here: The Midwest (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137920.mkv
+We Live in Time (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/137922.mkv
+We Shrunk Ourselves (1997)	dub=http://31.43.191.125:8080/movie/restream/restream/136943.mkv
+We Still Steal the Old Way	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306334.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/306414.mp4
+We Still Steal the Old Way (2017)	leg=http://64.31.23.207:80/movie/96795792/50165825/5681845.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5681822.mp4
+We Summon the Darkness (2020)	leg=https://embedplayer2.xyz/cdn/hls/8b3bd3bcd794412fac1efef2877ca0d5/master.txt
+We Will Dance Again	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/98381.mp4
+We Will Dance Again (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5686460.mp4
+We'll Rise at Dawn (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/138668.mkv
+Weak Layers	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756234.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95977.mp4
+Weak Layers (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5700994.mp4
+Weak Spot (1975)	dub=http://31.43.191.125:8080/movie/restream/restream/138805.mkv
+Weathering (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/133934.mkv
+Wedding Games (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/133809.mkv
+Wedding Season (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133810.mkv
+Wedding Unplanned (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/139860.mkv
+Week-End a la Ferme (2015)	dub=http://31.43.191.125:8080/movie/restream/restream/142417.mkv
+Weekend Family Christmas Special (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/136899.mkv
+Weird Woman (1944)	dub=http://31.43.191.125:8080/movie/restream/restream/140141.mkv
+Weird: The Al Yankovic Story (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5678548.mp4
+Welcome Home (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/137082.mkv
+Welcome to Death Row (2001)	dub=http://31.43.191.125:8080/movie/restream/restream/138508.mkv
+Welcome to Smelliville (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/137338.mkv
+Welcome to the Club (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137362.mkv
+Welcome Week: A College Horror Anthology (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/139130.mkv
+Wendell & Wild	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766250.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11803.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95973.mp4
+Wendell & Wild (2022)	leg=http://64.31.23.207:80/movie/96795792/50165825/5706773.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5706750.mp4
+Wendy	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95988.mp4	dub=https://embedplayer2.xyz/cdn/hls/e5e130f435ea1ebd866e2ee3041e57b0/master.txt
+Wendy (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5716029.mp4
+Wendy Wu A Garota Kung-Fu	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/20941.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95983.mp4
+Wendy Wu: A Garota Kung-Fu (2006)	leg=http://64.31.23.207:80/movie/96795792/50165825/5690620.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5690595.mp4
+Wendy Wu: Homecoming Warrior (2006)	dub=http://31.43.191.125:8080/movie/restream/restream/137443.mkv
+Went Up the Hill (2025)	dub=https://embedplayer2.xyz/cdn/hls/bf377073e285524306882c4058488f2c/master.txt
+Were Broke My Lord	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95989.mp4
+Were Broke My Lord (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5699121.mp4
+Were Wool [Dublagem Nao Oficial]	dub=http://64.31.23.207:80/movie/96795792/50165825/5704665.mp4
+Werewolf (1997)	dub=http://31.43.191.125:8080/movie/restream/restream/139131.mkv
+Werewolf (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/143321.mkv
+Werewolf by Night (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/136820.mkv
+Werewolf Castle (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/139132.mkv
+Werewolf Woman (1976)	dub=http://31.43.191.125:8080/movie/restream/restream/138978.mkv
+Werewolves	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756510.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/95994.mp4
+Werewolves (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5696856.mp4
+West Side Story (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/142662.mkv
+Western – Pluto TV	dub=https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+Westworld - Onde Ninguém Tem Alma	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765525.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36733.mp4
+Westworld - Onde Ninguém Tem Alma (1973)	dub=http://64.31.23.207:80/movie/96795792/50165825/5711042.mp4
+Wet Season	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96000.mp4
+Wet Season (2002)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715152.mp4
+WeWork: or The Making and Breaking of a $47 Billion Unicorn (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/137650.mkv
+WHAM! (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/133259.mkv
+WHAM! Last Christmas - Uma Canção de Natal	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96006.mp4
+WHAM!: Last Christmas - Uma Canção de Natal (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5689901.mp4
+What Belongs to Inuit (2009)	dub=http://31.43.191.125:8080/movie/restream/restream/143618.mkv
+What Breaks the Ice (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/143575.mkv
+What Comes Around (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137178.mkv
+What Comes Around (2023) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/297565.mp4
+WHAT DID JACK DO? (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/133614.mkv
+What Drives Us (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/143060.mkv
+What Happened to Monday (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/134402.mkv
+What Happened to Mr. Cha? (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/132893.mkv
+What Happens in Vegas (2008)	dub=http://31.43.191.125:8080/movie/restream/restream/143061.mkv
+What If Death Did Not Exist	dub=http://31.43.191.125:8080/movie/restream/restream/138510.mkv
+What if it Works? (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/139897.mkv
+What Jennifer Did (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/133261.mkv
+What Lies Below	leg=http://64.31.23.207:80/movie/96795792/50165825/5714883.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96004.mp4	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758407.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52724.mp4
+What Love Is (2007)	dub=http://31.43.191.125:8080/movie/restream/restream/142244.mkv
+What Men Want	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96012.mp4
+What the Shark? (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/136716.mkv
+What to Expect When You're Expecting (2012)	dub=http://31.43.191.125:8080/movie/restream/restream/138956.mkv
+What We Do for Love (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/139703.mkv
+What We Wanted (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/133615.mkv
+What Would Sophia Loren Do? (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/133262.mkv
+What You Wish For	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96017.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1868811.mp4
+What You Wish For (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137879.mkv
+What You Wish For (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5699861.mp4
+What's Love Got to Do with It? (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137522.mkv
+What's the Worst That Could Happen? (2001)	dub=http://31.43.191.125:8080/movie/restream/restream/143059.mkv
+What's Your Number? (2011)	dub=http://31.43.191.125:8080/movie/restream/restream/143640.mkv
+Wheelman (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/132649.mkv
+Wheelman: Motorista de Fuga (2017)	dub=https://embedplayer2.xyz/cdn/hls/d04bfe9ee05fa497fb3e96ec193aca39/master.txt
+Wheely - Velozes e Divertidos	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756913.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96024.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11807.mp4
+Wheely - Velozes e Divertidos (2018)	leg=http://64.31.23.207:80/movie/96795792/50165825/5701930.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5701150.mp4
+When Andrew Came Home (2000)	dub=http://31.43.191.125:8080/movie/restream/restream/142646.mkv
+When Billie Met Lisa (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137363.mkv
+When Evil Lurks (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137816.mkv
+When Frank Met Carlitos (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/136900.mkv
+When It Comes Around (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/143044.mkv
+When Love Springs	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751829.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/53394.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96018.mp4
+When Love Springs (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5687660.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5687631.mp4
+When Love Strikes	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756088.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96029.mp4
+When Love Strikes (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5697047.mp4
+When Rubber Hit The Road (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/138511.mkv
+When the City Awakes (1975)	dub=http://31.43.191.125:8080/movie/restream/restream/137996.mkv
+When the Screaming Starts (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/139133.mkv
+When We First Met (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/132894.mkv
+Whera Tupa e o Fogo Sagrado (2022)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/378057.mp4
+Where Angels Fear to Tread (1991) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/648052.mp4
+Where Are You Going (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/143063.mkv
+Where the Crawdads Sing (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137179.mkv
+Where the Heck Is My Period? (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/143064.mkv
+Where the Land Ends (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/138229.mkv
+Where the Tracks End (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/133616.mkv
+Which Brings Me to You	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43392.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59312.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96042.mp4
+Which Brings Me to You (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5700532.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5700454.mp4
+Which Brings Me to You (2023) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/328079.mp4
+Which Brings Me to You 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59312.mp4
+Which Brings Me to You 4K (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5700502.mp4
+While the Wolf's Away (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/143716.mkv
+Whindersson Nunes VS Popó	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/10564.mp4
+Whindersson Nunes: É de Mim Mesmo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758142.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/39624.mp4
+Whindersson Nunes: É de Mim Mesmo (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708589.mp4
+Whindersson Nunes: Efeito Borboleta (2024)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/534089.mp4
+Whindersson Nunes: Isso não é um culto (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5705245.mkv,http://aponteiecair.lat:80/movie/65689527/29278256/1864827.mp4
+Whiplash: Em Busca da Perfeição	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764077.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250506.mp4
+Whiplash: Em Busca da Perfeição (2014)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719462.mp4,https://embedplayer2.xyz/cdn/hls/9fddc40c346c170fea386cc5d856603f/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5685353.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/250506.mp4
+Whipped (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/132895.mkv
+Whispering Mountains (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/139587.mkv
+Whispers: An Elephant's Tale (2000)	dub=http://31.43.191.125:8080/movie/restream/restream/137043.mkv
+White & Blonde - 2003	dub=http://on.viptv.stream/playott/2e5fd924a4ba8a3c17147a4910fb383c/movie/137519.mp4
+White & Royal Blue (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/142783.mkv
+White Boy Rick	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764044.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59315.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/311900.mp4
+White Boy Rick (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719302.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5679502.mp4
+White Boy Rick (2018) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/2889.mp4
+White Boy Rick 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59315.mp4
+White Boy Rick [4K] (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5718797.mp4
+White Fang (1991)	dub=http://31.43.191.125:8080/movie/restream/restream/137045.mkv
+White Fang 2: Myth of the White Wolf (1994)	dub=http://31.43.191.125:8080/movie/restream/restream/137044.mkv
+White Hot: The Rise & Fall of Abercrombie & Fitch (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133263.mkv
+White Lie	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96031.mp4
+White Lie (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715330.mp4
+White Men Can't Jump (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137574.mkv
+White Noise (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133617.mkv
+White Wall (2010)	dub=http://31.43.191.125:8080/movie/restream/restream/144014.mkv
+Whitney	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2752764.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46466.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96036.mp4
+Whitney (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5706159.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5705790.mp4
+Whitney Houston: I Wanna Dance with Somebody (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137180.mkv
+Who Are You Charlie Brown	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96047.mp4	dub=https://embedplayer2.xyz/cdn/hls/105080c9a62e61589af2b06026380a83/master.txt
+Who Are You Charlie Brown (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5711984.mp4
+Who Gets the Dog? (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/139843.mkv
+Who Killed Our Father? [Dublagem Nao Oficial] (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5704607.mp4
+Who Would You Take to a Deserted Island? (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/133618.mkv
+Who's a Good Boy? (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/132896.mkv
+Who's Afraid of Vagina Wolf? (2013)	dub=http://31.43.191.125:8080/movie/restream/restream/139842.mkv
+Why	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754128.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96053.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/11816.mp4
+Why Did You Kill Me? (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/133264.mkv
+Why I Kidnapped My Boss (2014)	dub=http://31.43.191.125:8080/movie/restream/restream/141990.mkv
+Why Moths Fly to the Light? (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/142245.mkv
+Why We Cheat (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134440.mkv
+Why? (1990)	leg=http://64.31.23.207:80/movie/96795792/50165825/5694114.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5694079.mp4
+Wicked	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2765602.mp4,https://comprarebom.xyz/cdn/down/3967ec1fd747373c3a1f67b5/index.m3u8	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40625.mp4
+Wicked (2024)	dub=http://64.31.23.207:80/movie/96795792/50165825/5695760.mp4,https://embedplayer2.xyz/cdn/hls/d2f93c93a207b0a1e0edc4a91726847d/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5695657.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/40625.mp4
+Wicked (2024) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/532877.mp4
+Wicked (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/532880.mp4
+Wicked (Leg)	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756461.mp4
+Wicked 4K	dub=http://64.31.23.207:80/movie/96795792/50165825/5695702.mp4
+Wicked Minds (2003)	dub=http://31.43.191.125:8080/movie/restream/restream/143065.mkv
+Wicked Parte 2 (2025)	dub=https://embedplayer2.xyz/cdn/hls/55e41eaf36dd498a31a3a3ee6e1d86e7/master.txt
+Wicked Parte II 4K [HDR]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59318.mp4
+Wicked Woods: A Descendants Halloween Story (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/137300.mkv
+Wicked: For Good (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/139782.mkv
+Wicked: Parte II	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751915.mp4,https://embedplayer2.xyz/cdn/hls/55e41eaf36dd498a31a3a3ee6e1d86e7/master.txt	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751720.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96058.mp4
+Wicked: Parte II (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5688160.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5688131.mp4
+Wicked: Parte II (2025) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/601789.mp4
+Wicked: Parte II (2025) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/601566.mp4
+Wicked: Parte II 4K [HDR] (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5688236.mp4
+Wifi Ralph - Quebrando a Internet 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59323.mp4
+WiFi Ralph: Quebrando a Internet	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2766299.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59323.mp4
+WiFi Ralph: Quebrando A Internet (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5712348.mp4
+WiFi Ralph: Quebrando a Internet (2018) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/2890.mp4
+WIFI RALPH: QUEBRANDO A INTERNET [4K] (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5719059.mp4
+Wig	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760119.mp4
+Wig (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5717016.mp4
+Wij (2018)	leg=http://64.31.23.207:80/movie/96795792/50165825/5680600.mp4
+Wild Appalachia (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5690542.mp4
+Wild Bill	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754347.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35340.mp4
+Wild Bill - Uma Lenda No Oeste (1995)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/564552.mp4
+Wild Card - A Queda de um Falastrão do Rádio	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/310705.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/2343472.mp4
+Wild Card - A Queda de um Falastrão do Rádio (2020)	leg=http://64.31.23.207:80/movie/96795792/50165825/5679906.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5679881.mp4
+Wild Is the Wind (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133619.mkv
+Wild Life (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/136717.mkv
+Wild Mexico (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5690517.mp4
+Wild Wild Punjab (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/132897.mkv
+Wild Window: Bejeweled Fishes (2016)	dub=http://31.43.191.125:8080/movie/restream/restream/138079.mkv
+Wildcat	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756579.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96068.mp4
+Wildcat (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/143066.mkv
+Wildcat (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5699693.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/251449.mp4
+Wildcat - Prisioneira de Guerra	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2755662.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96063.mp4
+Wildcat - Prisioneira de Guerra (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5700805.mp4,https://embedplayer2.xyz/cdn/hls/5a8b2bd7108641477c4261714804205c/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5700747.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96063.mp4
+Wildflower (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137575.mkv
+Wildhood (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/142246.mkv
+Wildland (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/143593.mkv
+Wildlands (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/138514.mkv
+Wildling Criaturas Noturnas	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99176.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/99233.mp4
+Wildling: Criaturas Noturnas (2018)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716563.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5686395.mp4
+WILDMAN (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/134609.mkv
+Will & Harper	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756141.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96073.mp4
+Will & Harper (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5698419.mp4	dub=http://31.43.191.125:8080/movie/restream/restream/133265.mkv
+WILL (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/134387.mkv
+Will E Harper (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/405317.mp4
+Will Smith no Rock in Rio 2024	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/517060.mp4
+Will: Em Busca do Sonho (2011)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/640313.mp4
+William and Harry: The Unseen Photos (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/138515.mkv
+William Tell	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308096.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308138.mp4
+William Tell (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5681293.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5681270.mp4
+William Tell [Lançamento]	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308169.mp4
+William Tell: O Guerreiro	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2750897.mp4
+William Tell: O Guerreiro (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720348.mp4,https://embedplayer2.xyz/cdn/hls/92ef10b355da79733a3c4b1b1cf2911c/master.txt
+William Tell: O Guerreiro (2025) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/633116.mp4
+Willow (1988)	dub=http://31.43.191.125:8080/movie/restream/restream/137046.mkv
+Willow - Na Terra da Magia (1988)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/117718.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1855945.mp4
+Willow: Nos Bastidores da Magia	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2757215.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96090.mp4
+Willow: Nos Bastidores da Magia (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5701744.mp4
+Willy and the Guardians of the Lake (2018)	dub=http://31.43.191.125:8080/movie/restream/restream/139441.mkv
+Willy's Wonderland: Parque Maldito	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2758195.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/52729.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96079.mp4
+Willy's Wonderland: Parque Maldito (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5708408.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5708084.mp4
+Willys Wonderland	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96085.mp4
+Willys Wonderland (2021)	leg=http://64.31.23.207:80/movie/96795792/50165825/5713099.mp4	dub=http://31.43.191.125:8080/movie/restream/restream/139134.mkv
+Wimbledon - O Jogo do Amor	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753190.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/43401.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96095.mp4
+Wimbledon - O Jogo do Amor (2004)	leg=http://64.31.23.207:80/movie/96795792/50165825/5692930.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5692903.mp4
+Wimbledon - O Jogo do Amor (2004) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/579365.mp4
+Winchester '73	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754158.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35344.mp4
+Winchester 73 (1950)	dub=http://64.31.23.207:80/movie/96795792/50165825/5696075.mp4
+Wind & Fire (2026) LEG	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/653992.mp4
+Wind & Fire (To Be Celestial vs. That's the Weight of the World)	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/308137.mp4
+Wind & Fire (To Be Celestial vs. That's the Weight of the World) (2026)	leg=http://64.31.23.207:80/movie/96795792/50165825/5681580.mp4
+Wind (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/137301.mkv
+Wind River (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/144169.mkv
+Wind Tide Oar	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751038.mp4
+Windfall (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133620.mkv
+WindShipped (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/138516.mkv
+Windstorm: The Great Hurricane (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/139440.mkv
+Wine Country (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/132898.mkv
+Wingwomen (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/132899.mkv
+Winner	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754664.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96100.mp4
+Winner (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5700852.mp4	dub=http://31.43.191.125:8080/movie/restream/restream/137605.mkv
+Winner (2024) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/316574.mp4
+Winnie the Pooh: Blood and Honey (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/139135.mkv
+Winona (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/143067.mkv
+Winter Days (2019)	dub=http://64.31.23.207:80/movie/96795792/50165825/5716897.mp4
+Winter on Fire: Ukraine's Fight for Freedom	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2759799.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1864428.mp4
+Winter On Fire: Ukraine's Fight For Freedom (2015)	dub=http://64.31.23.207:80/movie/96795792/50165825/5715396.mp4
+Winter Thaw	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314127.mp4	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/314463.mp4
+Winter Thaw (2016)	leg=http://64.31.23.207:80/movie/96795792/50165825/5678408.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5678381.mp4
+Winter Thaw (2016) - O Sapateiro	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/648744.mp4
+Winter's Bone (2010)	dub=http://31.43.191.125:8080/movie/restream/restream/143594.mkv
+Wintertide	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756179.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96122.mp4
+Wintertide (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5701722.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96122.mp4	dub=https://embedplayer2.xyz/cdn/hls/7187a1677eb90ca7e223d22bda496d40/master.txt
+Winx Club - Magic Adventure (2010)	dub=http://31.43.191.125:8080/movie/restream/restream/139443.mkv
+Wish (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/137379.mkv
+Wish O Poder dos Desejos 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59328.mp4
+Wish Upon a Wedding (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/139892.mkv
+Wish You (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/138066.mkv
+Wish You Were Here	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96110.mp4	dub=https://embedplayer2.xyz/cdn/hls/1e344d0d8a67bbb1c5b05976e2bd50eb/master.txt
+Wish You Were Here (1987)	leg=http://64.31.23.207:80/movie/96795792/50165825/5696521.mp4
+Wish: O Poder dos Desejos	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2756048.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96105.mp4
+Wish: O Poder dos Desejos (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5700823.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96105.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5700721.mp4,https://embedplayer2.xyz/cdn/hls/db9229e827166394422a5fb1a4e2e226/master.txt
+Wish: O Poder dos Desejos 4K (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5700694.mp4
+Witch (2024)	dub=https://embedplayer2.xyz/cdn/hls/612aa2ad12307d7f02d5e368bda3a1b2/master.txt	leg=https://embedplayer2.xyz/cdn/hls/001c2f53b90e4145b2dc4d1a0cfbd954/master.txt
+Witchboard (2025)	leg=https://embedplayer2.xyz/cdn/hls/6618c0b3ee6c0cb2a05e27ba655c0006/master.txt
+Witchboard [CAM] (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5720406.mp4
+Witches In The Woods	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96112.mp4
+Witches In The Woods (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5715055.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96112.mp4	dub=https://embedplayer2.xyz/cdn/hls/54bdaa73dbbcd682edd246cba3923233/master.txt
+Witches' Well (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/143595.mkv
+With Difficulty Comes Ease (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/143068.mkv
+With Every Heartbeat (2011)	dub=http://31.43.191.125:8080/movie/restream/restream/142071.mkv
+With Love (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/139828.mkv
+With You in the Future (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134610.mkv
+Without Saying Goodbye (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/133811.mkv
+Witness for the Prosecution (1957)	dub=http://31.43.191.125:8080/movie/restream/restream/143069.mkv
+Wizards of Waverly Place: The Movie (2009)	dub=http://31.43.191.125:8080/movie/restream/restream/137047.mkv
+Wizkid: De Lagos Para o Mundo	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768687.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96117.mp4
+Wizkid: De Lagos Para o Mundo (2025)	dub=http://64.31.23.207:80/movie/96795792/50165825/5687871.mp4,https://embedplayer2.xyz/cdn/hls/91e8729421980845168fdbd3525228ee/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5687435.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96117.mp4
+Wizkid: De Lagos Para o Mundo (2025) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/604092.mp4
+Wolf	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753265.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/46480.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96144.mp4
+Wolf (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5707482.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5707456.mp4
+Wolf Creek 2 (2013)	dub=http://31.43.191.125:8080/movie/restream/restream/143596.mkv
+Wolf Creek: Viagem ao Inferno (2005)	dub=http://64.31.23.207:80/movie/96795792/50165825/5684323.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/1870668.mp4
+Wolf Creek: Viagem ao Inferno 2 (2013)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/630846.mp4
+Wolf Hound (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/139514.mkv
+Wolf Man (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134530.mkv
+Wolf Pack (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/143597.mkv
+Wolf Pack: Unidade de Combate	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760157.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8180.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96139.mp4
+Wolf Pack: Unidade de Combate (2019)	leg=http://64.31.23.207:80/movie/96795792/50165825/5710046.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5710017.mp4
+Wolf Town (2011)	dub=http://31.43.191.125:8080/movie/restream/restream/139136.mkv
+Wolfgang: O Chef Celebridade (2021)	dub=http://aponteiecair.lat:80/movie/65689527/29278256/1865177.mp4
+Wolfhound of the Grey Dog Clan (2006)	dub=http://31.43.191.125:8080/movie/restream/restream/138742.mkv
+Wolfwalkers	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761743.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8184.mp4
+Wolfwalkers (2020)	dub=http://64.31.23.207:80/movie/96795792/50165825/5715009.mp4
+Wolverine Imortal 4K	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59333.mp4
+Wolverine Imortal 4K (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714227.mp4
+Wolverine: Imortal	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2760174.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/59333.mp4
+Wolverine: Imortal (2013)	dub=http://64.31.23.207:80/movie/96795792/50165825/5714425.mp4
+Wolverine: Imortal (2013) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/2891.mp4
+Wolves	dub=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33253.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96128.mp4
+Wolves (2016)	leg=http://64.31.23.207:80/movie/96795792/50165825/5690727.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5690652.mp4
+Woman at War	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96133.mp4
+Woman in the Maze	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96160.mp4
+Woman in the Maze (2023)	leg=http://64.31.23.207:80/movie/96795792/50165825/5701702.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96160.mp4	dub=https://embedplayer2.xyz/cdn/hls/8fb2854018b1f7029247f1af28226176/master.txt
+Woman of the Hour (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/134388.mkv
+Woman on the Run (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/143379.mkv
+Women & the Wind (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5682858.mp4
+Women Is Losers	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2764352.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/33258.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96149.mp4
+Women Is Losers (2021)	dub=http://64.31.23.207:80/movie/96795792/50165825/5703008.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5702960.mp4
+Women of Impact: Changing the World (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/137627.mkv
+Women on the Edge (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/142743.mkv
+Women Talking (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/143070.mkv
+Women the Wind	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751066.mp4,http://aponteiecair.lat:80/movie/65689527/29278256/2329323.mp4
+Wonder (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/138669.mkv
+Wonder Woman	leg=http://64.31.23.207:80/movie/96795792/50165825/5714587.mp4
+Wonder Woman (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/143071.mkv
+Wonder Woman 1984	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96154.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/57107.mp4
+Wonderland	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754094.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96162.mp4
+Wonderland (2003)	dub=http://64.31.23.207:80/movie/96795792/50165825/5699589.mp4	leg=http://64.31.23.207:80/movie/96795792/50165825/5699527.mp4
+Wonderland (2024)	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/381136.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/36738.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96162.mp4
+Wonka	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2754146.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96167.mp4
+Wonka (2023)	dub=http://64.31.23.207:80/movie/96795792/50165825/5701566.mp4,https://embedplayer2.xyz/cdn/hls/484e4769e3190e2326f136e9103d4463/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5701444.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96167.mp4
+Wonka (2023) 4K	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/371213.mp4
+Wonka (2023) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/301532.mp4
+Wonka 4K [Hybrid]	dub=http://64.31.23.207:80/movie/96795792/50165825/5701514.mp4
+Woody Woodpecker Goes to Camp (2024)	dub=http://31.43.191.125:8080/movie/restream/restream/133692.mkv
+Work It (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/132900.mkv
+Working Girls	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96200.mp4
+Working Girls (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5713291.mp4
+World Ends at Camp Z (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/143598.mkv
+World poker tour – Pluto TV	dub=https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+World's Best (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/136901.mkv
+World's Biggest Bull Shark? (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/136718.mkv
+World's Biggest Great White? (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/136719.mkv
+World's Biggest Hammerhead? (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/136720.mkv
+World's Biggest Tiger Shark (2020)	dub=http://31.43.191.125:8080/movie/restream/restream/136721.mkv
+World's First Christmas (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/139444.mkv
+World's Greatest Dogs (2015)	dub=http://31.43.191.125:8080/movie/restream/restream/136722.mkv
+World's Most Dangerous Shark? (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/136723.mkv
+Worlds Apart (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134611.mkv
+Wormtown	leg=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2751562.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/253598.mp4	dub=https://embedplayer2.xyz/cdn/hls/41ea51d4fcdc3100cdb68402bd75ea55/master.txt
+Wormtown (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5684823.mp4
+Would You Rather	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96173.mp4
+Would You Rather (2012)	leg=http://64.31.23.207:80/movie/96795792/50165825/5710192.mp4
+Would You Rather (2013) Leg	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/569321.mp4
+Wounded by the Wind (2017)	dub=http://31.43.191.125:8080/movie/restream/restream/138670.mkv
+WP	dub=https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8
+Wrath of Man	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96183.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/56320.mp4
+Wrath of Man (2021)	dub=http://31.43.191.125:8080/movie/restream/restream/143103.mkv
+Write Time (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/139809.mkv
+Wrobiony [Dublagem Nao Oficial] (2022)	dub=http://64.31.23.207:80/movie/96795792/50165825/5704497.mp4
+Wrong Numbers	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96186.mp4
+Wrong Numbers (2024)	leg=http://64.31.23.207:80/movie/96795792/50165825/5687405.mp4
+Wrong Place (2022)	dub=http://31.43.191.125:8080/movie/restream/restream/137859.mkv
+Wrong Turn	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96191.mp4
+Wrongful Death (2023)	dub=https://embedplayer2.xyz/cdn/hls/be86ffc201dbc1b8bb3de4a4b981a506/master.txt	leg=https://embedplayer2.xyz/cdn/hls/308422a10757040f4567fdaf6c8391c4/master.txt
+Wu Kong - Contra A Ira Dos Deuses (2017)	dub=http://64.31.23.207:80/movie/96795792/50165825/5715555.mp4,https://embedplayer2.xyz/cdn/hls/1400ebe783ec7542c88205cd32d3c862/master.txt	leg=http://64.31.23.207:80/movie/96795792/50165825/5683222.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256228.mp4
+Wu Kong: Contra a Ira dos Deuses	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2761398.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/256228.mp4
+WWE Payback 2023 (2023)	dub=http://31.43.191.125:8080/movie/restream/restream/143411.mkv
+WWE Wrestlepalooza	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2768891.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/8193.mp4	leg=http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/96195.mp4
+WWE Wrestlepalooza (2025)	leg=http://64.31.23.207:80/movie/96795792/50165825/5691234.mp4	dub=http://64.31.23.207:80/movie/96795792/50165825/5691212.mp4
+WWE Wrestlepalooza (2025) LEG	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/586768.mp4
+WWI Chronicles: Against All Odds (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134613.mkv
+WWI Chronicles: Everything Changed (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134614.mkv
+WWI Chronicles: When All Hope Was Lost (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134615.mkv
+WWII Declassified: The New World Rescues the Old (2025)	dub=http://31.43.191.125:8080/movie/restream/restream/134612.mkv
+Wyatt Earp	dub=http://acaidopt.org:80/movie/3llohwk4g9/kwf099q30o/2753984.mp4,http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/35349.mp4
+Wyatt Earp (1994)	dub=http://64.31.23.207:80/movie/96795792/50165825/5710152.mp4
+Wyrm (2019)	dub=http://31.43.191.125:8080/movie/restream/restream/137459.mkv
+Wyrmwood: Apocalypse (2022) Leg	leg=http://dns.explouddev.com:80/movie/632270679/F823j7133R/572303.mp4
+Wyrmwood: Road of the Dead (2014) Leg	dub=http://dns.explouddev.com:80/movie/632270679/F823j7133R/562850.mp4
