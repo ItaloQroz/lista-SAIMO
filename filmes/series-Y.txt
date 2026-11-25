@@ -48,7 +48,7 @@ You Maniac	2026	4	9
 You Me Her		4	39
 You re the Best Lee Soon Shin		4	50
 You Should Be The One To Come Kiss Me		4	1
-You're the Worst		5	62
+You're the Worst	2014	5	62
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu		5	25
 Young David		5	5
 Young Famous e African	2022	5	24
@@ -67,7 +67,6 @@ Your Love So Invincible	2026	5	4
 Your Pretty Face Is Going to Hell		5	42
 Your Sky: Hare Nochi Koi		5	9
 Your Summer, My Storm		5	10
-Youre the Worst	2014	5	62
 Youth	2026	5	8
 Youth Water Polo		5	12
 Yu Gi Oh 5Ds	2008	5	13

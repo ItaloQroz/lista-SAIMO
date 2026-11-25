@@ -43001,7 +43001,6 @@ Deus Ainda É Brasileiro (2026)	f	D
 #1 Happy Family USA	s	#	
 #blackAF	s	#	2020
 #COMPASS2.0 ANIMATION PROJECT	s	#	
-(Des)encanto	s	#	
 (fdp)	s	#	2012
 007 Estrada para o Milhao	s	#	2023
 011ZE	s	#	
@@ -43123,7 +43122,6 @@ Deus Ainda É Brasileiro (2026)	f	D
 90 Dias: Tô na Caça!	s	#	2025
 90 Minutos	s	#	2025
 900 Dias Sem Anabel	s	#	
-911 Nashville	s	#	
 99 9 Advogado Criminal	s	#	
 9mm: São Paulo	s	#	
 A Academia	s	A	2024
@@ -43213,7 +43211,6 @@ A Casa das Sete Mulheres	s	A
 A Casa de Moda	s	A	2024
 A Casa do Dragão	s	A	2022
 A Casa do Dragão: A Casa que os Dragões Construíram	s	A	2022
-A Casa do Mickey Mouse	s	A	
 A Casa do Mickey Mouse	s	A	2006
 A Casa do Mickey Mouse Mais	s	A	
 A Casa do Mickey Mouse+	s	A	2025
@@ -43476,7 +43473,6 @@ A Jornada Heroica do Príncipe Ivandoé	s	A	2022
 A Jornalista	s	A	2022
 A Journey Through Another World Raising Kids While Adventuring	s	A	2024
 A Juíza do Inferno	s	A	2024
-A justiceira	s	A	
 A Justiceira	s	A	1997
 A Justiceira	s	A	2026
 A Killer Paradox	s	A	
@@ -44040,7 +44036,6 @@ All American	s	A
 All American - (6a temp. legendada)	s	A	2018
 All American: Novos Começos	s	A	
 All Creatures Great e Small	s	A	
-All Her Fault	s	A	
 All Her Fault	s	A	2025
 All Her Fault	s	A	2026
 All In The Family	s	A	
@@ -44057,7 +44052,6 @@ Allen v. Farrow	s	A
 Alma	s	A	
 Alma chan Wants to Be a Family	s	A	2025
 Alma de Cozinheira	s	A	
-Alma Gêmea	s	A	
 Alma Gêmea	s	A	2005
 Alma Gêmea	s	A	2026
 Alma Gêmea Indesejada	s	A	
@@ -44123,7 +44117,6 @@ American Sports Story	s	A
 American Sports Story: Aaron Hernandez	s	A	
 American Vandal	s	A	2017
 Amigas & Rivais	s	A	
-Amigas e Rivais	s	A	
 Amigas e Rivais	s	A	2001
 Amigas e Rivais	s	A	2007
 Amigas para Sempre	s	A	2021
@@ -44228,7 +44221,6 @@ Amor Perfeito	s	A
 Amor Platônico	s	A	2023
 Amor Por Acaso	s	A	
 Amor Por Promessa Acidental	s	A	
-Amor Proibido	s	A	
 Amor Proibido	s	A	2008
 Amor Proibido	s	A	2024
 Amor Real	s	A	2003
@@ -44377,7 +44369,6 @@ Apaixone Se Intensamente	s	A
 Apaixone se novamente	s	A	
 Aparente Maldade	s	A	2019
 Apartamento 6/9	s	A	2023
-Apartamento 69	s	A	
 Apenas Amigos - Sadece Arkadasiz	s	A	
 Apenas Cães	s	A	2018
 Apenas um Olhar	s	A	2025
@@ -45700,7 +45691,6 @@ Clube das Mães	s	C	2022
 Clube de Mergulho	s	C	
 Clube do Medo	s	C	2021
 Clube do Pititico	s	C	2000
-Clube do Terror	s	C	
 Clube do Terror	s	C	1992
 Clube do Terror	s	C	2019
 Clube Spelunca	s	C	2025
@@ -45714,7 +45704,6 @@ Cobras e Escadas	s	C
 Cobras e Lagartos	s	C	
 Cocaine Cowboys: The Kings of Miami	s	C	
 Cocomelon (2020 2024)	s	C	
-Cocoricó	s	C	
 Cocoricó	s	C	1996
 Cocoricó	s	C	2003
 Code 404	s	C	
@@ -45853,7 +45842,6 @@ Construindo a Justiça	s	C	2026
 Construindo no Alasca	s	C	
 Construindo no Alaska	s	C	
 Consumidas pelo Fogo	s	C	2023
-Contagem Regressiva	s	C	
 Contagem Regressiva	s	C	2018
 Contagem Regressiva	s	C	2025
 Contagem Regressiva: Jake Paul vs. Mike Tyson	s	C	2024
@@ -45966,7 +45954,6 @@ Counterpart: Mundo Paralelo	s	C	2017
 Courtois O Retorno do Numero 1	s	C	
 Coven Academy	s	C	2026
 Covert Affairs: Assuntos Confidenciais	s	C	
-Cowboy Bebop	s	C	
 Cowboy Bebop	s	C	1998
 Cowboy Bebop	s	C	2021
 Cowboy Cartel	s	C	
@@ -45976,7 +45963,6 @@ Cozinha de Alto Nível	s	C	2025
 Cozinha em Conta	s	C	
 Cozinha Selvagem: O Duelo	s	C	
 Cozinhando com Paris Hilton	s	C	
-Cozinhando em 420	s	C	
 Cozinhando em 4:20	s	C	
 Cozinhando o Impossível	s	C	
 Craftopia	s	C	
@@ -46297,7 +46283,6 @@ Desejo Obsessivo	s	D	2023
 Desejo Proibido	s	D	2007
 Desejo Sombrio	s	D	2020
 Desejos de Mulher	s	D	2002
-Desejos S.A	s	D	
 Desejos SA	s	D	
 Desencanto	s	D	2018
 Desenhos Animados do Novo Testamento	s	D	1987
@@ -46375,7 +46360,6 @@ Deuses Americanos	s	D
 Deuses Egípcios	s	D	2023
 Dever Após a Escola	s	D	2023
 Devil in Disguise: John Wayne Gacy	s	D	2025
-Devil May Cry	s	D	
 Devil May Cry	s	D	2007
 Devil May Cry	s	D	2025
 Devils	s	D	
@@ -46565,7 +46549,6 @@ Don Drácula	s	D
 Don't F**k with Cats: Uma Caçada Online	s	D	2019
 Don't Give Up!	s	D	
 Don't Look Deeper	s	D	
-DON'T TOY WITH ME, MISS NAGATORO	s	D	
 Dona Beija	s	D	1986
 Dona Beja	s	D	2026
 Dona de Mim	s	D	2025
@@ -46705,7 +46688,6 @@ Dupla do Barulho ao Resgate	s	D
 Dupla Identidade	s	D	2014
 Dupla Magnifica - Muhtesem Ikili	s	D	
 Duran	s	D	
-Durian's Affair	s	D	
 Durians Affair	s	D	
 Duster	s	D	2025
 Duvida	s	D	2024
@@ -46720,7 +46702,6 @@ E Minha Luz	s	E	2025
 e o Bebê!	s	E	
 É o Bruno!	s	E	
 É Ouro! O Brilho do Brasil em Tóquio	s	E	
-E Se voce Amar Demais - Ya Çok Seversen	s	E	
 E Se Você Amar Demais - Yaçok Seversen	s	E	
 É Sério Que Eu Sou o Mais Forte?	s	E	
 É Tudo Meu	s	E	2021
@@ -46758,7 +46739,6 @@ Ego (Erkege Guven Olmaz)	s	E
 Ei Arnold!	s	E	1996
 Einstein	s	E	
 Eizouken ni wa Te wo Dasu na!	s	E	
-El C.I.D	s	E	
 El Chapo	s	E	2017
 El Cid	s	E	
 El Hazard: The Wanderers	s	E	
@@ -46840,7 +46820,6 @@ Empire: Fama e Poder	s	E
 Empregadas Domesticas - Hizmetçiler	s	E	
 En of Love	s	E	
 Encantado's	s	E	
-Encantados	s	E	
 Encontrados	s	E	2023
 Encontrei Um Marido Bilionário E Sem-Teto Para o Natal	s	E	
 Encontrei um Marido Multimilionario Sem teto para o Natal	s	E	
@@ -47464,7 +47443,6 @@ Funk Doc Popular e Proibido	s	F
 Funk.Doc: Popular & Proibido	s	F	2022
 Funkbol	s	F	
 Furacao Katrina Corrida Contra o Tempo	s	F	
-Fúria	s	F	
 Fúria	s	F	2021
 Fúria	s	F	2026
 Fúria no Trânsito	s	F	2023
@@ -47602,7 +47580,6 @@ Gintama	s	G
 Gintama (2006-2018)	s	G	
 Ginyuu Mokushiroku Meine Liebe	s	G	
 Giri / Haji	s	G	
-GiriHaji	s	G	
 Girlboss	s	G	2017
 Girlfriend Girlfriend	s	G	2021
 Girls	s	G	2012
@@ -48081,7 +48058,6 @@ How To with John Wilson	s	H
 Hudson & Rex	s	H	2019
 Hudson e Rex	s	H	
 Hulk e os Agentes de S.M.A.S.H	s	H	2013
-Hulk e os Agentes de SMASH	s	H	
 Hulk Hogan: O Lutador	s	H	2026
 Humanidade: A História de Todos Nós	s	H	2012
 Humanos Extraordinários	s	H	
@@ -48157,7 +48133,6 @@ Ilha da Tentação: Brasil	s	I	2024
 Ilha das Formas	s	I	2023
 Ilha de Ferro	s	I	
 Ilha de Peixe Grande	s	I	2024
-Ilha do Amor	s	I	
 Ilha do Amor	s	I	2015
 Ilha do Amor	s	I	2019
 Ilha dos Desafios	s	I	2023
@@ -48517,7 +48492,6 @@ Juegos de amor y poder	s	J	2025
 Jujutsu Kaisen	s	J	2020
 Julia	s	J	2022
 Julie and the Phantoms	s	J	
-Julie e os Fantasmas	s	J	
 Julie e os Fantasmas	s	J	2011
 Julie e os Fantasmas	s	J	2020
 Jun e Jun	s	J	
@@ -48799,7 +48773,6 @@ Larry e a Busca da Infelicidade	s	L	2026
 Larva Island	s	L	
 Larva: Ilhados	s	L	2018
 Las Bravas F.C	s	L	
-Las Bravas FC	s	L	
 Las Pelotaris	s	L	1926
 Last Chance U: Basketball	s	L	2021
 Last Light	s	L	2022
@@ -48964,7 +48937,6 @@ Long Story Short	s	L	2025
 Long Vacation	s	L	1996
 Long Way Home	s	L	2020
 Longe de Você	s	L	
-Longe Demais	s	L	
 Longe Demais	s	L	2022
 Longe Demais	s	L	2024
 Longing for You	s	L	
@@ -49100,8 +49072,7 @@ Mãe	s	M	2016
 Mãe Só Tem Duas	s	M	2021
 Mãe solteira em fuga, segura em seus braços	s	M	
 Maebashi Witches	s	M	
-Mães A(r)madas	s	M	
-Maes Armadas	s	M	2019
+Mães A(r)madas	s	M	2019
 Mães da Máfia	s	M	
 Maes do Funk	s	M	
 Maes E Filhos Assassinato em Familia	s	M	
@@ -49350,7 +49321,6 @@ Masaba Masaba	s	M
 Masameer County	s	M	2021
 Masamune kuns Revenge	s	M	2017
 Masamune-kun no Revenge	s	M	
-Masamune-kun's Revenge	s	M	
 Máscaras	s	M	
 Máscaras de Oxigênio Não Cairão Automaticamente	s	M	2025
 Mascotes Extraordinários	s	M	
@@ -49721,7 +49691,6 @@ Miss Austen	s	M
 Miss Governor	s	M	
 Miss Hammurabi	s	M	
 Miss Kobayashi's Dragon Maid	s	M	2017
-Miss Kobayashis Dragon Maid	s	M	
 Miss Monochrome	s	M	
 Miss Scarlet	s	M	
 Miss Scarlet and the Duke	s	M	2020
@@ -49912,7 +49881,6 @@ Mulheres na Mina	s	M
 Mulheres no Rodeio Montadoras de Elite	s	M	
 Mulligan	s	M	
 Mundo Bita	s	M	
-Mundo da Lua	s	M	
 Mundo da Lua	s	M	1991
 Mundo da Lua	s	M	2025
 Mundo em Chamas	s	M	
@@ -50203,7 +50171,6 @@ No Limite	s	N
 No Limite da Lei	s	N	
 No Limite da Paixão	s	N	
 No Limite: Amazônia	s	N	
-No Man's Land	s	N	
 No Mans Land	s	N	
 No Mundo da Luna	s	N	
 No mundo inteiro, só você se conectou a mim	s	N	2026
@@ -51323,7 +51290,6 @@ Os Reis de Tupelo Crime e Conspiracao nos Estados Unidos	s	O
 Os Reis de Tupelo Crime e Conspiração nos EUA	s	O	
 Os Reis do Arpão	s	O	2025
 Os Reis do Esgoto	s	O	
-Os Ricos Também Choram	s	O	
 Os Ricos Também Choram	s	O	2005
 Os Ricos Também Choram	s	O	2022
 Os Ricos Também Choram [MEX]	s	O	
@@ -51355,8 +51321,7 @@ Os Thundermans	s	O	2013
 Os Thundermans: Disfarçados	s	O	2025
 Os Top Dez dos Anos 80	s	O	
 Os Topuria	s	O	2026
-Os Trapalhoes	s	O	
-Os Trapalhões	s	O	1977
+Os Trapalhoes	s	O	1977
 Os Trapalhoes	s	O	2017
 Os Últimos Czares	s	O	2019
 Os Últimos Dias de Ptolemy Grey	s	O	2022
@@ -51556,7 +51521,6 @@ Peaky Blinders	s	P
 Peaky Blinders: Sangue, Apostas e Navalhas	s	P	2013
 Pearl Harbor: Minuto a Minuto	s	P	2021
 Pearson	s	P	
-Pecado Capital	s	P	
 Pecado Capital	s	P	1976
 Pecado Capital	s	P	1998
 Pecado Mortal	s	P	2013
@@ -52230,7 +52194,6 @@ Regal Academy	s	R
 Regalia: The Three Sacred Stars	s	R	
 Registro de Criaturas Fantasticas	s	R	
 Regra do 80/20 do Amor	s	R	
-Regra do 8020 do Amor	s	R	
 Regra Principal Não se Apaixone por Ela (Girl Rules)	s	R	2026
 Regras do Amor	s	R	2007
 Regras Ocultas da Bíblia	s	R	2014
@@ -52622,8 +52585,7 @@ Scandal Love	s	S	2026
 Scandal: Os Bastidores do Poder	s	S	2012
 Scarpetta: Médica Legista	s	S	2026
 Scenes from a Marriage	s	S	
-Schitt's Creek	s	S	
-Schitts Creek	s	S	2015
+Schitt's Creek	s	S	2015
 Schloss Einstein	s	S	
 Schmigadoon!	s	S	2021
 Scholar Who Walks the Night	s	S	2015
@@ -52635,7 +52597,6 @@ Scissor Seven	s	S	2018
 Scooby-Doo e Convidados	s	S	
 Scooby-Doo e Scooby-Loo	s	S	1979
 Scooby-Doo! Mistério S/A	s	S	
-Scooby-Doo! Mistério SA	s	S	
 Scooby-Doo, Cadê Você?	s	S	1969
 Scooped Up by an S-Rank Adventurer!	s	S	2025
 Scorpion: Serviço de Inteligência	s	S	
@@ -52760,7 +52721,6 @@ Sem Filtro	s	S	2023
 Sem Filtro: Flamengo	s	S	
 Sem Folego - Nefes Nefese	s	S	
 Sem lar	s	S	
-Sem Limites	s	S	
 Sem Limites	s	S	2015
 Sem Limites	s	S	2022
 Sem Limites com Chris Hemsworth	s	S	
@@ -52795,7 +52755,6 @@ Señora Acero	s	S	2014
 Señorita 89	s	S	
 Señorita Pólvora	s	S	
 Senpai This Cant be Love	s	S	
-Sense 8	s	S	
 Sense8	s	S	2015
 Sente-se, seja humilde	s	S	
 Sentença	s	S	
@@ -52836,7 +52795,6 @@ Sex Education	s	S	2019
 Sex/Life	s	S	2021
 Sex: Atração Secreta	s	S	2020
 Sexify	s	S	2021
-SexLife	s	S	
 Sexo e a Cidade	s	S	
 Sexo e as Negas	s	S	2014
 Sexo, Sangue & Realeza	s	S	
@@ -52853,7 +52811,6 @@ Shadowverse Flame	s	S
 Shakespeare Ascensao de um Genio	s	S	
 Shaking the Bar	s	S	
 Shakugan No Shana	s	S	2005
-Shaman King	s	S	
 Shaman King	s	S	2001
 Shaman King	s	S	2021
 Shaman King Flowers	s	S	2024
@@ -53643,7 +53600,6 @@ The Eminence in Shadow	s	T	2022
 The End	s	T	
 The End of an Era	s	T	2025
 The End of the F***ing World	s	T	2017
-The End of the Fing World	s	T	
 The Endgame: Um Conto de Vingança	s	T	
 The Epoch of Miyu	s	T	2026
 The Equalizer	s	T	
@@ -53719,7 +53675,6 @@ The Great Gonzalez	s	T
 The Great Grape Ape Show	s	T	
 The Great North	s	T	2021
 The Great Pottery Throw Down	s	T	
-The Greatest Demon Lord Is Reborn as a Typical Nobody	s	T	
 The Greatest Demon Lord Is Reborn as a Typical Nobody	s	T	2022
 The Greatest Demon Lord Is Reborn as a Typical Nobody	s	T	2023
 The Gringo Hunters	s	T	2025
@@ -54270,9 +54225,8 @@ Tying the Knot with an Amagami Sister	s	T	2024
 Tyler Perry's Assisted Living	s	T	
 Tyler Perry's Ruthless	s	T	
 Tyler Perry's The Oval	s	T	2019
-Tyler Perry's Zatima	s	T	
+Tyler Perry's Zatima	s	T	2022
 Tyler Perrys Ruthless	s	T	2020
-Tyler Perrys Zatima	s	T	2022
 Typhoon Family	s	T	2025
 Tyrant	s	T	
 TYSON	s	T	2026
@@ -54514,7 +54468,6 @@ Vai, Cachorro. Vai!	s	V	2021
 Vale dos Esquecidos	s	V	
 Vale dos Reis: Tesouros do Egito	s	V	2019
 Vale o Escrito A Guerra do Jogo do Bicho	s	V	
-Vale Tudo	s	V	
 Vale Tudo	s	V	1988
 Vale Tudo	s	V	2025
 Vale Tudo com Tim Maia	s	V	
@@ -54946,7 +54899,7 @@ You Maniac	s	Y	2026
 You Me Her	s	Y	
 You re the Best Lee Soon Shin	s	Y	
 You Should Be The One To Come Kiss Me	s	Y	
-You're the Worst	s	Y	
+You're the Worst	s	Y	2014
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu	s	Y	
 Young David	s	Y	
 Young Famous e African	s	Y	2022
@@ -54965,7 +54918,6 @@ Your Love So Invincible	s	Y	2026
 Your Pretty Face Is Going to Hell	s	Y	
 Your Sky: Hare Nochi Koi	s	Y	
 Your Summer, My Storm	s	Y	
-Youre the Worst	s	Y	2014
 Youth	s	Y	2026
 Youth Water Polo	s	Y	
 Yu Gi Oh 5Ds	s	Y	2008

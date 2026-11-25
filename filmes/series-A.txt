@@ -85,7 +85,6 @@ A Casa das Sete Mulheres		5	55
 A Casa de Moda	2024	5	10
 A Casa do Dragão	2022	5	52
 A Casa do Dragão: A Casa que os Dragões Construíram	2022	5	18
-A Casa do Mickey Mouse		6	132
 A Casa do Mickey Mouse	2006	6	132
 A Casa do Mickey Mouse Mais		6	10
 A Casa do Mickey Mouse+	2025	6	10
@@ -348,7 +347,6 @@ A Jornada Heroica do Príncipe Ivandoé	2022	32	39
 A Jornalista	2022	32	6
 A Journey Through Another World Raising Kids While Adventuring	2024	32	11
 A Juíza do Inferno	2024	32	28
-A justiceira		32	14
 A Justiceira	1997	32	12
 A Justiceira	2026	32	14
 A Killer Paradox		32	8
@@ -912,7 +910,6 @@ All American		75	91
 All American - (6a temp. legendada)	2018	75	106
 All American: Novos Começos		75	47
 All Creatures Great e Small		75	34
-All Her Fault		75	8
 All Her Fault	2025	75	8
 All Her Fault	2026	75	8
 All In The Family		75	5
@@ -929,14 +926,13 @@ Allen v. Farrow		76	4
 Alma		76	9
 Alma chan Wants to Be a Family	2025	76	10
 Alma de Cozinheira		76	30
-Alma Gêmea		76	227
 Alma Gêmea	2005	76	227
 Alma Gêmea	2026	76	8
 Alma Gêmea Indesejada		76	39
 Alma Imoral		76	5
 Almas Perdidas		76	57
-Almost Paradise		77	20
-Alongamento		77	2
+Almost Paradise		76	20
+Alongamento		76	2
 Alp Arslan Grande Seljucida - Alparslan Büyük Selçuklu		77	61
 Alphonse	2023	77	6
 Alquimia das Almas	2022	77	30
@@ -951,10 +947,10 @@ Alto Mar		77	16
 Alucinação	2026	77	4
 Alvinnn!!! E os Esquilos	2015	77	104
 Alvo Humano		77	12
-Alvo Primário	2025	78	8
-Alya Sometimes Hides Her Feelings in Russian		78	12
-Amada e Ultrajada O Exercito na Historia do Brasil	2024	78	3
-Amagami SS		78	6
+Alvo Primário	2025	77	8
+Alya Sometimes Hides Her Feelings in Russian		77	12
+Amada e Ultrajada O Exercito na Historia do Brasil	2024	77	3
+Amagami SS		77	6
 AMANAT - AMANAT		78	32
 Amando o Inimigo	2024	78	12
 Amanhã	2022	78	16
@@ -970,8 +966,8 @@ Amar e Para os Fortes		78	7
 Amar Você de Novo, Meu Irmão Adotivo		78	1
 Amar, Perder…	2026	78	8
 Amarras do Amor	2019	78	48
-Amazing Grace	2021	79	8
-Amber Brown		79	10
+Amazing Grace	2021	78	8
+Amber Brown		78	10
 Ambição do Amor	2025	79	32
 Ambitions		79	18
 Ame-a ou Deixe-a: Vancouver	2013	79	118
@@ -995,7 +991,6 @@ American Sports Story		81	10
 American Sports Story: Aaron Hernandez		81	10
 American Vandal	2017	81	16
 Amigas & Rivais		81	140
-Amigas e Rivais		82	185
 Amigas e Rivais	2001	82	185
 Amigas e Rivais	2007	82	140
 Amigas para Sempre	2021	82	26
@@ -1100,11 +1095,10 @@ Amor Perfeito		90	161
 Amor Platônico	2023	90	20
 Amor Por Acaso		90	26
 Amor Por Promessa Acidental		90	1
-Amor Proibido		90	168
 Amor Proibido	2008	90	168
 Amor Proibido	2024	90	8
 Amor Real	2003	90	97
-Amor Real [MEX]		91	95
+Amor Real [MEX]		90	95
 Amor Rural	2022	91	12
 Amor Sadico		91	24
 Amor Secreto	2015	91	150
@@ -1249,7 +1243,6 @@ Apaixone Se Intensamente		100	48
 Apaixone se novamente		100	42
 Aparente Maldade	2019	100	6
 Apartamento 6/9	2023	100	6
-Apartamento 69		100	6
 Apenas Amigos - Sadece Arkadasiz		100	20
 Apenas Cães	2018	100	10
 Apenas um Olhar	2025	100	6

@@ -29,8 +29,7 @@ Mãe	2016	2	86
 Mãe Só Tem Duas	2021	2	27
 Mãe solteira em fuga, segura em seus braços		2	1
 Maebashi Witches		2	12
-Mães A(r)madas		2	13
-Maes Armadas	2019	2	13
+Mães A(r)madas	2019	2	13
 Mães da Máfia		2	6
 Maes do Funk		2	5
 Maes E Filhos Assassinato em Familia		2	7
@@ -279,7 +278,6 @@ Masaba Masaba		30	6
 Masameer County	2021	30	14
 Masamune kuns Revenge	2017	30	24
 Masamune-kun no Revenge		30	24
-Masamune-kun's Revenge		30	24
 Máscaras		30	125
 Máscaras de Oxigênio Não Cairão Automaticamente	2025	30	5
 Mascotes Extraordinários		30	6
@@ -650,7 +648,6 @@ Miss Austen		53	4
 Miss Governor		53	8
 Miss Hammurabi		53	16
 Miss Kobayashi's Dragon Maid	2017	53	27
-Miss Kobayashis Dragon Maid		53	27
 Miss Monochrome		53	39
 Miss Scarlet		53	30
 Miss Scarlet and the Duke	2020	53	24
@@ -841,7 +838,6 @@ Mulheres na Mina		63	6
 Mulheres no Rodeio Montadoras de Elite		63	6
 Mulligan		63	20
 Mundo Bita		63	76
-Mundo da Lua		63	11
 Mundo da Lua	1991	63	52
 Mundo da Lua	2025	63	11
 Mundo em Chamas		64	13

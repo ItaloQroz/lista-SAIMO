@@ -76,7 +76,6 @@ Larry e a Busca da Infelicidade	2026	6	7
 Larva Island		6	26
 Larva: Ilhados	2018	6	26
 Las Bravas F.C		6	16
-Las Bravas FC		6	16
 Las Pelotaris	1926	6	8
 Last Chance U: Basketball	2021	6	16
 Last Light	2022	6	10
@@ -241,7 +240,6 @@ Long Story Short	2025	20	10
 Long Vacation	1996	20	11
 Long Way Home	2020	20	10
 Longe de Você		20	10
-Longe Demais		20	90
 Longe Demais	2022	20	5
 Longe Demais	2024	20	90
 Longing for You		20	14

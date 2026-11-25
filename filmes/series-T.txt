@@ -264,14 +264,13 @@ The Eminence in Shadow	2022	15	32
 The End		15	10
 The End of an Era	2025	15	6
 The End of the F***ing World	2017	15	16
-The End of the Fing World		15	16
 The Endgame: Um Conto de Vingança		15	10
 The Epoch of Miyu	2026	15	5
 The Equalizer		15	56
 The Equalizer A Protetora	2021	15	123
 The Eternal Fragrance	2026	15	33
 The Ex Wife		15	8
-The Exiled Heavy Knight Knows How to Game the System	2026	16	5
+The Exiled Heavy Knight Knows How to Game the System	2026	15	5
 The Exodite	2022	16	3
 The Expanse	2015	16	62
 The Fable		16	25
@@ -340,7 +339,6 @@ The Great Gonzalez		19	10
 The Great Grape Ape Show		19	16
 The Great North	2021	20	97
 The Great Pottery Throw Down		20	10
-The Greatest Demon Lord Is Reborn as a Typical Nobody		20	12
 The Greatest Demon Lord Is Reborn as a Typical Nobody	2022	20	12
 The Greatest Demon Lord Is Reborn as a Typical Nobody	2023	20	12
 The Gringo Hunters	2025	20	12
@@ -891,9 +889,8 @@ Tying the Knot with an Amagami Sister	2024	56	48
 Tyler Perry's Assisted Living		56	25
 Tyler Perry's Ruthless		56	105
 Tyler Perry's The Oval	2019	56	69
-Tyler Perry's Zatima		56	70
+Tyler Perry's Zatima	2022	56	70
 Tyler Perrys Ruthless	2020	56	116
-Tyler Perrys Zatima	2022	56	70
 Typhoon Family	2025	56	17
 Tyrant		56	32
 TYSON	2026	56	4

@@ -1009,7 +1009,6 @@ Os Reis de Tupelo Crime e Conspiracao nos Estados Unidos		71	3
 Os Reis de Tupelo Crime e Conspiração nos EUA		71	3
 Os Reis do Arpão	2025	71	9
 Os Reis do Esgoto		71	6
-Os Ricos Também Choram		71	152
 Os Ricos Também Choram	2005	71	152
 Os Ricos Também Choram	2022	71	60
 Os Ricos Também Choram [MEX]		71	60
@@ -1041,8 +1040,7 @@ Os Thundermans	2013	75	101
 Os Thundermans: Disfarçados	2025	75	26
 Os Top Dez dos Anos 80		75	6
 Os Topuria	2026	75	3
-Os Trapalhoes		75	203
-Os Trapalhões	1977	75	203
+Os Trapalhoes	1977	75	203
 Os Trapalhoes	2017	75	9
 Os Últimos Czares	2019	75	12
 Os Últimos Dias de Ptolemy Grey	2022	75	6

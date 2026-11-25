@@ -123,8 +123,7 @@ Scandal Love	2026	10	10
 Scandal: Os Bastidores do Poder	2012	10	123
 Scarpetta: Médica Legista	2026	10	8
 Scenes from a Marriage		10	5
-Schitt's Creek		11	80
-Schitts Creek	2015	11	80
+Schitt's Creek	2015	11	80
 Schloss Einstein		11	33
 Schmigadoon!	2021	11	12
 Scholar Who Walks the Night	2015	11	20
@@ -135,8 +134,7 @@ Science Fell in Love, So I Tried to Prove it		11	12
 Scissor Seven	2018	11	44
 Scooby-Doo e Convidados		11	52
 Scooby-Doo e Scooby-Loo	1979	11	144
-Scooby-Doo! Mistério S/A		11	52
-Scooby-Doo! Mistério SA		12	52
+Scooby-Doo! Mistério S/A		12	52
 Scooby-Doo, Cadê Você?	1969	12	25
 Scooped Up by an S-Rank Adventurer!	2025	12	11
 Scorpion: Serviço de Inteligência		12	94
@@ -158,9 +156,9 @@ Se eu fosse Luísa Sonza	2023	12	3
 Se eu Fosse uma Nuvem - Bir Bulut Olsam		12	29
 Se Eu Não Tivesse Te Conhecido		12	10
 Se Eu Soubesse	2022	12	8
-Se o Destino Quiser	2023	12	40
-Se os homens Amam - Erkek Severse		12	26
-se Puder		12	7
+Se o Destino Quiser	2023	13	40
+Se os homens Amam - Erkek Severse		13	26
+se Puder		13	7
 Se Sobreviver, Case	2020	13	100
 Se Te Amar e Um Pecado Queimarei no Inferno		13	1
 Se Vira com Pouco - A Batalha		13	6
@@ -173,14 +171,14 @@ Search WWW		13	16
 Sebeke		13	10
 SEC: Sábados de Futebol Americano Universitário	2025	13	7
 Second Chance		13	6
-Second Chance Romance		13	28
-Seconds	2024	13	12
-Secretos de Estado		13	13
-Secrets of the Silent Witch	2025	13	11
-Section Zéro	2016	13	7
-Seculo Magnifico Kosem - Muhteşem Yüzyıl Kösem		13	60
-Seducao Mortal		13	8
-Seduced: Inside the NXIVM Cult	2020	13	4
+Second Chance Romance		14	28
+Seconds	2024	14	12
+Secretos de Estado		14	13
+Secrets of the Silent Witch	2025	14	11
+Section Zéro	2016	14	7
+Seculo Magnifico Kosem - Muhteşem Yüzyıl Kösem		14	60
+Seducao Mortal		14	8
+Seduced: Inside the NXIVM Cult	2020	14	4
 See	2019	14	24
 See You Tomorrow at the Food Court		14	6
 See Your Love		14	13
@@ -212,11 +210,11 @@ Segredos que Mudaram o Mundo		14	4
 Segredos Sordidos Dean Corll e John Wayne Gacy		14	2
 Seguidores		14	9
 Segunda Chamada		14	17
-Segunda Chance no Amor	2025	14	12
-Segunda Chance: Academia de Ginástica		14	10
-Segunda Guerra em Cores: Caminho para a Vitória		14	10
-Segunda Guerra Mundial - Com Tom Hanks	2026	14	20
-Segundas Intenções	2024	14	8
+Segunda Chance no Amor	2025	15	12
+Segunda Chance: Academia de Ginástica		15	10
+Segunda Guerra em Cores: Caminho para a Vitória		15	10
+Segunda Guerra Mundial - Com Tom Hanks	2026	15	20
+Segundas Intenções	2024	15	8
 Segundo Sol		15	155
 Segura a Onda		15	98
 Segurança em Jogo		15	6
@@ -261,7 +259,6 @@ Sem Filtro	2023	17	10
 Sem Filtro: Flamengo		17	7
 Sem Folego - Nefes Nefese		17	10
 Sem lar		17	4
-Sem Limites		17	22
 Sem Limites	2015	17	22
 Sem Limites	2022	17	6
 Sem Limites com Chris Hemsworth		17	6
@@ -296,7 +293,6 @@ Señora Acero	2014	21	395
 Señorita 89		21	16
 Señorita Pólvora		21	20
 Senpai This Cant be Love		21	8
-Sense 8		21	25
 Sense8	2015	21	25
 Sente-se, seja humilde		21	2
 Sentença		21	6
@@ -337,7 +333,6 @@ Sex Education	2019	24	32
 Sex/Life	2021	24	14
 Sex: Atração Secreta	2020	24	6
 Sexify	2021	24	16
-SexLife		24	14
 Sexo e a Cidade		24	94
 Sexo e as Negas	2014	24	13
 Sexo, Sangue & Realeza		24	3
@@ -354,12 +349,11 @@ Shadowverse Flame		25	77
 Shakespeare Ascensao de um Genio		25	3
 Shaking the Bar		25	10
 Shakugan No Shana	2005	25	24
-Shaman King		25	52
 Shaman King	2001	25	64
 Shaman King	2021	25	52
 Shaman King Flowers	2024	25	25
 Shameless		25	132
-Shameless Hall of Shame	2020	26	6
+Shameless Hall of Shame	2020	25	6
 Shangri-La Frontier	2023	26	148
 Shantaram		26	12
 Shardlake		26	4
@@ -368,7 +362,7 @@ Shark Academy Cancoes Para Criancas	2020	26	25
 Shark Tank Brasil		26	128
 Shark Tank Brasil: Negociando com Tubarões	2016	26	132
 Shasha e Milo	2023	26	25
-Shaun, o Carneiro	2007	27	150
+Shaun, o Carneiro	2007	26	150
 She the People	2025	27	8
 She Would Never Know	2021	27	16
 She-Ra e as Princesas do Poder	2018	27	52
@@ -393,15 +387,15 @@ Shining Vale		27	15
 Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei		27	12
 Shinobi no Ittoki		27	12
 Shippados		27	12
-Shiranai Uchi ni Level Max ni Nattemashita		28	14
-SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life		28	1
-Shooting Stars		28	16
-Shoujo Kakumei Utena		28	39
-Show da Virada		28	2
-Show do Elmo		28	29
-Show Do Milhao	2024	28	34
-Show do Milhao PicPay		28	3
-Shting Stars		28	16
+Shiranai Uchi ni Level Max ni Nattemashita		27	14
+SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life		27	1
+Shooting Stars		27	16
+Shoujo Kakumei Utena		27	39
+Show da Virada		27	2
+Show do Elmo		27	29
+Show Do Milhao	2024	27	34
+Show do Milhao PicPay		27	3
+Shting Stars		27	16
 Shurato	1989	28	38
 SHY	2023	28	47
 SI VIS The Sound of Heroes	2025	28	19

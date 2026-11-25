@@ -498,7 +498,6 @@ Clube das Mães	2022	44	16
 Clube de Mergulho		44	12
 Clube do Medo	2021	44	20
 Clube do Pititico	2000	44	80
-Clube do Terror		44	26
 Clube do Terror	1992	44	26
 Clube do Terror	2019	44	12
 Clube Spelunca	2025	44	10
@@ -512,14 +511,13 @@ Cobras e Escadas		45	8
 Cobras e Lagartos		45	130
 Cocaine Cowboys: The Kings of Miami		45	6
 Cocomelon (2020 2024)		45	393
-Cocoricó		46	233
 Cocoricó	1996	46	233
 Cocoricó	2003	46	263
 Code 404		46	12
 Code Geass	2006	46	50
 Codex 632		46	6
 Código do Silêncio	2025	46	6
-Código Negro	2015	47	94
+Código Negro	2015	46	94
 Coffee Melody		47	12
 Coiote, Herói e Fera	2025	47	8
 Coiotes	2021	47	6
@@ -542,7 +540,7 @@ Colony	2016	47	36
 Color Rush		47	16
 Columbo	1971	47	31
 Com a Permissão do Tribunal		47	12
-Com Água até o Pescoço	2011	48	149
+Com Água até o Pescoço	2011	47	149
 Com Amor	2021	48	11
 Com Amor, Meghan	2025	48	8
 Com Amor, Victor		48	28
@@ -651,7 +649,6 @@ Construindo a Justiça	2026	52	12
 Construindo no Alasca		52	99
 Construindo no Alaska		53	99
 Consumidas pelo Fogo	2023	53	8
-Contagem Regressiva		53	13
 Contagem Regressiva	2018	53	6
 Contagem Regressiva	2025	53	13
 Contagem Regressiva: Jake Paul vs. Mike Tyson	2024	53	3
@@ -764,7 +761,6 @@ Counterpart: Mundo Paralelo	2017	60	20
 Courtois O Retorno do Numero 1		60	4
 Coven Academy	2026	60	21
 Covert Affairs: Assuntos Confidenciais		61	75
-Cowboy Bebop		61	26
 Cowboy Bebop	1998	61	26
 Cowboy Bebop	2021	61	10
 Cowboy Cartel		61	4
@@ -774,7 +770,6 @@ Cozinha de Alto Nível	2025	61	8
 Cozinha em Conta		61	8
 Cozinha Selvagem: O Duelo		61	8
 Cozinhando com Paris Hilton		61	6
-Cozinhando em 420		61	12
 Cozinhando em 4:20		61	12
 Cozinhando o Impossível		61	8
 Craftopia		61	12

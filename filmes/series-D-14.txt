@@ -1,3 +1,38 @@
+@Desjuntados	
+1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5604629.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2537377.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/7261.mp4
+1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5604630.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2537378.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/7262.mp4
+1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5604631.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2537379.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/7264.mp4
+1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5604632.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2537380.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/7265.mp4
+1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5604633.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2537381.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/7266.mp4
+1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5604634.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2537382.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/7268.mp4
+1	7	dub	http://64.31.23.207:80/series/96795792/50165825/5604635.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2537383.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/7269.mp4
+@Deslizando para o Amor	
+1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670698.mp4
+1	2	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670699.mp4
+1	3	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670700.mp4
+1	4	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670701.mp4
+1	5	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670702.mp4
+1	6	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670703.mp4
+1	7	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670704.mp4
+1	8	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670705.mp4
+@Deslocados: A Série	
+1	1	dub	http://64.31.23.207:80/series/96795792/50165825/5605389.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2511714.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/138500.mp4
+1	2	dub	http://64.31.23.207:80/series/96795792/50165825/5605390.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2511715.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/138501.mp4
+1	3	dub	http://64.31.23.207:80/series/96795792/50165825/5605391.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2511716.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/138502.mp4
+1	4	dub	http://64.31.23.207:80/series/96795792/50165825/5605392.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2511717.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/138503.mp4
+1	5	dub	http://64.31.23.207:80/series/96795792/50165825/5605393.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2511718.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/138504.mp4
+1	6	dub	http://64.31.23.207:80/series/96795792/50165825/5605394.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2511719.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/138505.mp4
+1	7	dub	http://64.31.23.207:80/series/96795792/50165825/5605395.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2511720.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/138506.mp4
+1	8	dub	http://64.31.23.207:80/series/96795792/50165825/5605396.mp4,http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2511721.mp4,http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/138507.mp4
+@Deslumbrada	
+1	1	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2535875.mp4
+1	1	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670785.mp4
+1	2	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2535876.mp4
+1	2	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670786.mp4
+1	3	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2535877.mp4
+1	3	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670787.mp4
+1	4	dub	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2535878.mp4
+1	4	leg	http://acaidopt.org:80/series/3llohwk4g9/kwf099q30o/2670788.mp4
 @Deslumbrante	2026
 1	1	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/289874.mp4,http://64.31.23.207:80/series/96795792/50165825/5663798.mp4
 1	2	leg	http://dbonline.tech-cdn.top:80/series/ke-vin-0928392083/PZjF6XATTZ/289875.mp4,http://64.31.23.207:80/series/96795792/50165825/5663799.mp4

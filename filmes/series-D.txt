@@ -216,7 +216,6 @@ Desejo Obsessivo	2023	13	8
 Desejo Proibido	2007	13	155
 Desejo Sombrio	2020	13	33
 Desejos de Mulher	2002	13	185
-Desejos S.A		13	6
 Desejos SA		13	6
 Desencanto	2018	13	50
 Desenhos Animados do Novo Testamento	1987	13	24
@@ -229,10 +228,10 @@ Design Fora da Curva com Lil Jon		13	11
 Designated Survivor	2016	13	53
 Designers do Brasil		13	20
 Designers, Só Que Não!		13	15
-Desjuntados		13	7
-Deslizando para o Amor		13	8
-Deslocados: A Série		13	8
-Deslumbrada		13	8
+Desjuntados		14	7
+Deslizando para o Amor		14	8
+Deslocados: A Série		14	8
+Deslumbrada		14	8
 Deslumbrante	2026	14	30
 Desmascarado	2025	14	12
 Desmascarando um Monstro: Aileen Wuornos	2026	14	3
@@ -294,7 +293,6 @@ Deuses Americanos		18	26
 Deuses Egípcios	2023	18	3
 Dever Após a Escola	2023	18	10
 Devil in Disguise: John Wayne Gacy	2025	18	8
-Devil May Cry		18	16
 Devil May Cry	2007	18	12
 Devil May Cry	2025	18	16
 Devils		18	18
@@ -484,7 +482,6 @@ Don Drácula		29	8
 Don't F**k with Cats: Uma Caçada Online	2019	29	3
 Don't Give Up!		29	24
 Don't Look Deeper		29	14
-DON'T TOY WITH ME, MISS NAGATORO		29	24
 Dona Beija	1986	30	78
 Dona Beja	2026	30	40
 Dona de Mim	2025	30	219
@@ -624,7 +621,6 @@ Dupla do Barulho ao Resgate		44	21
 Dupla Identidade	2014	45	13
 Dupla Magnifica - Muhtesem Ikili		45	12
 Duran		45	9
-Durian's Affair		45	16
 Durians Affair		45	16
 Duster	2025	45	8
 Duvida	2024	45	21
